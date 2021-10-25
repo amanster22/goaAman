@@ -1,111 +1,111 @@
-﻿Country,Year,Income,Happy Score
-Afghanistan,2009,1960,47.6
-Afghanistan,2010,1910,38.3
-Afghanistan,2011,2080,37.8
-Afghanistan,2012,2120,35.7
-Afghanistan,2013,2100,31.3
-Afghanistan,2014,2070,39.8
-Afghanistan,2015,2060,42.2
-Afghanistan,2016,2060,26.6
-Afghanistan,2017,2030,26.9
-Afghanistan,2018,2070,25.7
-Brazil,2009,14900,68.4
-Brazil,2010,15300,70.4
-Brazil,2011,15500,66.6
-Brazil,2012,15800,71.4
-Brazil,2013,15700,69.8
-Brazil,2014,15100,65.5
-Brazil,2015,14400,63.7
-Brazil,2016,14500,63.3
-Brazil,2017,14600,61.9
-Brazil,2018,14700,63.8
-Canada,2009,45000,76.5
-Canada,2010,45900,74.3
-Canada,2011,46200,74.2
-Canada,2012,46800,75.9
-Canada,2013,47700,73
-Canada,2014,47600,74.1
-Canada,2015,47600,72.4
-Canada,2016,48500,74.1
-Canada,2017,48800,71.8
-Canada,2018,48900,72.3
-China,2009,8890,46.5
-China,2010,9690,50.4
-China,2011,10400,50.9
-China,2012,11200,52.4
-China,2013,11900,52
-China,2014,12700,53
-China,2015,13500,53.2
-China,2016,14300,51
-China,2017,15200,51.3
-China,2018,16100,51.2
-Haiti,2009,2740,37.7
-Haiti,2010,2860,48.4
-Haiti,2011,2830,44.1
-Haiti,2012,2880,46.2
-Haiti,2013,2940,38.9
-Haiti,2014,2940,35.7
-Haiti,2015,2950,33.5
-Haiti,2016,2980,38.2
-Haiti,2017,2990,36.1
-Haiti,2018,2910,37.2
-India,2009,4230,49.9
-India,2010,4390,46.3
-India,2011,4580,47.2
-India,2012,4810,44.3
-India,2013,5110,44.2
-India,2014,5450,43.4
-India,2015,5840,41.8
-India,2016,6190,40.5
-India,2017,6500,38.2
-India,2018,6700,35.7
-Indonesia,2009,8290,54.6
-Indonesia,2010,8680,51.7
-Indonesia,2011,9080,53.7
-Indonesia,2012,9460,52.9
-Indonesia,2013,9800,56
-Indonesia,2014,10200,50.4
-Indonesia,2015,10500,51.4
-Indonesia,2016,10900,51
-Indonesia,2017,11400,53.4
-Indonesia,2018,11800,52.9
-Mexico,2009,17800,68
-Mexico,2010,18200,69.1
-Mexico,2011,18700,73.2
-Mexico,2012,18700,74.4
-Mexico,2013,18900,66.8
-Mexico,2014,19300,62.4
-Mexico,2015,19600,68.2
-Mexico,2016,19800,64.1
-Mexico,2017,20000,65.5
-Mexico,2018,19800,64.7
-United Arab Emirates,2009,54900,71
-United Arab Emirates,2010,56100,71.2
-United Arab Emirates,2011,57400,72.2
-United Arab Emirates,2012,59900,66.2
-United Arab Emirates,2013,62400,65.4
-United Arab Emirates,2014,65200,65.7
-United Arab Emirates,2015,66500,68.3
-United Arab Emirates,2016,67200,70.4
-United Arab Emirates,2017,67000,66
-United Arab Emirates,2018,67100,67.9
-United ingdom,2009,42100,70.3
-United Kingdom,2010,42500,68.7
-United Kingdom,2011,42800,68.8
-United Kingdom,2012,43400,69.2
-United Kingdom,2013,44200,67.6
-United Kingdom,2014,44900,65.2
-United Kingdom,2015,45400,68.2
-United Kingdom,2016,46000,71
-United Kingdom,2017,46300,72.3
-United Kingdom,2018,46700,71.6
-United States,2009,54400,71.6
-United States,2010,54800,71.2
-United States,2011,55600,70.3
-United States,2012,56300,72.5
-United States,2013,57300,71.5
-United States,2014,58500,68.6
-United States,2015,59000,68
-United States,2016,60100,69.9
-United States,2017,61500,68.8
-United States,2018,62500,69.4
+﻿country,Year,income,hapiscore_whr,,14.9
+Afghanistan,2009,1960,47.6,,
+Afghanistan,2010,1910,38.3,,
+Afghanistan,2011,2080,37.8,,
+Afghanistan,2012,2120,35.7,,
+Afghanistan,2013,2100,31.3,,
+Afghanistan,2014,2070,39.8,,
+Afghanistan,2015,2060,42.2,,
+Afghanistan,2016,2060,26.6,,
+Afghanistan,2017,2030,26.9,,
+Afghanistan,2018,2070,25.7,,
+Brazil,2009,14900,68.4,,
+Brazil,2010,15300,70.4,,
+Brazil,2011,15500,66.6,,
+Brazil,2012,15800,71.4,,
+Brazil,2013,15700,69.8,,
+Brazil,2014,15100,65.5,,
+Brazil,2015,14400,63.7,,
+Brazil,2016,14500,63.3,,
+Brazil,2017,14600,61.9,,
+Brazil,2018,14700,63.8,,
+Canada,2009,45000,76.5,,
+Canada,2010,45900,74.3,,
+Canada,2011,46200,74.2,,
+Canada,2012,46800,75.9,,
+Canada,2013,47700,73,,
+Canada,2014,47600,74.1,,
+Canada,2015,47600,72.4,,
+Canada,2016,48500,74.1,,
+Canada,2017,48800,71.8,,
+Canada,2018,48900,72.3,,
+China,2009,8890,46.5,,
+China,2010,9690,50.4,,
+China,2011,10400,50.9,,
+China,2012,11200,52.4,,
+China,2013,11900,52,,
+China,2014,12700,53,,
+China,2015,13500,53.2,,
+China,2016,14300,51,,
+China,2017,15200,51.3,,
+China,2018,16100,51.2,,
+Haiti,2009,2740,37.7,,
+Haiti,2010,2860,48.4,,
+Haiti,2011,2830,44.1,,
+Haiti,2012,2880,46.2,,
+Haiti,2013,2940,38.9,,
+Haiti,2014,2940,35.7,,
+Haiti,2015,2950,33.5,,
+Haiti,2016,2980,38.2,,
+Haiti,2017,2990,36.1,,
+Haiti,2018,2910,37.2,,
+India,2009,4230,49.9,,
+India,2010,4390,46.3,,
+India,2011,4580,47.2,,
+India,2012,4810,44.3,,
+India,2013,5110,44.2,,
+India,2014,5450,43.4,,
+India,2015,5840,41.8,,
+India,2016,6190,40.5,,
+India,2017,6500,38.2,,
+India,2018,6700,35.7,,
+Indonesia,2009,8290,54.6,,
+Indonesia,2010,8680,51.7,,
+Indonesia,2011,9080,53.7,,
+Indonesia,2012,9460,52.9,,
+Indonesia,2013,9800,56,,
+Indonesia,2014,10200,50.4,,
+Indonesia,2015,10500,51.4,,
+Indonesia,2016,10900,51,,
+Indonesia,2017,11400,53.4,,
+Indonesia,2018,11800,52.9,,
+Mexico,2009,17800,68,,
+Mexico,2010,18200,69.1,,
+Mexico,2011,18700,73.2,,
+Mexico,2012,18700,74.4,,
+Mexico,2013,18900,66.8,,
+Mexico,2014,19300,62.4,,
+Mexico,2015,19600,68.2,,
+Mexico,2016,19800,64.1,,
+Mexico,2017,20000,65.5,,
+Mexico,2018,19800,64.7,,
+United Arab Emirates,2009,54900,71,,
+United Arab Emirates,2010,56100,71.2,,
+United Arab Emirates,2011,57400,72.2,,
+United Arab Emirates,2012,59900,66.2,,
+United Arab Emirates,2013,62400,65.4,,
+United Arab Emirates,2014,65200,65.7,,
+United Arab Emirates,2015,66500,68.3,,
+United Arab Emirates,2016,67200,70.4,,
+United Arab Emirates,2017,67000,66,,
+United Arab Emirates,2018,67100,67.9,,
+United Kingdom,2009,42100,70.3,,
+United Kingdom,2010,42500,68.7,,
+United Kingdom,2011,42800,68.8,,
+United Kingdom,2012,43400,69.2,,
+United Kingdom,2013,44200,67.6,,
+United Kingdom,2014,44900,65.2,,
+United Kingdom,2015,45400,68.2,,
+United Kingdom,2016,46000,71,,
+United Kingdom,2017,46300,72.3,,
+United Kingdom,2018,46700,71.6,,
+United States,2009,54400,71.6,,
+United States,2010,54800,71.2,,
+United States,2011,55600,70.3,,
+United States,2012,56300,72.5,,
+United States,2013,57300,71.5,,
+United States,2014,58500,68.6,,
+United States,2015,59000,68,,
+United States,2016,60100,69.9,,
+United States,2017,61500,68.8,,
+United States,2018,62500,69.4,,
