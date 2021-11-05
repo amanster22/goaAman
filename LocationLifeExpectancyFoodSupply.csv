@@ -1,0 +1,919 @@
+Country,Year,LifeExpectancy,FoodSupply
+Afghanistan,1960,45.3,3000
+Afghanistan,1961,45.5,2920
+Afghanistan,1962,45.7,2700
+Afghanistan,1963,45.9,2950
+Afghanistan,1964,46.1,2960
+Afghanistan,1965,46.3,2740
+Afghanistan,1966,46.5,2970
+Afghanistan,1967,46.7,2920
+Afghanistan,1968,46.9,2940
+Afghanistan,1969,47.1,2530
+Afghanistan,1970,47.3,2510
+Afghanistan,1971,47.3,2660
+Afghanistan,1972,47.3,2720
+Afghanistan,1973,47.4,2710
+Afghanistan,1974,47.5,2750
+Afghanistan,1975,47.7,2820
+Afghanistan,1976,47.9,2490
+Afghanistan,1977,46.4,2620
+Afghanistan,1978,44.7,2620
+Afghanistan,1979,43.7,2480
+Afghanistan,1980,44.3,2480
+Afghanistan,1981,44.1,2480
+Afghanistan,1982,42.3,2520
+Afghanistan,1983,39.9,2450
+Afghanistan,1984,42,2400
+Afghanistan,1985,43.3,2400
+Afghanistan,1986,45.9,2730
+Afghanistan,1987,48.5,2520
+Afghanistan,1988,52.7,2460
+Afghanistan,1989,53.8,2310
+Afghanistan,1990,53.8,2040
+Afghanistan,1991,54.2,1890
+Afghanistan,1992,54.4,1910
+Afghanistan,1993,53.9,1820
+Afghanistan,1994,54.3,1840
+Afghanistan,1995,54.7,1840
+Afghanistan,1996,54.5,1870
+Afghanistan,1997,53.3,1900
+Afghanistan,1998,54.7,1850
+Afghanistan,1999,54.7,1790
+Afghanistan,2000,54.8,1740
+Afghanistan,2001,55.5,1830
+Afghanistan,2002,56.5,1890
+Afghanistan,2003,57.1,1970
+Afghanistan,2004,57.6,1950
+Afghanistan,2005,58,1970
+Afghanistan,2006,58.5,2050
+Afghanistan,2007,59.2,2040
+Afghanistan,2008,59.9,2080
+Afghanistan,2009,60.5,2100
+Afghanistan,2010,61,2110
+Brazil,1960,53,2210
+Brazil,1961,53.5,2270
+Brazil,1962,54,2240
+Brazil,1963,54.4,2310
+Brazil,1964,54.8,2330
+Brazil,1965,55.2,2330
+Brazil,1966,55.6,2370
+Brazil,1967,56.1,2460
+Brazil,1968,56.5,2430
+Brazil,1969,56.9,2410
+Brazil,1970,57.5,2430
+Brazil,1971,58,2400
+Brazil,1972,58.6,2390
+Brazil,1973,59.2,2480
+Brazil,1974,59.8,2490
+Brazil,1975,60.4,2520
+Brazil,1976,61.1,2550
+Brazil,1977,61.7,2600
+Brazil,1978,62.3,2700
+Brazil,1979,62.7,2700
+Brazil,1980,63.3,2600
+Brazil,1981,63.9,2640
+Brazil,1982,64.1,2600
+Brazil,1983,64.2,2600
+Brazil,1984,64.6,2630
+Brazil,1985,65.1,2680
+Brazil,1986,65.7,2690
+Brazil,1987,66.1,2690
+Brazil,1988,66.7,2740
+Brazil,1989,67.3,2720
+Brazil,1990,67.9,2780
+Brazil,1991,68.3,2770
+Brazil,1992,68.4,2770
+Brazil,1993,68.8,2820
+Brazil,1994,69.2,2810
+Brazil,1995,69.5,2840
+Brazil,1996,70.1,2850
+Brazil,1997,70.4,2850
+Brazil,1998,70.8,2870
+Brazil,1999,71.2,2880
+Brazil,2000,71.5,2890
+Brazil,2001,71.8,2930
+Brazil,2002,72,3070
+Brazil,2003,72.3,3080
+Brazil,2004,72.8,3080
+Brazil,2005,73.1,3100
+Brazil,2006,73.3,3110
+Brazil,2007,73.5,3180
+Brazil,2008,73.7,3170
+Brazil,2009,73.8,3230
+Brazil,2010,74,3290
+Canada,1960,71.3,1910
+Canada,1961,71.4,1880
+Canada,1962,71.5,1950
+Canada,1963,71.8,1920
+Canada,1964,71.9,1930
+Canada,1965,72,1950
+Canada,1966,72.2,1970
+Canada,1967,72.4,2020
+Canada,1968,72.6,2020
+Canada,1969,72.8,2090
+Canada,1970,73,2070
+Canada,1971,73,2020
+Canada,1972,73.2,1940
+Canada,1973,73.4,1900
+Canada,1974,73.6,1600
+Canada,1975,74,1520
+Canada,1976,74.3,1540
+Canada,1977,74.6,1580
+Canada,1978,74.9,1620
+Canada,1979,75.2,1680
+Canada,1980,75.5,1780
+Canada,1981,75.8,1810
+Canada,1982,76.1,1880
+Canada,1983,76.3,1860
+Canada,1984,76.4,1800
+Canada,1985,76.6,1780
+Canada,1986,76.8,1900
+Canada,1987,77,1940
+Canada,1988,77.2,1890
+Canada,1989,77.4,1940
+Canada,1990,77.6,2010
+Canada,1991,77.8,2040
+Canada,1992,77.8,2030
+Canada,1993,78,2040
+Canada,1994,78.1,2040
+Canada,1995,78.4,1900
+Canada,1996,78.6,1900
+Canada,1997,78.8,1980
+Canada,1998,79.1,2050
+Canada,1999,79.4,2120
+Canada,2000,79.6,2170
+Canada,2001,79.8,2260
+Canada,2002,80,2260
+Canada,2003,80.2,2280
+Canada,2004,80.4,2330
+Canada,2005,80.7,2380
+Canada,2006,80.9,2390
+Canada,2007,81.1,2400
+Canada,2008,81.4,2420
+Canada,2009,81.6,2420
+Canada,2010,81.9,2430
+China,1960,40.8,2810
+China,1961,53.5,2840
+China,1962,57.4,2900
+China,1963,57.9,2800
+China,1964,58.5,2920
+China,1965,59,2920
+China,1966,59.5,2950
+China,1967,59.9,2930
+China,1968,60.4,2980
+China,1969,60.9,2960
+China,1970,61.4,2930
+China,1971,61.9,2940
+China,1972,62.4,2970
+China,1973,62.5,2970
+China,1974,62.8,2880
+China,1975,62.6,3030
+China,1976,63.5,3010
+China,1977,63.8,2930
+China,1978,64,2930
+China,1979,64.4,2950
+China,1980,64.7,2900
+China,1981,65.3,2960
+China,1982,65.7,2920
+China,1983,66.1,2990
+China,1984,66.6,3040
+China,1985,67.1,3090
+China,1986,67.3,3140
+China,1987,67.5,3020
+China,1988,67.7,3040
+China,1989,68.1,3020
+China,1990,68.4,3040
+China,1991,68.7,3090
+China,1992,69,3120
+China,1993,69.4,3210
+China,1994,69.8,3210
+China,1995,70.1,3250
+China,1996,70.5,3390
+China,1997,70.9,3460
+China,1998,71.2,3500
+China,1999,71.3,3510
+China,2000,71.7,3500
+China,2001,72,3500
+China,2002,72.3,3520
+China,2003,72.5,3530
+China,2004,73,3480
+China,2005,73.7,3470
+China,2006,74.2,3480
+China,2007,74.3,3470
+China,2008,74.7,3440
+China,2009,74.9,3450
+China,2010,75.3,3470
+Colombia,1960,59.5,1420
+Colombia,1961,60.1,1530
+Colombia,1962,60.9,1590
+Colombia,1963,61.5,1670
+Colombia,1964,61.6,1800
+Colombia,1965,62.1,1870
+Colombia,1966,62.4,1820
+Colombia,1967,63.1,1760
+Colombia,1968,64.4,1730
+Colombia,1969,65.9,1840
+Colombia,1970,65.9,1850
+Colombia,1971,65.1,1830
+Colombia,1972,64.9,1900
+Colombia,1973,65.3,1890
+Colombia,1974,66.3,1910
+Colombia,1975,66.8,1880
+Colombia,1976,67.8,1910
+Colombia,1977,68.2,2060
+Colombia,1978,68.5,2080
+Colombia,1979,68.9,2150
+Colombia,1980,69.2,2160
+Colombia,1981,69.6,2330
+Colombia,1982,69.8,2400
+Colombia,1983,70.2,2430
+Colombia,1984,67.2,2430
+Colombia,1985,70.2,2420
+Colombia,1986,70.2,2440
+Colombia,1987,70.6,2420
+Colombia,1988,70.8,2400
+Colombia,1989,71.5,2500
+Colombia,1990,71,2430
+Colombia,1991,71.1,2460
+Colombia,1992,71.7,2540
+Colombia,1993,72.1,2600
+Colombia,1994,72.5,2690
+Colombia,1995,72.8,2700
+Colombia,1996,73.5,2730
+Colombia,1997,74,2770
+Colombia,1998,74.1,2760
+Colombia,1999,74.2,2810
+Colombia,2000,74.4,2820
+Colombia,2001,73.4,2830
+Colombia,2002,75.2,2830
+Colombia,2003,75.6,2860
+Colombia,2004,76.5,2880
+Colombia,2005,76.7,2880
+Colombia,2006,77.3,2920
+Colombia,2007,77.6,2980
+Colombia,2008,77.5,2990
+Colombia,2009,77.9,3040
+Colombia,2010,78.7,3080
+Germany,1960,69.8,2190
+Germany,1961,70,2210
+Germany,1962,70.2,2090
+Germany,1963,70.5,2140
+Germany,1964,70.7,2100
+Germany,1965,70.8,2040
+Germany,1966,70.8,2020
+Germany,1967,70.5,2020
+Germany,1968,70.4,2020
+Germany,1969,70.6,2050
+Germany,1970,70.8,2130
+Germany,1971,71,2150
+Germany,1972,71.3,2170
+Germany,1973,71.6,2250
+Germany,1974,71.7,2290
+Germany,1975,72.1,2420
+Germany,1976,72.5,2390
+Germany,1977,72.7,2470
+Germany,1978,73,2450
+Germany,1979,73.3,2520
+Germany,1980,73.5,2520
+Germany,1981,73.8,2510
+Germany,1982,74.1,2550
+Germany,1983,74.6,2530
+Germany,1984,74.8,2490
+Germany,1985,75.1,2480
+Germany,1986,75.3,2580
+Germany,1987,75.5,2530
+Germany,1988,75.7,2570
+Germany,1989,75.7,2560
+Germany,1990,75.8,2570
+Germany,1991,76.2,2640
+Germany,1992,76.3,2680
+Germany,1993,76.6,2710
+Germany,1994,76.9,2770
+Germany,1995,77.1,2760
+Germany,1996,77.5,2770
+Germany,1997,77.8,2730
+Germany,1998,78.1,2760
+Germany,1999,78.4,2780
+Germany,2000,78.7,2820
+Germany,2001,78.8,2780
+Germany,2002,78.9,2800
+Germany,2003,79.3,2780
+Germany,2004,79.6,2730
+Germany,2005,79.9,2770
+Germany,2006,80,2800
+Germany,2007,80.2,2810
+Germany,2008,80.3,2710
+Germany,2009,80.5,2670
+Germany,2010,80.7,2700
+Egypt,1960,47.7,2080
+Egypt,1961,47.7,2150
+Egypt,1962,49,2170
+Egypt,1963,49.7,2200
+Egypt,1964,50.7,2230
+Egypt,1965,50.4,2290
+Egypt,1966,50.9,2230
+Egypt,1967,50.9,2270
+Egypt,1968,50.8,2270
+Egypt,1969,51.3,2270
+Egypt,1970,52.5,2260
+Egypt,1971,52.6,2300
+Egypt,1972,52.6,2350
+Egypt,1973,53.9,2390
+Egypt,1974,54.4,2430
+Egypt,1975,55,2510
+Egypt,1976,55.8,2560
+Egypt,1977,56.7,2650
+Egypt,1978,57.8,2780
+Egypt,1979,58.5,2860
+Egypt,1980,58.6,3000
+Egypt,1981,59.1,3060
+Egypt,1982,59.8,3050
+Egypt,1983,60.5,3060
+Egypt,1984,60.1,3070
+Egypt,1985,60.6,3060
+Egypt,1986,61.4,3140
+Egypt,1987,62.7,3130
+Egypt,1988,63.1,3110
+Egypt,1989,63.9,3180
+Egypt,1990,64.5,3170
+Egypt,1991,65.2,3180
+Egypt,1992,65.4,3200
+Egypt,1993,65.7,3260
+Egypt,1994,66.4,3320
+Egypt,1995,66.9,3330
+Egypt,1996,67.2,3360
+Egypt,1997,67.5,3340
+Egypt,1998,67.9,3360
+Egypt,1999,68.5,3370
+Egypt,2000,68.3,3410
+Egypt,2001,68.3,3430
+Egypt,2002,68.2,3380
+Egypt,2003,68.5,3310
+Egypt,2004,68.8,3370
+Egypt,2005,68.9,3390
+Egypt,2006,69.2,3450
+Egypt,2007,69.3,3490
+Egypt,2008,69.3,3440
+Egypt,2009,69.4,3510
+Egypt,2010,69.6,3550
+Spain,1960,69.7,3190
+Spain,1961,69.8,3260
+Spain,1962,70,3230
+Spain,1963,70.5,3220
+Spain,1964,70.9,3230
+Spain,1965,71.2,3220
+Spain,1966,71.4,3280
+Spain,1967,71.6,3280
+Spain,1968,71.5,3280
+Spain,1969,72,3310
+Spain,1970,72.1,3290
+Spain,1971,72.8,3260
+Spain,1972,72.9,3270
+Spain,1973,73.3,3270
+Spain,1974,73.6,3240
+Spain,1975,74,3280
+Spain,1976,74.3,3340
+Spain,1977,74.6,3380
+Spain,1978,75,3380
+Spain,1979,75.5,3380
+Spain,1980,75.8,3420
+Spain,1981,76.2,3420
+Spain,1982,76.2,3460
+Spain,1983,76.4,3440
+Spain,1984,76.5,3490
+Spain,1985,76.6,3460
+Spain,1986,76.8,3530
+Spain,1987,76.9,3560
+Spain,1988,76.9,3560
+Spain,1989,77,3510
+Spain,1990,77.1,3540
+Spain,1991,77.5,3550
+Spain,1992,77.7,3540
+Spain,1993,78,3510
+Spain,1994,78.1,3530
+Spain,1995,78.3,3520
+Spain,1996,78.8,3550
+Spain,1997,79,3590
+Spain,1998,79.1,3600
+Spain,1999,79.5,3610
+Spain,2000,79.8,3640
+Spain,2001,79.9,3660
+Spain,2002,80,3590
+Spain,2003,80.3,3560
+Spain,2004,80.6,3540
+Spain,2005,81,3510
+Spain,2006,81.2,3470
+Spain,2007,81.4,3550
+Spain,2008,81.8,3530
+Spain,2009,82.1,3540
+Spain,2010,82.3,3510
+France,1960,71.3,2860
+France,1961,71.2,2920
+France,1962,71.2,2900
+France,1963,71.7,2980
+France,1964,71.8,3010
+France,1965,72,3010
+France,1966,72.1,3000
+France,1967,72.1,3060
+France,1968,72.1,3040
+France,1969,72.6,3100
+France,1970,72.7,3110
+France,1971,72.9,3140
+France,1972,73.2,3170
+France,1973,73.4,3110
+France,1974,73.3,3120
+France,1975,73.6,3190
+France,1976,74,3140
+France,1977,74.3,3260
+France,1978,74.5,3280
+France,1979,74.7,3280
+France,1980,74.9,3270
+France,1981,75.1,3340
+France,1982,75.3,3380
+France,1983,75.6,3390
+France,1984,75.8,3420
+France,1985,76,3410
+France,1986,76.5,3380
+France,1987,76.8,3400
+France,1988,77,3400
+France,1989,77.2,3260
+France,1990,77.4,3320
+France,1991,77.6,3390
+France,1992,77.8,3200
+France,1993,78,3210
+France,1994,78.2,3250
+France,1995,78.4,3300
+France,1996,78.7,3180
+France,1997,78.8,3290
+France,1998,78.9,3280
+France,1999,79.2,3340
+France,2000,79.3,3360
+France,2001,79.5,3430
+France,2002,79.7,3390
+France,2003,80.3,3410
+France,2004,80.6,3450
+France,2005,80.8,3470
+France,2006,81.1,3530
+France,2007,81.2,3520
+France,2008,81.4,3520
+France,2009,81.6,3500
+France,2010,81.8,3540
+United Kingdom,1960,71.1,1910
+United Kingdom,1961,71,1940
+United Kingdom,1962,71.1,1940
+United Kingdom,1963,71.5,1880
+United Kingdom,1964,71.7,1950
+United Kingdom,1965,71.7,1910
+United Kingdom,1966,72,1900
+United Kingdom,1967,71.9,1870
+United Kingdom,1968,71.9,1880
+United Kingdom,1969,72.1,1870
+United Kingdom,1970,72.2,1880
+United Kingdom,1971,72.2,1900
+United Kingdom,1972,72.3,1930
+United Kingdom,1973,72.5,1930
+United Kingdom,1974,72.8,1930
+United Kingdom,1975,72.9,1970
+United Kingdom,1976,73.2,1930
+United Kingdom,1977,73.3,1960
+United Kingdom,1978,73.4,1970
+United Kingdom,1979,73.8,1950
+United Kingdom,1980,74.1,1990
+United Kingdom,1981,74.2,1960
+United Kingdom,1982,74.5,1940
+United Kingdom,1983,74.8,1880
+United Kingdom,1984,74.8,1900
+United Kingdom,1985,75,1880
+United Kingdom,1986,75.3,1800
+United Kingdom,1987,75.4,1740
+United Kingdom,1988,75.6,1700
+United Kingdom,1989,75.8,1750
+United Kingdom,1990,76.1,1750
+United Kingdom,1991,76.3,1720
+United Kingdom,1992,76.4,1720
+United Kingdom,1993,76.7,1700
+United Kingdom,1994,76.8,1760
+United Kingdom,1995,77,1810
+United Kingdom,1996,77.3,1840
+United Kingdom,1997,77.5,1920
+United Kingdom,1998,77.6,1960
+United Kingdom,1999,78,1960
+United Kingdom,2000,78.3,1900
+United Kingdom,2001,78.5,1900
+United Kingdom,2002,78.6,1870
+United Kingdom,2003,79,1890
+United Kingdom,2004,79.3,1880
+United Kingdom,2005,79.5,1940
+United Kingdom,2006,79.8,1970
+United Kingdom,2007,80,2010
+United Kingdom,2008,80.3,2060
+United Kingdom,2009,80.6,2170
+United Kingdom,2010,80.8,2100
+Haiti,1960,45.6,2010
+Haiti,1961,46,2050
+Haiti,1962,44.2,1970
+Haiti,1963,46.3,2000
+Haiti,1964,46.5,1930
+Haiti,1965,46.6,1940
+Haiti,1966,47,1990
+Haiti,1967,47.4,2010
+Haiti,1968,47.7,2040
+Haiti,1969,48,2110
+Haiti,1970,48.3,1990
+Haiti,1971,48.5,1990
+Haiti,1972,49,2050
+Haiti,1973,49.4,1940
+Haiti,1974,49.7,2060
+Haiti,1975,50.1,1920
+Haiti,1976,50.4,2110
+Haiti,1977,50.6,2150
+Haiti,1978,50.9,2030
+Haiti,1979,51.3,1990
+Haiti,1980,51.7,2060
+Haiti,1981,52,2030
+Haiti,1982,52.3,2210
+Haiti,1983,52.7,2220
+Haiti,1984,53,2160
+Haiti,1985,53.4,2160
+Haiti,1986,53.8,2170
+Haiti,1987,54.1,2280
+Haiti,1988,54.4,2370
+Haiti,1989,54.6,2210
+Haiti,1990,54.6,2300
+Haiti,1991,54.9,2330
+Haiti,1992,54.5,2270
+Haiti,1993,54.8,2290
+Haiti,1994,55.4,2320
+Haiti,1995,55.7,2340
+Haiti,1996,56.1,2370
+Haiti,1997,56.5,2360
+Haiti,1998,57,2400
+Haiti,1999,57.4,2380
+Haiti,2000,57.8,2330
+Haiti,2001,58.2,2290
+Haiti,2002,58.5,2280
+Haiti,2003,57.5,2260
+Haiti,2004,59,2270
+Haiti,2005,59.5,2330
+Haiti,2006,60,2400
+Haiti,2007,60.2,2430
+Haiti,2008,60.7,2420
+Haiti,2009,32.5,2440
+Haiti,2010,60,2460
+India,1960,46,2300
+India,1961,46.4,2290
+India,1962,46.7,2300
+India,1963,47.1,2350
+India,1964,45.7,2370
+India,1965,46,2410
+India,1966,46.4,2460
+India,1967,48.3,2490
+India,1968,48.7,2510
+India,1969,49.3,2540
+India,1970,49.7,2540
+India,1971,50.1,2570
+India,1972,50.9,2610
+India,1973,51.5,2640
+India,1974,51.6,2720
+India,1975,52.1,2690
+India,1976,52.8,2730
+India,1977,53.6,2810
+India,1978,54.7,2850
+India,1979,55.2,3000
+India,1980,55.5,3140
+India,1981,56.3,3130
+India,1982,56.6,3110
+India,1983,56.9,3050
+India,1984,57.3,3100
+India,1985,57.8,3060
+India,1986,58.3,2950
+India,1987,58.6,3010
+India,1988,59.1,2980
+India,1989,59.6,2970
+India,1990,59.8,2990
+India,1991,60,3000
+India,1992,60.6,3010
+India,1993,61.2,3010
+India,1994,61.7,2970
+India,1995,62,2990
+India,1996,61.9,2970
+India,1997,62.1,2970
+India,1998,62.6,2980
+India,1999,62.9,3040
+India,2000,63.3,3090
+India,2001,63.8,3100
+India,2002,64.5,3110
+India,2003,65.2,3110
+India,2004,65.4,3070
+India,2005,65.6,3080
+India,2006,65.8,3100
+India,2007,66.1,3080
+India,2008,66.8,3040
+India,2009,67.3,3040
+India,2010,67.6,3030
+Mexico,1960,58.2,2930
+Mexico,1961,59.1,2960
+Mexico,1962,58.9,2950
+Mexico,1963,59.5,2960
+Mexico,1964,59.9,2970
+Mexico,1965,60.4,3090
+Mexico,1966,60.8,3000
+Mexico,1967,61,2970
+Mexico,1968,61.2,2960
+Mexico,1969,61.4,2960
+Mexico,1970,62.5,3020
+Mexico,1971,62.8,3050
+Mexico,1972,63,3090
+Mexico,1973,63.7,3090
+Mexico,1974,64.2,3130
+Mexico,1975,64.6,3240
+Mexico,1976,65.1,3110
+Mexico,1977,65.9,3120
+Mexico,1978,65.9,3050
+Mexico,1979,66.2,3060
+Mexico,1980,66.6,3060
+Mexico,1981,67.2,3080
+Mexico,1982,67.8,2970
+Mexico,1983,68.4,3070
+Mexico,1984,68.6,3020
+Mexico,1985,69.2,3150
+Mexico,1986,69.7,3160
+Mexico,1987,69.9,3120
+Mexico,1988,70.3,3080
+Mexico,1989,70.8,3260
+Mexico,1990,71.3,3200
+Mexico,1991,71.5,3190
+Mexico,1992,71.8,3230
+Mexico,1993,72.2,3170
+Mexico,1994,72.3,3210
+Mexico,1995,72.7,3200
+Mexico,1996,72.9,3220
+Mexico,1997,73.2,3210
+Mexico,1998,73.7,3190
+Mexico,1999,74.2,3170
+Mexico,2000,74.6,3120
+Mexico,2001,74.6,3120
+Mexico,2002,74.7,3120
+Mexico,2003,75,3160
+Mexico,2004,75,3180
+Mexico,2005,75.3,3150
+Mexico,2006,75.6,3180
+Mexico,2007,75.2,3210
+Mexico,2008,75,3140
+Mexico,2009,75.3,3140
+Mexico,2010,75.5,3140
+New Zealand,1960,71.2,1720
+New Zealand,1961,71.4,1750
+New Zealand,1962,71.4,1790
+New Zealand,1963,71.5,1820
+New Zealand,1964,71.5,1860
+New Zealand,1965,71.6,1860
+New Zealand,1966,71.6,1880
+New Zealand,1967,71.4,1880
+New Zealand,1968,71.6,1870
+New Zealand,1969,71.6,1890
+New Zealand,1970,71.8,1900
+New Zealand,1971,72,1760
+New Zealand,1972,72,1680
+New Zealand,1973,72.2,1680
+New Zealand,1974,72.4,1790
+New Zealand,1975,72.6,1910
+New Zealand,1976,72.7,2120
+New Zealand,1977,73.2,2320
+New Zealand,1978,73.1,2630
+New Zealand,1979,73.4,2870
+New Zealand,1980,73.8,2900
+New Zealand,1981,74,2900
+New Zealand,1982,74.3,2930
+New Zealand,1983,74.4,2720
+New Zealand,1984,74.2,2700
+New Zealand,1985,74.4,2590
+New Zealand,1986,74.5,2570
+New Zealand,1987,74.8,2800
+New Zealand,1988,75.1,2750
+New Zealand,1989,75.5,2870
+New Zealand,1990,75.9,2870
+New Zealand,1991,76.1,2780
+New Zealand,1992,76.3,2740
+New Zealand,1993,76.7,2700
+New Zealand,1994,76.8,2850
+New Zealand,1995,77,2910
+New Zealand,1996,77.4,2980
+New Zealand,1997,77.9,3010
+New Zealand,1998,78,3070
+New Zealand,1999,78.4,3110
+New Zealand,2000,78.6,3080
+New Zealand,2001,78.8,3020
+New Zealand,2002,79.1,3000
+New Zealand,2003,79.4,2960
+New Zealand,2004,79.8,2990
+New Zealand,2005,80,3050
+New Zealand,2006,80.2,3050
+New Zealand,2007,80.4,3010
+New Zealand,2008,80.6,3010
+New Zealand,2009,80.9,3120
+New Zealand,2010,80.9,3100
+Saudi Arabia,1960,54.8,2670
+Saudi Arabia,1961,55.4,2620
+Saudi Arabia,1962,55.9,2730
+Saudi Arabia,1963,56.4,2760
+Saudi Arabia,1964,56.9,2860
+Saudi Arabia,1965,57.5,2760
+Saudi Arabia,1966,58.1,2700
+Saudi Arabia,1967,58.6,2750
+Saudi Arabia,1968,59.2,2790
+Saudi Arabia,1969,59.8,2820
+Saudi Arabia,1970,60.5,2790
+Saudi Arabia,1971,61.4,2860
+Saudi Arabia,1972,62.2,2900
+Saudi Arabia,1973,63.1,2880
+Saudi Arabia,1974,63.6,2900
+Saudi Arabia,1975,64.3,2850
+Saudi Arabia,1976,64.8,2840
+Saudi Arabia,1977,65.3,2850
+Saudi Arabia,1978,65.6,2820
+Saudi Arabia,1979,66.1,2860
+Saudi Arabia,1980,66.6,2830
+Saudi Arabia,1981,66.9,2910
+Saudi Arabia,1982,67.1,2840
+Saudi Arabia,1983,67.3,2840
+Saudi Arabia,1984,67.5,2890
+Saudi Arabia,1985,67.7,2820
+Saudi Arabia,1986,68,2930
+Saudi Arabia,1987,68.2,2870
+Saudi Arabia,1988,68.2,2830
+Saudi Arabia,1989,68.1,2830
+Saudi Arabia,1990,68.5,2820
+Saudi Arabia,1991,68.8,2800
+Saudi Arabia,1992,69,2840
+Saudi Arabia,1993,69.2,2830
+Saudi Arabia,1994,69.4,2810
+Saudi Arabia,1995,69.6,2800
+Saudi Arabia,1996,69.8,2820
+Saudi Arabia,1997,70,2850
+Saudi Arabia,1998,70.2,2840
+Saudi Arabia,1999,70.4,2890
+Saudi Arabia,2000,70.6,2910
+Saudi Arabia,2001,70.7,2910
+Saudi Arabia,2002,70.9,2930
+Saudi Arabia,2003,71.1,2940
+Saudi Arabia,2004,71.2,2950
+Saudi Arabia,2005,71.2,2930
+Saudi Arabia,2006,71.3,2920
+Saudi Arabia,2007,71.4,2920
+Saudi Arabia,2008,71.6,2940
+Saudi Arabia,2009,71.8,2990
+Saudi Arabia,2010,72.2,3000
+United States,1960,70.3,3230
+United States,1961,70.3,3200
+United States,1962,70.2,3230
+United States,1963,70.3,3210
+United States,1964,70.4,3240
+United States,1965,70.4,3240
+United States,1966,70.5,3220
+United States,1967,70.3,3220
+United States,1968,70.6,3240
+United States,1969,70.9,3280
+United States,1970,71.3,3250
+United States,1971,71.4,3170
+United States,1972,71.7,3240
+United States,1973,72.2,3120
+United States,1974,72.7,3130
+United States,1975,73.1,3170
+United States,1976,73.4,3160
+United States,1977,73.6,3100
+United States,1978,73.9,3160
+United States,1979,74,3120
+United States,1980,74.3,3090
+United States,1981,74.6,3120
+United States,1982,74.8,3110
+United States,1983,74.9,3130
+United States,1984,74.9,3190
+United States,1985,75,3210
+United States,1986,75.1,3230
+United States,1987,75.2,3250
+United States,1988,75.4,3220
+United States,1989,75.7,3240
+United States,1990,75.9,3210
+United States,1991,76,3270
+United States,1992,75.9,3220
+United States,1993,76,3240
+United States,1994,76.1,3190
+United States,1995,76.4,3270
+United States,1996,76.8,3330
+United States,1997,76.9,3350
+United States,1998,76.9,3400
+United States,1999,77,3360
+United States,2000,77.1,3400
+United States,2001,77.2,3420
+United States,2002,77.3,3400
+United States,2003,77.7,3450
+United States,2004,77.7,3440
+United States,2005,78,3440
+United States,2006,78.2,3420
+United States,2007,78.4,3420
+United States,2008,78.6,3410
+United States,2009,78.9,3400
+United States,2010,78.9,3420
+South Africa,1960,54.2,2880
+South Africa,1961,54.4,2860
+South Africa,1962,54.6,2860
+South Africa,1963,54.9,2930
+South Africa,1964,55.2,2920
+South Africa,1965,55.5,2950
+South Africa,1966,55.8,2980
+South Africa,1967,56.1,3000
+South Africa,1968,56.4,3030
+South Africa,1969,56.7,3030
+South Africa,1970,57,3050
+South Africa,1971,57.3,3060
+South Africa,1972,57.6,3040
+South Africa,1973,58,3030
+South Africa,1974,58.3,3030
+South Africa,1975,58.6,3160
+South Africa,1976,58.8,3140
+South Africa,1977,59.1,3160
+South Africa,1978,59.3,3210
+South Africa,1979,59.5,3180
+South Africa,1980,59.8,3220
+South Africa,1981,60.2,3190
+South Africa,1982,60.5,3230
+South Africa,1983,61.3,3280
+South Africa,1984,61.9,3380
+South Africa,1985,62.1,3350
+South Africa,1986,62.8,3450
+South Africa,1987,63.5,3460
+South Africa,1988,63.8,3430
+South Africa,1989,64.2,3490
+South Africa,1990,64.3,3520
+South Africa,1991,63.6,3560
+South Africa,1992,64.3,3610
+South Africa,1993,63.4,3670
+South Africa,1994,62.9,3580
+South Africa,1995,61.8,3590
+South Africa,1996,59.5,3650
+South Africa,1997,58,3660
+South Africa,1998,57.2,3670
+South Africa,1999,55.6,3760
+South Africa,2000,54.8,3710
+South Africa,2001,53.7,3780
+South Africa,2002,52.7,3780
+South Africa,2003,52.2,3810
+South Africa,2004,52.1,3830
+South Africa,2005,52.3,3780
+South Africa,2006,53.2,3760
+South Africa,2007,54.3,3700
+South Africa,2008,55.7,3650
+South Africa,2009,57.1,3650
+South Africa,2010,58.7,3650
+Zimbabwe,1960,55.8,2120
+Zimbabwe,1961,56,2160
+Zimbabwe,1962,56.1,2150
+Zimbabwe,1963,56.3,2140
+Zimbabwe,1964,56.6,2150
+Zimbabwe,1965,56.8,2150
+Zimbabwe,1966,57.1,2260
+Zimbabwe,1967,57.3,2270
+Zimbabwe,1968,57.7,2220
+Zimbabwe,1969,58,2290
+Zimbabwe,1970,58.3,2310
+Zimbabwe,1971,58.7,2330
+Zimbabwe,1972,58.8,2320
+Zimbabwe,1973,59.1,2320
+Zimbabwe,1974,59.3,2260
+Zimbabwe,1975,59,2290
+Zimbabwe,1976,58.5,2300
+Zimbabwe,1977,56.8,2280
+Zimbabwe,1978,57.3,2250
+Zimbabwe,1979,60.4,2300
+Zimbabwe,1980,61,2220
+Zimbabwe,1981,61.5,2220
+Zimbabwe,1982,62,2180
+Zimbabwe,1983,62.5,2130
+Zimbabwe,1984,63,2090
+Zimbabwe,1985,63.4,2060
+Zimbabwe,1986,63.6,2020
+Zimbabwe,1987,63.6,2050
+Zimbabwe,1988,63.2,2050
+Zimbabwe,1989,62.4,2010
+Zimbabwe,1990,61.4,1960
+Zimbabwe,1991,59.8,1960
+Zimbabwe,1992,58,1940
+Zimbabwe,1993,56.2,1930
+Zimbabwe,1994,54.2,1940
+Zimbabwe,1995,52.5,1980
+Zimbabwe,1996,51.2,2010
+Zimbabwe,1997,49.7,2010
+Zimbabwe,1998,48.5,2000
+Zimbabwe,1999,47.5,1980
+Zimbabwe,2000,47,2030
+Zimbabwe,2001,46.6,2020
+Zimbabwe,2002,46.4,2010
+Zimbabwe,2003,46.4,2040
+Zimbabwe,2004,46.8,2030
+Zimbabwe,2005,47.4,2120
+Zimbabwe,2006,48.2,2110
+Zimbabwe,2007,48.9,2090
+Zimbabwe,2008,50.2,2150
+Zimbabwe,2009,52.3,2170
+Zimbabwe,2010,54.4,2200
