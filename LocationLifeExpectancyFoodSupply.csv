@@ -254,57 +254,6 @@ Colombia,2007,77.6,2980
 Colombia,2008,77.5,2990
 Colombia,2009,77.9,3040
 Colombia,2010,78.7,3080
-Germany,1960,69.8,2190
-Germany,1961,70,2210
-Germany,1962,70.2,2090
-Germany,1963,70.5,2140
-Germany,1964,70.7,2100
-Germany,1965,70.8,2040
-Germany,1966,70.8,2020
-Germany,1967,70.5,2020
-Germany,1968,70.4,2020
-Germany,1969,70.6,2050
-Germany,1970,70.8,2130
-Germany,1971,71,2150
-Germany,1972,71.3,2170
-Germany,1973,71.6,2250
-Germany,1974,71.7,2290
-Germany,1975,72.1,2420
-Germany,1976,72.5,2390
-Germany,1977,72.7,2470
-Germany,1978,73,2450
-Germany,1979,73.3,2520
-Germany,1980,73.5,2520
-Germany,1981,73.8,2510
-Germany,1982,74.1,2550
-Germany,1983,74.6,2530
-Germany,1984,74.8,2490
-Germany,1985,75.1,2480
-Germany,1986,75.3,2580
-Germany,1987,75.5,2530
-Germany,1988,75.7,2570
-Germany,1989,75.7,2560
-Germany,1990,75.8,2570
-Germany,1991,76.2,2640
-Germany,1992,76.3,2680
-Germany,1993,76.6,2710
-Germany,1994,76.9,2770
-Germany,1995,77.1,2760
-Germany,1996,77.5,2770
-Germany,1997,77.8,2730
-Germany,1998,78.1,2760
-Germany,1999,78.4,2780
-Germany,2000,78.7,2820
-Germany,2001,78.8,2780
-Germany,2002,78.9,2800
-Germany,2003,79.3,2780
-Germany,2004,79.6,2730
-Germany,2005,79.9,2770
-Germany,2006,80,2800
-Germany,2007,80.2,2810
-Germany,2008,80.3,2710
-Germany,2009,80.5,2670
-Germany,2010,80.7,2700
 Egypt,1960,47.7,2080
 Egypt,1961,47.7,2150
 Egypt,1962,49,2170
@@ -356,57 +305,6 @@ Egypt,2007,69.3,3490
 Egypt,2008,69.3,3440
 Egypt,2009,69.4,3510
 Egypt,2010,69.6,3550
-Spain,1960,69.7,3190
-Spain,1961,69.8,3260
-Spain,1962,70,3230
-Spain,1963,70.5,3220
-Spain,1964,70.9,3230
-Spain,1965,71.2,3220
-Spain,1966,71.4,3280
-Spain,1967,71.6,3280
-Spain,1968,71.5,3280
-Spain,1969,72,3310
-Spain,1970,72.1,3290
-Spain,1971,72.8,3260
-Spain,1972,72.9,3270
-Spain,1973,73.3,3270
-Spain,1974,73.6,3240
-Spain,1975,74,3280
-Spain,1976,74.3,3340
-Spain,1977,74.6,3380
-Spain,1978,75,3380
-Spain,1979,75.5,3380
-Spain,1980,75.8,3420
-Spain,1981,76.2,3420
-Spain,1982,76.2,3460
-Spain,1983,76.4,3440
-Spain,1984,76.5,3490
-Spain,1985,76.6,3460
-Spain,1986,76.8,3530
-Spain,1987,76.9,3560
-Spain,1988,76.9,3560
-Spain,1989,77,3510
-Spain,1990,77.1,3540
-Spain,1991,77.5,3550
-Spain,1992,77.7,3540
-Spain,1993,78,3510
-Spain,1994,78.1,3530
-Spain,1995,78.3,3520
-Spain,1996,78.8,3550
-Spain,1997,79,3590
-Spain,1998,79.1,3600
-Spain,1999,79.5,3610
-Spain,2000,79.8,3640
-Spain,2001,79.9,3660
-Spain,2002,80,3590
-Spain,2003,80.3,3560
-Spain,2004,80.6,3540
-Spain,2005,81,3510
-Spain,2006,81.2,3470
-Spain,2007,81.4,3550
-Spain,2008,81.8,3530
-Spain,2009,82.1,3540
-Spain,2010,82.3,3510
 France,1960,71.3,2860
 France,1961,71.2,2920
 France,1962,71.2,2900
@@ -458,57 +356,57 @@ France,2007,81.2,3520
 France,2008,81.4,3520
 France,2009,81.6,3500
 France,2010,81.8,3540
-United Kingdom,1960,71.1,1910
-United Kingdom,1961,71,1940
-United Kingdom,1962,71.1,1940
-United Kingdom,1963,71.5,1880
-United Kingdom,1964,71.7,1950
-United Kingdom,1965,71.7,1910
-United Kingdom,1966,72,1900
-United Kingdom,1967,71.9,1870
-United Kingdom,1968,71.9,1880
-United Kingdom,1969,72.1,1870
-United Kingdom,1970,72.2,1880
-United Kingdom,1971,72.2,1900
-United Kingdom,1972,72.3,1930
-United Kingdom,1973,72.5,1930
-United Kingdom,1974,72.8,1930
-United Kingdom,1975,72.9,1970
-United Kingdom,1976,73.2,1930
-United Kingdom,1977,73.3,1960
-United Kingdom,1978,73.4,1970
-United Kingdom,1979,73.8,1950
-United Kingdom,1980,74.1,1990
-United Kingdom,1981,74.2,1960
-United Kingdom,1982,74.5,1940
-United Kingdom,1983,74.8,1880
-United Kingdom,1984,74.8,1900
-United Kingdom,1985,75,1880
-United Kingdom,1986,75.3,1800
-United Kingdom,1987,75.4,1740
-United Kingdom,1988,75.6,1700
-United Kingdom,1989,75.8,1750
-United Kingdom,1990,76.1,1750
-United Kingdom,1991,76.3,1720
-United Kingdom,1992,76.4,1720
-United Kingdom,1993,76.7,1700
-United Kingdom,1994,76.8,1760
-United Kingdom,1995,77,1810
-United Kingdom,1996,77.3,1840
-United Kingdom,1997,77.5,1920
-United Kingdom,1998,77.6,1960
-United Kingdom,1999,78,1960
-United Kingdom,2000,78.3,1900
-United Kingdom,2001,78.5,1900
-United Kingdom,2002,78.6,1870
-United Kingdom,2003,79,1890
-United Kingdom,2004,79.3,1880
-United Kingdom,2005,79.5,1940
-United Kingdom,2006,79.8,1970
-United Kingdom,2007,80,2010
-United Kingdom,2008,80.3,2060
-United Kingdom,2009,80.6,2170
-United Kingdom,2010,80.8,2100
+Germany,1960,69.8,2190
+Germany,1961,70,2210
+Germany,1962,70.2,2090
+Germany,1963,70.5,2140
+Germany,1964,70.7,2100
+Germany,1965,70.8,2040
+Germany,1966,70.8,2020
+Germany,1967,70.5,2020
+Germany,1968,70.4,2020
+Germany,1969,70.6,2050
+Germany,1970,70.8,2130
+Germany,1971,71,2150
+Germany,1972,71.3,2170
+Germany,1973,71.6,2250
+Germany,1974,71.7,2290
+Germany,1975,72.1,2420
+Germany,1976,72.5,2390
+Germany,1977,72.7,2470
+Germany,1978,73,2450
+Germany,1979,73.3,2520
+Germany,1980,73.5,2520
+Germany,1981,73.8,2510
+Germany,1982,74.1,2550
+Germany,1983,74.6,2530
+Germany,1984,74.8,2490
+Germany,1985,75.1,2480
+Germany,1986,75.3,2580
+Germany,1987,75.5,2530
+Germany,1988,75.7,2570
+Germany,1989,75.7,2560
+Germany,1990,75.8,2570
+Germany,1991,76.2,2640
+Germany,1992,76.3,2680
+Germany,1993,76.6,2710
+Germany,1994,76.9,2770
+Germany,1995,77.1,2760
+Germany,1996,77.5,2770
+Germany,1997,77.8,2730
+Germany,1998,78.1,2760
+Germany,1999,78.4,2780
+Germany,2000,78.7,2820
+Germany,2001,78.8,2780
+Germany,2002,78.9,2800
+Germany,2003,79.3,2780
+Germany,2004,79.6,2730
+Germany,2005,79.9,2770
+Germany,2006,80,2800
+Germany,2007,80.2,2810
+Germany,2008,80.3,2710
+Germany,2009,80.5,2670
+Germany,2010,80.7,2700
 Haiti,1960,45.6,2010
 Haiti,1961,46,2050
 Haiti,1962,44.2,1970
@@ -764,57 +662,6 @@ Saudi Arabia,2007,71.4,2920
 Saudi Arabia,2008,71.6,2940
 Saudi Arabia,2009,71.8,2990
 Saudi Arabia,2010,72.2,3000
-United States,1960,70.3,3230
-United States,1961,70.3,3200
-United States,1962,70.2,3230
-United States,1963,70.3,3210
-United States,1964,70.4,3240
-United States,1965,70.4,3240
-United States,1966,70.5,3220
-United States,1967,70.3,3220
-United States,1968,70.6,3240
-United States,1969,70.9,3280
-United States,1970,71.3,3250
-United States,1971,71.4,3170
-United States,1972,71.7,3240
-United States,1973,72.2,3120
-United States,1974,72.7,3130
-United States,1975,73.1,3170
-United States,1976,73.4,3160
-United States,1977,73.6,3100
-United States,1978,73.9,3160
-United States,1979,74,3120
-United States,1980,74.3,3090
-United States,1981,74.6,3120
-United States,1982,74.8,3110
-United States,1983,74.9,3130
-United States,1984,74.9,3190
-United States,1985,75,3210
-United States,1986,75.1,3230
-United States,1987,75.2,3250
-United States,1988,75.4,3220
-United States,1989,75.7,3240
-United States,1990,75.9,3210
-United States,1991,76,3270
-United States,1992,75.9,3220
-United States,1993,76,3240
-United States,1994,76.1,3190
-United States,1995,76.4,3270
-United States,1996,76.8,3330
-United States,1997,76.9,3350
-United States,1998,76.9,3400
-United States,1999,77,3360
-United States,2000,77.1,3400
-United States,2001,77.2,3420
-United States,2002,77.3,3400
-United States,2003,77.7,3450
-United States,2004,77.7,3440
-United States,2005,78,3440
-United States,2006,78.2,3420
-United States,2007,78.4,3420
-United States,2008,78.6,3410
-United States,2009,78.9,3400
-United States,2010,78.9,3420
 South Africa,1960,54.2,2880
 South Africa,1961,54.4,2860
 South Africa,1962,54.6,2860
@@ -866,6 +713,159 @@ South Africa,2007,54.3,3700
 South Africa,2008,55.7,3650
 South Africa,2009,57.1,3650
 South Africa,2010,58.7,3650
+Spain,1960,69.7,3190
+Spain,1961,69.8,3260
+Spain,1962,70,3230
+Spain,1963,70.5,3220
+Spain,1964,70.9,3230
+Spain,1965,71.2,3220
+Spain,1966,71.4,3280
+Spain,1967,71.6,3280
+Spain,1968,71.5,3280
+Spain,1969,72,3310
+Spain,1970,72.1,3290
+Spain,1971,72.8,3260
+Spain,1972,72.9,3270
+Spain,1973,73.3,3270
+Spain,1974,73.6,3240
+Spain,1975,74,3280
+Spain,1976,74.3,3340
+Spain,1977,74.6,3380
+Spain,1978,75,3380
+Spain,1979,75.5,3380
+Spain,1980,75.8,3420
+Spain,1981,76.2,3420
+Spain,1982,76.2,3460
+Spain,1983,76.4,3440
+Spain,1984,76.5,3490
+Spain,1985,76.6,3460
+Spain,1986,76.8,3530
+Spain,1987,76.9,3560
+Spain,1988,76.9,3560
+Spain,1989,77,3510
+Spain,1990,77.1,3540
+Spain,1991,77.5,3550
+Spain,1992,77.7,3540
+Spain,1993,78,3510
+Spain,1994,78.1,3530
+Spain,1995,78.3,3520
+Spain,1996,78.8,3550
+Spain,1997,79,3590
+Spain,1998,79.1,3600
+Spain,1999,79.5,3610
+Spain,2000,79.8,3640
+Spain,2001,79.9,3660
+Spain,2002,80,3590
+Spain,2003,80.3,3560
+Spain,2004,80.6,3540
+Spain,2005,81,3510
+Spain,2006,81.2,3470
+Spain,2007,81.4,3550
+Spain,2008,81.8,3530
+Spain,2009,82.1,3540
+Spain,2010,82.3,3510
+United Kingdom,1960,71.1,1910
+United Kingdom,1961,71,1940
+United Kingdom,1962,71.1,1940
+United Kingdom,1963,71.5,1880
+United Kingdom,1964,71.7,1950
+United Kingdom,1965,71.7,1910
+United Kingdom,1966,72,1900
+United Kingdom,1967,71.9,1870
+United Kingdom,1968,71.9,1880
+United Kingdom,1969,72.1,1870
+United Kingdom,1970,72.2,1880
+United Kingdom,1971,72.2,1900
+United Kingdom,1972,72.3,1930
+United Kingdom,1973,72.5,1930
+United Kingdom,1974,72.8,1930
+United Kingdom,1975,72.9,1970
+United Kingdom,1976,73.2,1930
+United Kingdom,1977,73.3,1960
+United Kingdom,1978,73.4,1970
+United Kingdom,1979,73.8,1950
+United Kingdom,1980,74.1,1990
+United Kingdom,1981,74.2,1960
+United Kingdom,1982,74.5,1940
+United Kingdom,1983,74.8,1880
+United Kingdom,1984,74.8,1900
+United Kingdom,1985,75,1880
+United Kingdom,1986,75.3,1800
+United Kingdom,1987,75.4,1740
+United Kingdom,1988,75.6,1700
+United Kingdom,1989,75.8,1750
+United Kingdom,1990,76.1,1750
+United Kingdom,1991,76.3,1720
+United Kingdom,1992,76.4,1720
+United Kingdom,1993,76.7,1700
+United Kingdom,1994,76.8,1760
+United Kingdom,1995,77,1810
+United Kingdom,1996,77.3,1840
+United Kingdom,1997,77.5,1920
+United Kingdom,1998,77.6,1960
+United Kingdom,1999,78,1960
+United Kingdom,2000,78.3,1900
+United Kingdom,2001,78.5,1900
+United Kingdom,2002,78.6,1870
+United Kingdom,2003,79,1890
+United Kingdom,2004,79.3,1880
+United Kingdom,2005,79.5,1940
+United Kingdom,2006,79.8,1970
+United Kingdom,2007,80,2010
+United Kingdom,2008,80.3,2060
+United Kingdom,2009,80.6,2170
+United Kingdom,2010,80.8,2100
+United States,1960,70.3,3230
+United States,1961,70.3,3200
+United States,1962,70.2,3230
+United States,1963,70.3,3210
+United States,1964,70.4,3240
+United States,1965,70.4,3240
+United States,1966,70.5,3220
+United States,1967,70.3,3220
+United States,1968,70.6,3240
+United States,1969,70.9,3280
+United States,1970,71.3,3250
+United States,1971,71.4,3170
+United States,1972,71.7,3240
+United States,1973,72.2,3120
+United States,1974,72.7,3130
+United States,1975,73.1,3170
+United States,1976,73.4,3160
+United States,1977,73.6,3100
+United States,1978,73.9,3160
+United States,1979,74,3120
+United States,1980,74.3,3090
+United States,1981,74.6,3120
+United States,1982,74.8,3110
+United States,1983,74.9,3130
+United States,1984,74.9,3190
+United States,1985,75,3210
+United States,1986,75.1,3230
+United States,1987,75.2,3250
+United States,1988,75.4,3220
+United States,1989,75.7,3240
+United States,1990,75.9,3210
+United States,1991,76,3270
+United States,1992,75.9,3220
+United States,1993,76,3240
+United States,1994,76.1,3190
+United States,1995,76.4,3270
+United States,1996,76.8,3330
+United States,1997,76.9,3350
+United States,1998,76.9,3400
+United States,1999,77,3360
+United States,2000,77.1,3400
+United States,2001,77.2,3420
+United States,2002,77.3,3400
+United States,2003,77.7,3450
+United States,2004,77.7,3440
+United States,2005,78,3440
+United States,2006,78.2,3420
+United States,2007,78.4,3420
+United States,2008,78.6,3410
+United States,2009,78.9,3400
+United States,2010,78.9,3420
 Zimbabwe,1960,55.8,2120
 Zimbabwe,1961,56,2160
 Zimbabwe,1962,56.1,2150
