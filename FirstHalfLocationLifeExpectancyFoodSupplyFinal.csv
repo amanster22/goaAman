@@ -1,0 +1,925 @@
+Country,Year,LifeExpectancy,FoodSupply
+Afghanistan,2000,54.8,1740
+Afghanistan,2001,55.5,1830
+Afghanistan,2002,56.5,1890
+Afghanistan,2003,57.1,1970
+Afghanistan,2004,57.6,1950
+Afghanistan,2005,58,1970
+Afghanistan,2006,58.5,2050
+Afghanistan,2007,59.2,2040
+Afghanistan,2008,59.9,2080
+Afghanistan,2009,60.5,2100
+Afghanistan,2010,61,2110
+Albania,2000,76,2800
+Albania,2001,75.9,2860
+Albania,2002,75.6,2770
+Albania,2003,75.8,2790
+Albania,2004,76.2,2870
+Albania,2005,76.9,2860
+Albania,2006,77.5,2860
+Albania,2007,77.6,2950
+Albania,2008,78,2990
+Albania,2009,78.1,3080
+Albania,2010,78.1,3130
+Algeria,2000,71.3,2890
+Algeria,2001,71.8,2930
+Algeria,2002,72,2970
+Algeria,2003,72.6,2990
+Algeria,2004,72.9,2960
+Algeria,2005,73.3,3050
+Algeria,2006,73.6,3040
+Algeria,2007,73.9,3050
+Algeria,2008,74.2,3110
+Algeria,2009,74.5,3140
+Algeria,2010,74.7,3220
+Angola,2000,53.4,1830
+Angola,2001,54.5,1920
+Angola,2002,55.1,1980
+Angola,2003,55.5,2030
+Angola,2004,56.4,2080
+Angola,2005,57,2120
+Angola,2006,58,2170
+Angola,2007,58.8,2250
+Angola,2008,59.5,2300
+Angola,2009,60.2,2350
+Angola,2010,60.8,2410
+Antigua and Barbuda,2000,75.1,2090
+Antigua and Barbuda,2001,75.4,2070
+Antigua and Barbuda,2002,75.6,2070
+Antigua and Barbuda,2003,75.7,2110
+Antigua and Barbuda,2004,75.9,2330
+Antigua and Barbuda,2005,75.9,2330
+Antigua and Barbuda,2006,75.1,2410
+Antigua and Barbuda,2007,75.2,2380
+Antigua and Barbuda,2008,75.8,2320
+Antigua and Barbuda,2009,75.9,2320
+Antigua and Barbuda,2010,76,2370
+Argentina,2000,74.3,3210
+Argentina,2001,74.3,2980
+Argentina,2002,74.4,3010
+Argentina,2003,74.9,3030
+Argentina,2004,75.3,3110
+Argentina,2005,75.4,3110
+Argentina,2006,75.3,3150
+Argentina,2007,75.7,3160
+Argentina,2008,75.8,3130
+Argentina,2009,75.9,3160
+Argentina,2010,76,3160
+Armenia,2000,72.5,2240
+Armenia,2001,72.7,2260
+Armenia,2002,72.8,2430
+Armenia,2003,73,2550
+Armenia,2004,73,2670
+Armenia,2005,73.1,2760
+Armenia,2006,73.5,2760
+Armenia,2007,73.5,2870
+Armenia,2008,73.6,2820
+Armenia,2009,73.9,2770
+Armenia,2010,74.2,2790
+Australia,2000,80.1,3050
+Australia,2001,80.3,3080
+Australia,2002,80.6,3100
+Australia,2003,80.9,3050
+Australia,2004,81.2,3100
+Australia,2005,81.5,3160
+Australia,2006,81.5,3200
+Australia,2007,81.7,3200
+Australia,2008,81.9,3210
+Australia,2009,82.1,3210
+Australia,2010,82.3,3240
+Austria,2000,78.9,3730
+Austria,2001,79,3650
+Austria,2002,79.1,3610
+Austria,2003,79.5,3610
+Austria,2004,79.8,3640
+Austria,2005,80.1,3720
+Austria,2006,80.3,3740
+Austria,2007,80.5,3720
+Austria,2008,80.5,3720
+Austria,2009,80.8,3720
+Austria,2010,81,3740
+Azerbaijan,2000,67.1,2370
+Azerbaijan,2001,67.2,2460
+Azerbaijan,2002,67.1,2550
+Azerbaijan,2003,67.2,2640
+Azerbaijan,2004,67.3,2840
+Azerbaijan,2005,67.7,3010
+Azerbaijan,2006,68.2,3020
+Azerbaijan,2007,68.5,3030
+Azerbaijan,2008,68.8,3000
+Azerbaijan,2009,69,2970
+Azerbaijan,2010,69.2,3040
+Bahamas,2000,71.3,2770
+Bahamas,2001,71.9,2730
+Bahamas,2002,72.4,2690
+Bahamas,2003,72.4,2660
+Bahamas,2004,73.2,2650
+Bahamas,2005,73,2630
+Bahamas,2006,73.6,2610
+Bahamas,2007,73.5,2590
+Bahamas,2008,73.2,2620
+Bahamas,2009,73.2,2600
+Bahamas,2010,73.2,2570
+Bangladesh,2000,66,2330
+Bangladesh,2001,66.3,2310
+Bangladesh,2002,66.7,2350
+Bangladesh,2003,67.1,2380
+Bangladesh,2004,67.4,2370
+Bangladesh,2005,67.8,2370
+Bangladesh,2006,68.2,2420
+Bangladesh,2007,69,2390
+Bangladesh,2008,69.6,2430
+Bangladesh,2009,70,2440
+Bangladesh,2010,71.1,2430
+Barbados,2000,75.2,2840
+Barbados,2001,75.1,2810
+Barbados,2002,74.9,2840
+Barbados,2003,74.9,2770
+Barbados,2004,75.2,2890
+Barbados,2005,75.4,2840
+Barbados,2006,75.5,2910
+Barbados,2007,75.8,2880
+Barbados,2008,76.1,2910
+Barbados,2009,76.2,2910
+Barbados,2010,76.2,2890
+Belarus,2000,68.6,3050
+Belarus,2001,68,2980
+Belarus,2002,68.6,2820
+Belarus,2003,69,2900
+Belarus,2004,68.8,2990
+Belarus,2005,69.5,3080
+Belarus,2006,70.4,3190
+Belarus,2007,70.5,3200
+Belarus,2008,70.6,3130
+Belarus,2009,70.6,3200
+Belarus,2010,70.5,3400
+Belgium,2000,78.3,3750
+Belgium,2001,78.5,3750
+Belgium,2002,78.7,3720
+Belgium,2003,79.1,3720
+Belgium,2004,79.3,3720
+Belgium,2005,79.6,3720
+Belgium,2006,79.8,3710
+Belgium,2007,79.9,3700
+Belgium,2008,80,3700
+Belgium,2009,80.2,3710
+Belgium,2010,80.4,3720
+Belize,2000,70.6,2760
+Belize,2001,71.4,2780
+Belize,2002,71.8,2810
+Belize,2003,72,2780
+Belize,2004,72.4,2820
+Belize,2005,72.6,2800
+Belize,2006,73.1,2790
+Belize,2007,73.6,2720
+Belize,2008,73.7,2760
+Belize,2009,73.6,2840
+Belize,2010,73.8,2760
+Benin,2000,57.6,2320
+Benin,2001,57.9,2400
+Benin,2002,58.1,2360
+Benin,2003,58.5,2460
+Benin,2004,58.8,2440
+Benin,2005,59.1,2450
+Benin,2006,59.5,2560
+Benin,2007,60.1,2520
+Benin,2008,60.7,2570
+Benin,2009,61.1,2560
+Benin,2010,61.4,2600
+Bolivia,2000,67.2,2080
+Bolivia,2001,67.6,2100
+Bolivia,2002,68.1,2120
+Bolivia,2003,68.6,2050
+Bolivia,2004,69,2110
+Bolivia,2005,69.3,2160
+Bolivia,2006,69.6,2170
+Bolivia,2007,69.8,2150
+Bolivia,2008,70.1,2130
+Bolivia,2009,70.3,2180
+Bolivia,2010,70.5,2220
+Bosnia and Herzegovina,2000,75.3,2900
+Bosnia and Herzegovina,2001,75.1,2900
+Bosnia and Herzegovina,2002,75.3,2830
+Bosnia and Herzegovina,2003,75.5,3090
+Bosnia and Herzegovina,2004,75.3,3040
+Bosnia and Herzegovina,2005,75.6,3020
+Bosnia and Herzegovina,2006,75.3,3060
+Bosnia and Herzegovina,2007,75.9,3110
+Bosnia and Herzegovina,2008,76.1,3080
+Bosnia and Herzegovina,2009,76.3,3100
+Bosnia and Herzegovina,2010,76.4,3130
+Botswana,2000,45,2150
+Botswana,2001,44.9,2110
+Botswana,2002,45.7,2110
+Botswana,2003,47.5,2190
+Botswana,2004,49.9,2200
+Botswana,2005,51.4,2150
+Botswana,2006,53.4,2170
+Botswana,2007,54.7,2180
+Botswana,2008,56.1,2200
+Botswana,2009,57,2230
+Botswana,2010,57.8,2270
+Brazil,2000,71.5,2890
+Brazil,2001,71.8,2930
+Brazil,2002,72,3070
+Brazil,2003,72.3,3080
+Brazil,2004,72.8,3080
+Brazil,2005,73.1,3100
+Brazil,2006,73.3,3110
+Brazil,2007,73.5,3180
+Brazil,2008,73.7,3170
+Brazil,2009,73.8,3230
+Brazil,2010,74,3290
+Brunei,2000,72.8,2880
+Brunei,2001,72.9,2930
+Brunei,2002,72.9,2980
+Brunei,2003,72.9,3000
+Brunei,2004,73,2980
+Brunei,2005,73.2,2970
+Brunei,2006,73.5,2920
+Brunei,2007,73.8,2910
+Brunei,2008,73.8,2890
+Brunei,2009,73.8,2890
+Brunei,2010,73.9,2940
+Bulgaria,2000,70.4,2820
+Bulgaria,2001,70.7,2780
+Bulgaria,2002,70.9,2760
+Bulgaria,2003,71,2760
+Bulgaria,2004,71.1,2720
+Bulgaria,2005,71.2,2760
+Bulgaria,2006,71.5,2730
+Bulgaria,2007,71.9,2780
+Bulgaria,2008,72.1,2790
+Bulgaria,2009,72.3,2760
+Bulgaria,2010,72.7,2770
+Burkina Faso,2000,52.9,2330
+Burkina Faso,2001,53.4,2410
+Burkina Faso,2002,54,2490
+Burkina Faso,2003,54.6,2510
+Burkina Faso,2004,55.3,2460
+Burkina Faso,2005,56,2560
+Burkina Faso,2006,56.5,2550
+Burkina Faso,2007,57.1,2590
+Burkina Faso,2008,57.6,2640
+Burkina Faso,2009,57.9,2680
+Burkina Faso,2010,58.3,2660
+Cambodia,2000,60.9,2170
+Cambodia,2001,61.5,2260
+Cambodia,2002,62.2,2260
+Cambodia,2003,62.9,2280
+Cambodia,2004,63.7,2330
+Cambodia,2005,64.5,2380
+Cambodia,2006,65.2,2390
+Cambodia,2007,65.9,2400
+Cambodia,2008,66.5,2420
+Cambodia,2009,66.9,2420
+Cambodia,2010,67.4,2430
+Cameroon,2000,54.3,2160
+Cameroon,2001,54.2,2200
+Cameroon,2002,54.3,2230
+Cameroon,2003,54.6,2250
+Cameroon,2004,55,2310
+Cameroon,2005,55.4,2350
+Cameroon,2006,55.9,2380
+Cameroon,2007,56.6,2450
+Cameroon,2008,57.2,2490
+Cameroon,2009,57.7,2510
+Cameroon,2010,58.2,2570
+Canada,2000,79.6,3500
+Canada,2001,79.8,3500
+Canada,2002,80,3520
+Canada,2003,80.2,3530
+Canada,2004,80.4,3480
+Canada,2005,80.7,3470
+Canada,2006,80.9,3480
+Canada,2007,81.1,3470
+Canada,2008,81.4,3440
+Canada,2009,81.6,3450
+Canada,2010,81.9,3470
+Cape Verde,2000,70.6,2370
+Cape Verde,2001,70.8,2320
+Cape Verde,2002,71.2,2410
+Cape Verde,2003,71.5,2520
+Cape Verde,2004,71.8,2520
+Cape Verde,2005,72.9,2510
+Cape Verde,2006,73.2,2570
+Cape Verde,2007,73.9,2540
+Cape Verde,2008,74.1,2560
+Cape Verde,2009,74.4,2520
+Cape Verde,2010,74.5,2570
+Central African Republic,2000,43.9,1990
+Central African Republic,2001,44.2,2000
+Central African Republic,2002,44.5,1970
+Central African Republic,2003,44.8,1990
+Central African Republic,2004,45.2,2030
+Central African Republic,2005,45.6,2030
+Central African Republic,2006,46.1,2090
+Central African Republic,2007,46.8,2130
+Central African Republic,2008,47.4,2140
+Central African Republic,2009,47.8,2160
+Central African Republic,2010,48.3,2150
+Chad,2000,52.5,2020
+Chad,2001,52.6,1970
+Chad,2002,52.8,2020
+Chad,2003,53.2,2030
+Chad,2004,53.7,2030
+Chad,2005,53.9,2020
+Chad,2006,54.8,2030
+Chad,2007,55.2,2030
+Chad,2008,56,2020
+Chad,2009,56.5,2060
+Chad,2010,56.9,2060
+Chile,2000,77,2870
+Chile,2001,77.4,2900
+Chile,2002,77.4,2890
+Chile,2003,77.6,2920
+Chile,2004,77.9,2910
+Chile,2005,78.2,2960
+Chile,2006,78.4,2930
+Chile,2007,78.7,2940
+Chile,2008,78.6,2890
+Chile,2009,78.6,2920
+Chile,2010,79,2960
+China,2000,71.7,2820
+China,2001,72,2830
+China,2002,72.3,2830
+China,2003,72.5,2860
+China,2004,73,2880
+China,2005,73.7,2880
+China,2006,74.2,2920
+China,2007,74.3,2980
+China,2008,74.7,2990
+China,2009,74.9,3040
+China,2010,75.3,3080
+Colombia,2000,74.4,2820
+Colombia,2001,73.4,2780
+Colombia,2002,75.2,2800
+Colombia,2003,75.6,2780
+Colombia,2004,76.5,2730
+Colombia,2005,76.7,2770
+Colombia,2006,77.3,2800
+Colombia,2007,77.6,2810
+Colombia,2008,77.5,2710
+Colombia,2009,77.9,2670
+Colombia,2010,78.7,2700
+"Congo, Rep.",2000,54,2230
+"Congo, Rep.",2001,54.7,2260
+"Congo, Rep.",2002,55.3,2240
+"Congo, Rep.",2003,56.1,2260
+"Congo, Rep.",2004,57,2040
+"Congo, Rep.",2005,57.8,2140
+"Congo, Rep.",2006,58.5,2140
+"Congo, Rep.",2007,59.4,2110
+"Congo, Rep.",2008,60.3,2140
+"Congo, Rep.",2009,60.9,2140
+"Congo, Rep.",2010,61.6,2190
+Costa Rica,2000,77.9,2800
+Costa Rica,2001,78.4,2770
+Costa Rica,2002,78.5,2750
+Costa Rica,2003,78.6,2760
+Costa Rica,2004,79.4,2810
+Costa Rica,2005,79.1,2870
+Costa Rica,2006,80.3,2860
+Costa Rica,2007,80.3,2840
+Costa Rica,2008,80.6,2840
+Costa Rica,2009,79.5,2850
+Costa Rica,2010,80.2,2880
+Cote d'Ivoire,2000,51.5,2630
+Cote d'Ivoire,2001,51.7,2670
+Cote d'Ivoire,2002,52.1,2690
+Cote d'Ivoire,2003,52.6,2740
+Cote d'Ivoire,2004,53.5,2790
+Cote d'Ivoire,2005,54.4,2780
+Cote d'Ivoire,2006,55.3,2790
+Cote d'Ivoire,2007,56.3,2740
+Cote d'Ivoire,2008,57,2730
+Cote d'Ivoire,2009,57.4,2740
+Cote d'Ivoire,2010,57.8,2780
+Croatia,2000,74.9,2740
+Croatia,2001,75,2820
+Croatia,2002,75.1,2870
+Croatia,2003,75.6,2940
+Croatia,2004,75.6,2980
+Croatia,2005,76,3070
+Croatia,2006,75.9,3080
+Croatia,2007,75.9,3110
+Croatia,2008,76.5,3060
+Croatia,2009,76.8,2970
+Croatia,2010,77.1,3000
+Cuba,2000,77.2,3080
+Cuba,2001,77.9,3150
+Cuba,2002,77.8,3250
+Cuba,2003,77.8,3350
+Cuba,2004,77.7,3250
+Cuba,2005,78.4,3260
+Cuba,2006,78.5,3250
+Cuba,2007,78.4,3120
+Cuba,2008,78.5,3230
+Cuba,2009,78.5,3160
+Cuba,2010,79.1,3290
+Cyprus,2000,77.1,2650
+Cyprus,2001,77.3,2640
+Cyprus,2002,77.7,2610
+Cyprus,2003,77.9,2600
+Cyprus,2004,77.9,2570
+Cyprus,2005,78.2,2560
+Cyprus,2006,78.3,2640
+Cyprus,2007,78.8,2660
+Cyprus,2008,79.1,2630
+Cyprus,2009,79.5,2670
+Cyprus,2010,79.8,2680
+Czech Republic,2000,75.5,3170
+Czech Republic,2001,75.7,3240
+Czech Republic,2002,75.6,3320
+Czech Republic,2003,76.1,3320
+Czech Republic,2004,76.4,3320
+Czech Republic,2005,77,3280
+Czech Republic,2006,77.2,3260
+Czech Republic,2007,77.3,3270
+Czech Republic,2008,77.6,3280
+Czech Republic,2009,77.8,3280
+Czech Republic,2010,78,3250
+Denmark,2000,77.3,3340
+Denmark,2001,77.4,3370
+Denmark,2002,77.7,3340
+Denmark,2003,78,3380
+Denmark,2004,78.3,3410
+Denmark,2005,78.5,3410
+Denmark,2006,78.7,3450
+Denmark,2007,79,3330
+Denmark,2008,79.2,3340
+Denmark,2009,79.5,3400
+Denmark,2010,79.9,3350
+Djibouti,2000,60.5,1980
+Djibouti,2001,60.6,2050
+Djibouti,2002,60.9,2090
+Djibouti,2003,61,2140
+Djibouti,2004,61.4,2270
+Djibouti,2005,61.4,2310
+Djibouti,2006,62.1,2410
+Djibouti,2007,62.5,2450
+Djibouti,2008,62.9,2470
+Djibouti,2009,63.2,2470
+Djibouti,2010,63.6,2500
+Dominica,2000,72.2,3040
+Dominica,2001,72.3,2980
+Dominica,2002,72.2,3010
+Dominica,2003,72.3,2960
+Dominica,2004,72.6,2920
+Dominica,2005,72.6,2920
+Dominica,2006,72.5,3040
+Dominica,2007,72.7,3020
+Dominica,2008,72.7,3040
+Dominica,2009,72.4,2990
+Dominica,2010,72.4,2960
+Dominican Republic,2000,73.8,2260
+Dominican Republic,2001,73.9,2290
+Dominican Republic,2002,73.5,2140
+Dominican Republic,2003,72.6,2220
+Dominican Republic,2004,72.6,2330
+Dominican Republic,2005,72.7,2370
+Dominican Republic,2006,72.9,2400
+Dominican Republic,2007,73.3,2350
+Dominican Republic,2008,73.4,2390
+Dominican Republic,2009,73.5,2530
+Dominican Republic,2010,73.4,2560
+Ecuador,2000,75,2220
+Ecuador,2001,74.1,2240
+Ecuador,2002,73.9,2200
+Ecuador,2003,73.9,2230
+Ecuador,2004,73.6,2250
+Ecuador,2005,73.6,2230
+Ecuador,2006,73.7,2210
+Ecuador,2007,73.8,2300
+Ecuador,2008,74.1,2290
+Ecuador,2009,74.3,2350
+Ecuador,2010,74.9,2380
+Egypt,2000,68.3,3410
+Egypt,2001,68.3,3430
+Egypt,2002,68.2,3380
+Egypt,2003,68.5,3310
+Egypt,2004,68.8,3370
+Egypt,2005,68.9,3390
+Egypt,2006,69.2,3450
+Egypt,2007,69.3,3490
+Egypt,2008,69.3,3440
+Egypt,2009,69.4,3510
+Egypt,2010,69.6,3550
+El Salvador,2000,73,2630
+El Salvador,2001,74.3,2640
+El Salvador,2002,73.9,2600
+El Salvador,2003,73.6,2570
+El Salvador,2004,73.6,2570
+El Salvador,2005,73.7,2580
+El Salvador,2006,74.1,2570
+El Salvador,2007,74.7,2570
+El Salvador,2008,74.1,2570
+El Salvador,2009,75.2,2520
+El Salvador,2010,75.1,2540
+Estonia,2000,70.8,3050
+Estonia,2001,71.4,3040
+Estonia,2002,72.1,3070
+Estonia,2003,72.5,3080
+Estonia,2004,73,3170
+Estonia,2005,73.3,3200
+Estonia,2006,73.3,3220
+Estonia,2007,74.4,3310
+Estonia,2008,75.2,3350
+Estonia,2009,76.3,3310
+Estonia,2010,76.3,3290
+Eswatini,2000,46.3,2310
+Eswatini,2001,45,2390
+Eswatini,2002,43.9,2440
+Eswatini,2003,43.1,2470
+Eswatini,2004,43.3,2370
+Eswatini,2005,44.1,2330
+Eswatini,2006,44.9,2310
+Eswatini,2007,45.5,2260
+Eswatini,2008,46.4,2250
+Eswatini,2009,48,2280
+Eswatini,2010,49.8,2280
+Ethiopia,2000,53.3,1830
+Ethiopia,2001,54.2,1840
+Ethiopia,2002,55,1880
+Ethiopia,2003,55.9,1880
+Ethiopia,2004,57,1980
+Ethiopia,2005,58.2,1970
+Ethiopia,2006,59.5,1960
+Ethiopia,2007,60.8,2020
+Ethiopia,2008,61.9,2050
+Ethiopia,2009,63,2080
+Ethiopia,2010,64,2100
+Fiji,2000,66.2,2880
+Fiji,2001,66.6,2900
+Fiji,2002,66.5,2890
+Fiji,2003,67.1,2900
+Fiji,2004,67.1,2940
+Fiji,2005,67.1,2950
+Fiji,2006,67.1,2920
+Fiji,2007,67.1,2950
+Fiji,2008,67.5,2920
+Fiji,2009,67.6,2910
+Fiji,2010,67.7,2920
+Finland,2000,78.4,3170
+Finland,2001,78.6,3150
+Finland,2002,78.8,3150
+Finland,2003,79,3190
+Finland,2004,79.3,3200
+Finland,2005,79.6,3240
+Finland,2006,79.7,3280
+Finland,2007,80,3240
+Finland,2008,80.2,3230
+Finland,2009,80.4,3280
+Finland,2010,80.7,3310
+France,2000,79.3,3640
+France,2001,79.5,3660
+France,2002,79.7,3590
+France,2003,80.3,3560
+France,2004,80.6,3540
+France,2005,80.8,3510
+France,2006,81.1,3470
+France,2007,81.2,3550
+France,2008,81.4,3530
+France,2009,81.6,3540
+France,2010,81.8,3510
+Gabon,2000,59.5,2700
+Gabon,2001,59.8,2640
+Gabon,2002,59.8,2660
+Gabon,2003,60.2,2680
+Gabon,2004,61.1,2720
+Gabon,2005,61.7,2720
+Gabon,2006,62,2710
+Gabon,2007,62.2,2650
+Gabon,2008,62.7,2700
+Gabon,2009,63.3,2730
+Gabon,2010,63.7,2770
+Gambia,2000,61.7,2520
+Gambia,2001,61.7,2460
+Gambia,2002,61.8,2460
+Gambia,2003,62,2470
+Gambia,2004,62.2,2440
+Gambia,2005,62.4,2400
+Gambia,2006,62.6,2540
+Gambia,2007,62.9,2590
+Gambia,2008,63.3,2620
+Gambia,2009,63.7,2670
+Gambia,2010,64.2,2690
+Georgia,2000,70.8,2640
+Georgia,2001,70.4,2750
+Georgia,2002,70.6,2860
+Georgia,2003,70.7,2900
+Georgia,2004,71,2980
+Georgia,2005,71.5,2860
+Georgia,2006,72,2900
+Georgia,2007,71.5,2980
+Georgia,2008,71.7,2950
+Georgia,2009,71.9,2850
+Georgia,2010,72.2,2810
+Germany,2000,78.7,3360
+Germany,2001,78.8,3430
+Germany,2002,78.9,3390
+Germany,2003,79.3,3410
+Germany,2004,79.6,3450
+Germany,2005,79.9,3470
+Germany,2006,80,3530
+Germany,2007,80.2,3520
+Germany,2008,80.3,3520
+Germany,2009,80.5,3500
+Germany,2010,80.7,3540
+Ghana,2000,59.5,2560
+Ghana,2001,59.5,2660
+Ghana,2002,59.6,2670
+Ghana,2003,59.8,2680
+Ghana,2004,60,2750
+Ghana,2005,60.3,2820
+Ghana,2006,60.5,2800
+Ghana,2007,61,2950
+Ghana,2008,61.3,3030
+Ghana,2009,61.8,3080
+Ghana,2010,62.4,3000
+Greece,2000,78.7,3610
+Greece,2001,78.9,3640
+Greece,2002,79.1,3650
+Greece,2003,79.2,3720
+Greece,2004,79.4,3590
+Greece,2005,79.7,3490
+Greece,2006,79.6,3510
+Greece,2007,80,3520
+Greece,2008,80.2,3510
+Greece,2009,80.4,3440
+Greece,2010,80.5,3430
+Grenada,2000,72.1,2290
+Grenada,2001,72.1,2310
+Grenada,2002,72.2,2310
+Grenada,2003,71.8,2380
+Grenada,2004,72.4,2370
+Grenada,2005,72.5,2400
+Grenada,2006,72.6,2400
+Grenada,2007,72.5,2430
+Grenada,2008,72.5,2430
+Grenada,2009,72.5,2430
+Grenada,2010,72.6,2420
+Guatemala,2000,67.2,2220
+Guatemala,2001,67.8,2360
+Guatemala,2002,68.1,2350
+Guatemala,2003,68.4,2320
+Guatemala,2004,68.4,2380
+Guatemala,2005,68.9,2420
+Guatemala,2006,69.5,2450
+Guatemala,2007,69.9,2380
+Guatemala,2008,69.9,2460
+Guatemala,2009,70.3,2430
+Guatemala,2010,70.7,2490
+Guinea,2000,54.7,2330
+Guinea,2001,55.1,2360
+Guinea,2002,55.4,2400
+Guinea,2003,55.7,2430
+Guinea,2004,56,2440
+Guinea,2005,56.3,2500
+Guinea,2006,56.5,2510
+Guinea,2007,56.9,2530
+Guinea,2008,57.1,2550
+Guinea,2009,57.6,2550
+Guinea,2010,57.9,2550
+Guinea-Bissau,2000,51.8,2280
+Guinea-Bissau,2001,52.1,2270
+Guinea-Bissau,2002,52.4,2230
+Guinea-Bissau,2003,52.7,2260
+Guinea-Bissau,2004,52.8,2270
+Guinea-Bissau,2005,53.6,2250
+Guinea-Bissau,2006,54.3,2290
+Guinea-Bissau,2007,54.8,2300
+Guinea-Bissau,2008,55.5,2280
+Guinea-Bissau,2009,56.2,2350
+Guinea-Bissau,2010,56.9,2340
+Guyana,2000,63.9,2760
+Guyana,2001,63.9,2730
+Guyana,2002,64.1,2710
+Guyana,2003,64.3,2690
+Guyana,2004,64.4,2690
+Guyana,2005,65,2660
+Guyana,2006,65.2,2660
+Guyana,2007,65.3,2600
+Guyana,2008,65.9,2620
+Guyana,2009,65.8,2640
+Guyana,2010,65.7,2640
+Haiti,2000,57.8,1900
+Haiti,2001,58.2,1900
+Haiti,2002,58.5,1870
+Haiti,2003,57.5,1890
+Haiti,2004,59,1880
+Haiti,2005,59.5,1940
+Haiti,2006,60,1970
+Haiti,2007,60.2,2010
+Haiti,2008,60.7,2060
+Haiti,2009,32.5,2170
+Haiti,2010,60,2100
+Honduras,2000,70.2,2450
+Honduras,2001,70.4,2470
+Honduras,2002,70.5,2480
+Honduras,2003,70.7,2480
+Honduras,2004,70.9,2490
+Honduras,2005,71.1,2530
+Honduras,2006,71.2,2570
+Honduras,2007,71.3,2600
+Honduras,2008,71.3,2600
+Honduras,2009,71.1,2600
+Honduras,2010,71,2620
+"Hong Kong, China",2000,80.7,3080
+"Hong Kong, China",2001,81.1,3130
+"Hong Kong, China",2002,81.4,3180
+"Hong Kong, China",2003,81.7,3210
+"Hong Kong, China",2004,81.9,3220
+"Hong Kong, China",2005,82.1,3250
+"Hong Kong, China",2006,82.3,3250
+"Hong Kong, China",2007,82.5,3240
+"Hong Kong, China",2008,82.7,3260
+"Hong Kong, China",2009,82.8,3260
+"Hong Kong, China",2010,83,3260
+Hungary,2000,72.5,3090
+Hungary,2001,72.6,3080
+Hungary,2002,72.7,3060
+Hungary,2003,73.1,3190
+Hungary,2004,73.1,3270
+Hungary,2005,73.5,3280
+Hungary,2006,73.6,3160
+Hungary,2007,74.2,3150
+Hungary,2008,74.4,3140
+Hungary,2009,74.8,3060
+Hungary,2010,75.1,3060
+Iceland,2000,80.6,3150
+Iceland,2001,80.8,3210
+Iceland,2002,81.2,3240
+Iceland,2003,81.4,3290
+Iceland,2004,81.6,3320
+Iceland,2005,81.7,3400
+Iceland,2006,81.9,3460
+Iceland,2007,82.2,3430
+Iceland,2008,82.4,3390
+Iceland,2009,82.6,3340
+Iceland,2010,82.8,3350
+India,2000,63.3,2330
+India,2001,63.8,2290
+India,2002,64.5,2280
+India,2003,65.2,2260
+India,2004,65.4,2270
+India,2005,65.6,2330
+India,2006,65.8,2400
+India,2007,66.1,2430
+India,2008,66.8,2420
+India,2009,67.3,2440
+India,2010,67.6,2460
+Indonesia,2000,67.5,2420
+Indonesia,2001,67.7,2450
+Indonesia,2002,67.8,2470
+Indonesia,2003,66.3,2470
+Indonesia,2004,68.3,2470
+Indonesia,2005,68.4,2480
+Indonesia,2006,68.7,2520
+Indonesia,2007,68.9,2540
+Indonesia,2008,69.1,2600
+Indonesia,2009,69.3,2650
+Indonesia,2010,69.6,2710
+Iran,2000,72.2,3040
+Iran,2001,72.5,3030
+Iran,2002,71.8,3040
+Iran,2003,73.2,3090
+Iran,2004,73.5,3070
+Iran,2005,74,3000
+Iran,2006,74.4,3030
+Iran,2007,74.8,3010
+Iran,2008,75.1,3060
+Iran,2009,75.5,3090
+Iran,2010,75.8,3050
+Iraq,2000,69,2250
+Iraq,2001,69.3,2270
+Iraq,2002,68.1,2250
+Iraq,2003,68.3,2370
+Iraq,2004,67.7,2350
+Iraq,2005,66.6,2370
+Iraq,2006,67.2,2380
+Iraq,2007,69.3,2360
+Iraq,2008,70.1,2440
+Iraq,2009,70.6,2510
+Iraq,2010,71,2490
+Ireland,2000,77.3,3720
+Ireland,2001,77.8,3580
+Ireland,2002,78.3,3590
+Ireland,2003,78.7,3570
+Ireland,2004,79.1,3490
+Ireland,2005,79.4,3500
+Ireland,2006,79.7,3530
+Ireland,2007,80,3580
+Ireland,2008,80.2,3570
+Ireland,2009,80.8,3590
+Ireland,2010,80.8,3600
+Israel,2000,79,3600
+Israel,2001,78.9,3700
+Israel,2002,79.5,3580
+Israel,2003,79.9,3620
+Israel,2004,80.3,3630
+Israel,2005,80.4,3620
+Israel,2006,80.8,3530
+Israel,2007,81,3520
+Israel,2008,81.4,3510
+Israel,2009,81.9,3540
+Israel,2010,82,3550
+Italy,2000,79.9,3670
+Italy,2001,80.2,3660
+Italy,2002,80.3,3620
+Italy,2003,80.8,3630
+Italy,2004,81,3570
+Italy,2005,81.3,3630
+Italy,2006,81.5,3620
+Italy,2007,81.6,3600
+Italy,2008,81.8,3600
+Italy,2009,82.1,3580
+Italy,2010,82.2,3580
+Jamaica,2000,74.7,2800
+Jamaica,2001,75.5,2800
+Jamaica,2002,76.3,2810
+Jamaica,2003,76.8,2790
+Jamaica,2004,77.4,2800
+Jamaica,2005,77.5,2790
+Jamaica,2006,76.3,2790
+Jamaica,2007,75.2,2750
+Jamaica,2008,74.6,2750
+Jamaica,2009,76.3,2760
+Jamaica,2010,75.8,2770
+Japan,2000,81.9,2890
+Japan,2001,82.2,2850
+Japan,2002,82.3,2840
+Japan,2003,82.5,2840
+Japan,2004,82.5,2830
+Japan,2005,82.8,2780
+Japan,2006,82.9,2820
+Japan,2007,83.1,2730
+Japan,2008,83.3,2680
+Japan,2009,83.3,2690
+Japan,2010,83.2,2710
+Jordan,2000,73,2840
+Jordan,2001,73.3,2940
+Jordan,2002,73.8,3080
+Jordan,2003,74,3120
+Jordan,2004,74.1,3120
+Jordan,2005,74.5,3150
+Jordan,2006,75.5,3120
+Jordan,2007,76.2,3070
+Jordan,2008,76.7,3100
+Jordan,2009,76.9,3100
+Jordan,2010,77.2,3140
+Kazakhstan,2000,64.7,2890
+Kazakhstan,2001,64.7,2940
+Kazakhstan,2002,64.6,2970
+Kazakhstan,2003,64.6,2980
+Kazakhstan,2004,64.6,3030
+Kazakhstan,2005,64.8,3070
+Kazakhstan,2006,65.3,3160
+Kazakhstan,2007,66.3,3190
+Kazakhstan,2008,67.3,3150
+Kazakhstan,2009,67.6,3140
+Kazakhstan,2010,68.1,3210
+Kenya,2000,54.9,2070
+Kenya,2001,55,2020
+Kenya,2002,55.2,2000
+Kenya,2003,55.7,2020
+Kenya,2004,56.5,2160
+Kenya,2005,57.5,2160
+Kenya,2006,58.5,2110
+Kenya,2007,59.4,2110
+Kenya,2008,60.3,2170
+Kenya,2009,61.2,2160
+Kenya,2010,62,2170
+Kiribati,2000,56.7,2880
+Kiribati,2001,57,2860
+Kiribati,2002,57.2,2870
+Kiribati,2003,57.5,2840
+Kiribati,2004,57.7,2940
+Kiribati,2005,58,2900
+Kiribati,2006,58.2,2890
+Kiribati,2007,58.4,2880
+Kiribati,2008,58.6,2940
+Kiribati,2009,58.8,2960
+Kiribati,2010,59,3030
+Kuwait,2000,79.2,3480
+Kuwait,2001,78.6,3450
+Kuwait,2002,78.9,3500
+Kuwait,2003,78.8,3510
+Kuwait,2004,78.7,3580
+Kuwait,2005,78.8,3590
+Kuwait,2006,79,3570
+Kuwait,2007,78.1,3510
+Kuwait,2008,78.7,3470
+Kuwait,2009,80.1,3460
+Kuwait,2010,80.9,3470
+Kyrgyz Republic,2000,67.3,2460
+Kyrgyz Republic,2001,67.2,2490
+Kyrgyz Republic,2002,67.1,2620
+Kyrgyz Republic,2003,67.4,2740
+Kyrgyz Republic,2004,67.4,2750
+Kyrgyz Republic,2005,67.2,2660
+Kyrgyz Republic,2006,67.6,2680
+Kyrgyz Republic,2007,68.3,2680
+Kyrgyz Republic,2008,69.3,2740
+Kyrgyz Republic,2009,69.6,2790
+Kyrgyz Republic,2010,70.3,2770
