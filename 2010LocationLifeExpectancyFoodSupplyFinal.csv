@@ -1,0 +1,168 @@
+Country,Year,LifeExpectancy,FoodSupply
+Afghanistan,2010,61,2110
+Albania,2010,78.1,3130
+Algeria,2010,74.7,3220
+Angola,2010,60.8,2410
+Antigua and Barbuda,2010,76,2370
+Argentina,2010,76,3160
+Armenia,2010,74.2,2790
+Australia,2010,82.3,3240
+Austria,2010,81,3740
+Azerbaijan,2010,69.2,3040
+Bahamas,2010,73.2,2570
+Bangladesh,2010,71.1,2430
+Barbados,2010,76.2,2890
+Belarus,2010,70.5,3400
+Belgium,2010,80.4,3720
+Belize,2010,73.8,2760
+Benin,2010,61.4,2600
+Bolivia,2010,70.5,2220
+Bosnia and Herzegovina,2010,76.4,3130
+Botswana,2010,57.8,2270
+Brazil,2010,74,3290
+Brunei,2010,73.9,2940
+Bulgaria,2010,72.7,2770
+Burkina Faso,2010,58.3,2660
+Cambodia,2010,67.4,2430
+Cameroon,2010,58.2,2570
+Canada,2010,81.9,3470
+Cape Verde,2010,74.5,2570
+Central African Republic,2010,48.3,2150
+Chad,2010,56.9,2060
+Chile,2010,79,2960
+China,2010,75.3,3080
+Colombia,2010,78.7,2700
+"Congo, Rep.",2010,61.6,2190
+Costa Rica,2010,80.2,2880
+Cote d'Ivoire,2010,57.8,2780
+Croatia,2010,77.1,3000
+Cuba,2010,79.1,3290
+Cyprus,2010,79.8,2680
+Czech Republic,2010,78,3250
+Denmark,2010,79.9,3350
+Djibouti,2010,63.6,2500
+Dominica,2010,72.4,2960
+Dominican Republic,2010,73.4,2560
+Ecuador,2010,74.9,2380
+Egypt,2010,69.6,3550
+El Salvador,2010,75.1,2540
+Estonia,2010,76.3,3290
+Eswatini,2010,49.8,2280
+Ethiopia,2010,64,2100
+Fiji,2010,67.7,2920
+Finland,2010,80.7,3310
+France,2010,81.8,3510
+Gabon,2010,63.7,2770
+Gambia,2010,64.2,2690
+Georgia,2010,72.2,2810
+Germany,2010,80.7,3540
+Ghana,2010,62.4,3000
+Greece,2010,80.5,3430
+Grenada,2010,72.6,2420
+Guatemala,2010,70.7,2490
+Guinea,2010,57.9,2550
+Guinea-Bissau,2010,56.9,2340
+Guyana,2010,65.7,2640
+Haiti,2010,60,2100
+Honduras,2010,71,2620
+"Hong Kong, China",2010,83,3260
+Hungary,2010,75.1,3060
+Iceland,2010,82.8,3350
+India,2010,67.6,2460
+Indonesia,2010,69.6,2710
+Iran,2010,75.8,3050
+Iraq,2010,71,2490
+Ireland,2010,80.8,3600
+Israel,2010,82,3550
+Italy,2010,82.2,3580
+Jamaica,2010,75.8,2770
+Japan,2010,83.2,2710
+Jordan,2010,77.2,3140
+Kazakhstan,2010,68.1,3210
+Kenya,2010,62,2170
+Kiribati,2010,59,3030
+Kuwait,2010,80.9,3470
+Kyrgyz Republic,2010,70.3,2770
+Lao,2010,65.6,2400
+Latvia,2010,73.9,3150
+Lebanon,2010,75.7,3130
+Lesotho,2010,48.2,2550
+Liberia,2010,62.4,2250
+Lithuania,2010,73.7,3410
+Luxembourg,2010,81.3,3530
+Madagascar,2010,62.9,2090
+Malawi,2010,57.7,2350
+Malaysia,2010,74.6,2890
+Maldives,2010,78,2750
+Mali,2010,58.9,2830
+Malta,2010,81.2,3370
+Mauritania,2010,68.4,2810
+Mauritius,2010,74.6,3060
+Mexico,2010,75.5,3030
+Moldova,2010,71.7,2700
+Mongolia,2010,65.5,2450
+Morocco,2010,72.1,3350
+Mozambique,2010,53.6,2260
+Myanmar,2010,65.4,2530
+Namibia,2010,61.9,2090
+Nepal,2010,69.2,2610
+Netherlands,2010,81.1,3210
+New Zealand,2010,80.9,3140
+Nicaragua,2010,74.3,2540
+Niger,2010,59.3,2530
+Nigeria,2010,60.2,2710
+North Korea,2010,71.2,2100
+North Macedonia,2010,73.7,2910
+Norway,2010,81.3,3490
+Oman,2010,70.8,3080
+Pakistan,2010,63.6,2430
+Panama,2010,78.7,2650
+Paraguay,2010,76,2610
+Peru,2010,77.7,2630
+Philippines,2010,70.7,2570
+Poland,2010,76.8,3440
+Portugal,2010,80.5,3480
+Romania,2010,74.6,3340
+Russia,2010,70,3330
+Rwanda,2010,65.3,2210
+Samoa,2010,69.7,2880
+Saudi Arabia,2010,72.2,3100
+Senegal,2010,66,2430
+Sierra Leone,2010,56.6,2340
+Slovak Republic,2010,76,2940
+Slovenia,2010,80,3170
+Solomon Islands,2010,57.6,2490
+South Africa,2010,58.7,3000
+South Korea,2010,81.2,3350
+Spain,2010,82.3,3190
+Sri Lanka,2010,75.3,2490
+St. Kitts and Nevis,2010,72.3,2470
+St. Lucia,2010,76,2580
+St. Vincent and the Grenadines,2010,73.2,2940
+Sudan,2010,67.6,2350
+Suriname,2010,72.8,2710
+Sweden,2010,82,3160
+Switzerland,2010,83,3490
+Taiwan,2010,79.5,2960
+Tajikistan,2010,68.1,2050
+Tanzania,2010,61.7,2200
+Thailand,2010,77.4,2760
+Timor-Leste,2010,70.2,2110
+Togo,2010,60.2,2380
+Trinidad and Tobago,2010,74.5,2910
+Tunisia,2010,76.2,3360
+Turkey,2010,76.8,3670
+Turkmenistan,2010,69.6,2850
+Uganda,2010,60.4,2180
+Ukraine,2010,71.5,3180
+United Arab Emirates,2010,71,3210
+United Kingdom,2010,80.8,3420
+United States,2010,78.9,3650
+Uruguay,2010,76.4,3010
+Uzbekistan,2010,66.6,2690
+Vanuatu,2010,64.5,2840
+Venezuela,2010,75.4,2800
+Vietnam,2010,73.3,2720
+Yemen,2010,67.8,2210
+Zambia,2010,57.5,1910
+Zimbabwe,2010,54.4,2200
