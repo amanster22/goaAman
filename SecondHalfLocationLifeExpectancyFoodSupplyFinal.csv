@@ -1,914 +1,485 @@
 Country,Year,LifeExpectancy,FoodSupply
-Lao,2000,59,2090
-Lao,2001,59.7,2140
-Lao,2002,60.4,2180
-Lao,2003,61.1,2210
-Lao,2004,61.7,2270
-Lao,2005,62.3,2240
-Lao,2006,62.9,2280
-Lao,2007,63.6,2250
-Lao,2008,64.2,2310
-Lao,2009,64.9,2340
-Lao,2010,65.6,2400
-Latvia,2000,70.1,2900
-Latvia,2001,70.5,3010
-Latvia,2002,71,3050
-Latvia,2003,71.3,3080
-Latvia,2004,70.9,3140
-Latvia,2005,70.5,3210
-Latvia,2006,70.9,3160
-Latvia,2007,72.1,3160
-Latvia,2008,72.9,3170
-Latvia,2009,73.3,3140
-Latvia,2010,73.9,3150
-Lebanon,2000,75.1,3320
-Lebanon,2001,75.3,3270
-Lebanon,2002,75.3,3200
-Lebanon,2003,75.4,3180
-Lebanon,2004,75.4,3120
-Lebanon,2005,75.1,3130
-Lebanon,2006,75.5,3180
-Lebanon,2007,75.4,3130
-Lebanon,2008,75.5,3140
-Lebanon,2009,75.6,3160
-Lebanon,2010,75.7,3130
-Lesotho,2000,47.3,2490
-Lesotho,2001,46.1,2520
-Lesotho,2002,45,2520
-Lesotho,2003,44.2,2540
-Lesotho,2004,43.9,2570
-Lesotho,2005,44.2,2600
-Lesotho,2006,45.1,2560
-Lesotho,2007,46.3,2560
-Lesotho,2008,47.4,2570
-Lesotho,2009,48.1,2570
-Lesotho,2010,48.2,2550
-Liberia,2000,55.7,2040
-Liberia,2001,55.4,2070
-Liberia,2002,55.5,2050
-Liberia,2003,58.5,2090
-Liberia,2004,59.2,2160
-Liberia,2005,60,2120
-Liberia,2006,60.6,2150
-Liberia,2007,61.1,2230
-Liberia,2008,61.5,2230
-Liberia,2009,61.9,2200
-Liberia,2010,62.4,2250
-Lithuania,2000,71.7,3270
-Lithuania,2001,72,3280
-Lithuania,2002,72,3290
-Lithuania,2003,72,3360
-Lithuania,2004,71.3,3460
-Lithuania,2005,70.9,3470
-Lithuania,2006,70.6,3560
-Lithuania,2007,71.4,3520
-Lithuania,2008,73,3470
-Lithuania,2009,73.2,3330
-Lithuania,2010,73.7,3410
-Luxembourg,2000,78.4,3480
-Luxembourg,2001,78.7,3480
-Luxembourg,2002,79,3490
-Luxembourg,2003,79.2,3490
-Luxembourg,2004,79.5,3500
-Luxembourg,2005,79.8,3510
-Luxembourg,2006,80.2,3500
-Luxembourg,2007,80.6,3510
-Luxembourg,2008,80.8,3510
-Luxembourg,2009,81,3530
-Luxembourg,2010,81.3,3530
-Madagascar,2000,60,1990
-Madagascar,2001,60,1950
-Madagascar,2002,60.3,1980
-Madagascar,2003,60.6,1980
-Madagascar,2004,61.1,2060
-Madagascar,2005,61.5,2080
-Madagascar,2006,61.9,2100
-Madagascar,2007,62.1,2060
-Madagascar,2008,62.3,2070
-Madagascar,2009,62.6,2070
-Madagascar,2010,62.9,2090
-Malawi,2000,46.3,2240
-Malawi,2001,46.7,2170
-Malawi,2002,47.4,2170
-Malawi,2003,48,2170
-Malawi,2004,48.9,2190
-Malawi,2005,50.1,2270
-Malawi,2006,51.6,2290
-Malawi,2007,53.4,2320
-Malawi,2008,55,2310
-Malawi,2009,56.3,2330
-Malawi,2010,57.7,2350
-Malaysia,2000,73.3,2820
-Malaysia,2001,73.5,2770
-Malaysia,2002,73.5,2790
-Malaysia,2003,73.8,2830
-Malaysia,2004,74.1,2790
-Malaysia,2005,74.4,2810
-Malaysia,2006,74.5,2840
-Malaysia,2007,74.3,2790
-Malaysia,2008,74.2,2840
-Malaysia,2009,74.4,2880
-Malaysia,2010,74.6,2890
-Maldives,2000,72.8,2480
-Maldives,2001,73.7,2500
-Maldives,2002,74.4,2400
-Maldives,2003,73.9,2440
-Maldives,2004,75.8,2460
-Maldives,2005,76.3,2390
-Maldives,2006,76.8,2490
-Maldives,2007,77.2,2550
-Maldives,2008,77.5,2600
-Maldives,2009,77.8,2720
-Maldives,2010,78,2750
-Mali,2000,53.8,2500
-Mali,2001,54.3,2500
-Mali,2002,54.9,2520
-Mali,2003,55.6,2540
-Mali,2004,56.2,2580
-Mali,2005,56.6,2650
-Mali,2006,57.1,2720
-Mali,2007,57.6,2780
-Mali,2008,58,2830
-Mali,2009,58.4,2810
-Mali,2010,58.9,2830
-Malta,2000,79,3340
-Malta,2001,79.1,3340
-Malta,2002,79.3,3370
-Malta,2003,79.6,3370
-Malta,2004,80,3370
-Malta,2005,80.3,3370
-Malta,2006,80.4,3370
-Malta,2007,80.6,3370
-Malta,2008,80.8,3380
-Malta,2009,81.1,3390
-Malta,2010,81.2,3370
-Mauritania,2000,64.1,2630
-Mauritania,2001,64.5,2640
-Mauritania,2002,65,2710
-Mauritania,2003,65.5,2600
-Mauritania,2004,65.8,2630
-Mauritania,2005,66.5,2600
-Mauritania,2006,66.9,2730
-Mauritania,2007,67.4,2770
-Mauritania,2008,67.8,2760
-Mauritania,2009,68.1,2800
-Mauritania,2010,68.4,2810
-Mauritius,2000,72.6,2950
-Mauritius,2001,72.7,2950
-Mauritius,2002,72.9,2960
-Mauritius,2003,73.2,3020
-Mauritius,2004,73.2,3010
-Mauritius,2005,73.3,3020
-Mauritius,2006,73.8,3080
-Mauritius,2007,73.7,3000
-Mauritius,2008,73.8,3120
-Mauritius,2009,74.2,3150
-Mauritius,2010,74.6,3060
-Mexico,2000,74.6,3090
-Mexico,2001,74.6,3100
-Mexico,2002,74.7,3110
-Mexico,2003,75,3110
-Mexico,2004,75,3070
-Mexico,2005,75.3,3080
-Mexico,2006,75.6,3100
-Mexico,2007,75.2,3080
-Mexico,2008,75,3040
-Mexico,2009,75.3,3040
-Mexico,2010,75.5,3030
-Moldova,2000,69.2,2530
-Moldova,2001,69.1,2570
-Moldova,2002,69.1,2560
-Moldova,2003,69.4,2580
-Moldova,2004,68.9,2630
-Moldova,2005,69.4,2690
-Moldova,2006,69.6,2750
-Moldova,2007,69.9,2790
-Moldova,2008,70.1,2700
-Moldova,2009,70,2680
-Moldova,2010,71.7,2700
-Mongolia,2000,61.3,2220
-Mongolia,2001,61.7,2230
-Mongolia,2002,62.1,2220
-Mongolia,2003,62.5,2230
-Mongolia,2004,62.9,2250
-Mongolia,2005,63.5,2290
-Mongolia,2006,64,2340
-Mongolia,2007,64.5,2380
-Mongolia,2008,64.8,2450
-Mongolia,2009,65.1,2430
-Mongolia,2010,65.5,2450
-Morocco,2000,69.9,3120
-Morocco,2001,70.3,3150
-Morocco,2002,70.3,3200
-Morocco,2003,70.5,3260
-Morocco,2004,70.8,3210
-Morocco,2005,71,3270
-Morocco,2006,71.2,3250
-Morocco,2007,71.4,3270
-Morocco,2008,71.6,3290
-Morocco,2009,71.9,3290
-Morocco,2010,72.1,3350
-Mozambique,2000,52.3,1980
-Mozambique,2001,52.2,2040
-Mozambique,2002,52.1,2090
-Mozambique,2003,52.1,2060
-Mozambique,2004,52.1,2040
-Mozambique,2005,52.3,2110
-Mozambique,2006,52.8,2080
-Mozambique,2007,53.4,2160
-Mozambique,2008,53.5,2170
-Mozambique,2009,53.5,2240
-Mozambique,2010,53.6,2260
-Myanmar,2000,59.4,1960
-Myanmar,2001,59.8,2000
-Myanmar,2002,60.3,2060
-Myanmar,2003,60.8,2090
-Myanmar,2004,61.4,2140
-Myanmar,2005,62,2210
-Myanmar,2006,62.6,2280
-Myanmar,2007,57.7,2370
-Myanmar,2008,64,2410
-Myanmar,2009,64.8,2500
-Myanmar,2010,65.4,2530
-Namibia,2000,53.1,2270
-Namibia,2001,52.5,2220
-Namibia,2002,52.1,2250
-Namibia,2003,52.4,2270
-Namibia,2004,53.5,2240
-Namibia,2005,55.3,2230
-Namibia,2006,57.4,2220
-Namibia,2007,59.2,2120
-Namibia,2008,60.1,2060
-Namibia,2009,60.9,2060
-Namibia,2010,61.9,2090
-Nepal,2000,66.1,2280
-Nepal,2001,66.2,2280
-Nepal,2002,67,2340
-Nepal,2003,67.2,2370
-Nepal,2004,67.7,2410
-Nepal,2005,68,2380
-Nepal,2006,68.3,2430
-Nepal,2007,68.5,2490
-Nepal,2008,68.8,2530
-Nepal,2009,69,2560
-Nepal,2010,69.2,2610
-Netherlands,2000,78.4,3250
-Netherlands,2001,78.6,3250
-Netherlands,2002,78.9,3140
-Netherlands,2003,79.3,3200
-Netherlands,2004,79.6,3230
-Netherlands,2005,80,3210
-Netherlands,2006,80.3,3240
-Netherlands,2007,80.5,3230
-Netherlands,2008,80.8,3210
-Netherlands,2009,81,3210
-Netherlands,2010,81.1,3210
-New Zealand,2000,78.6,3120
-New Zealand,2001,78.8,3120
-New Zealand,2002,79.1,3120
-New Zealand,2003,79.4,3160
-New Zealand,2004,79.8,3180
-New Zealand,2005,80,3150
-New Zealand,2006,80.2,3180
-New Zealand,2007,80.4,3210
-New Zealand,2008,80.6,3140
-New Zealand,2009,80.9,3140
-New Zealand,2010,80.9,3140
-Nicaragua,2000,73.7,2300
-Nicaragua,2001,73.6,2290
-Nicaragua,2002,73.6,2320
-Nicaragua,2003,73.7,2360
-Nicaragua,2004,73.5,2400
-Nicaragua,2005,74.3,2410
-Nicaragua,2006,73.9,2470
-Nicaragua,2007,74,2470
-Nicaragua,2008,74.1,2470
-Nicaragua,2009,74.4,2510
-Nicaragua,2010,74.3,2540
-Niger,2000,52.3,2340
-Niger,2001,53.3,2310
-Niger,2002,53.7,2400
-Niger,2003,55,2450
-Niger,2004,55.6,2440
-Niger,2005,56.7,2440
-Niger,2006,57.2,2460
-Niger,2007,58.3,2520
-Niger,2008,58.7,2520
-Niger,2009,59,2530
-Niger,2010,59.3,2530
-Nigeria,2000,54.8,2610
-Nigeria,2001,55.1,2610
-Nigeria,2002,55.5,2610
-Nigeria,2003,56,2660
-Nigeria,2004,56.6,2710
-Nigeria,2005,57.2,2730
-Nigeria,2006,57.9,2720
-Nigeria,2007,58.5,2720
-Nigeria,2008,59,2680
-Nigeria,2009,59.6,2710
-Nigeria,2010,60.2,2710
-North Korea,2000,64,2100
-North Korea,2001,64.2,2180
-North Korea,2002,69.7,2190
-North Korea,2003,69.8,2210
-North Korea,2004,70,2180
-North Korea,2005,70.2,2140
-North Korea,2006,70.3,2110
-North Korea,2007,70.5,2100
-North Korea,2008,70.7,2090
-North Korea,2009,70.9,2090
-North Korea,2010,71.2,2100
-North Macedonia,2000,71.4,2630
-North Macedonia,2001,71.5,2720
-North Macedonia,2002,71.7,2740
-North Macedonia,2003,72.2,2870
-North Macedonia,2004,72.5,2780
-North Macedonia,2005,72.3,2830
-North Macedonia,2006,72.4,3020
-North Macedonia,2007,72.9,2960
-North Macedonia,2008,73,3000
-North Macedonia,2009,73.4,2960
-North Macedonia,2010,73.7,2910
-Norway,2000,79.1,3420
-Norway,2001,79.3,3460
-Norway,2002,79.7,3440
-Norway,2003,80.1,3480
-Norway,2004,80.4,3520
-Norway,2005,80.5,3450
-Norway,2006,80.7,3460
-Norway,2007,80.9,3480
-Norway,2008,81.1,3470
-Norway,2009,81.3,3490
-Norway,2010,81.3,3490
-Oman,2000,69.5,2680
-Oman,2001,69.6,2630
-Oman,2002,69.8,2630
-Oman,2003,70.2,2660
-Oman,2004,70.3,2720
-Oman,2005,70.1,2770
-Oman,2006,69.9,2830
-Oman,2007,70,2940
-Oman,2008,70.2,3030
-Oman,2009,70.4,3060
-Oman,2010,70.8,3080
-Pakistan,2000,61.2,2310
-Pakistan,2001,61.4,2260
-Pakistan,2002,61.5,2310
-Pakistan,2003,61.8,2340
-Pakistan,2004,61,2360
-Pakistan,2005,62.3,2380
-Pakistan,2006,62.7,2420
-Pakistan,2007,62.9,2420
-Pakistan,2008,63.1,2430
-Pakistan,2009,63.3,2430
-Pakistan,2010,63.6,2430
-Panama,2000,78.1,2270
-Panama,2001,78.1,2350
-Panama,2002,78,2370
-Panama,2003,78.2,2250
-Panama,2004,78.2,2330
-Panama,2005,78.2,2350
-Panama,2006,78.5,2470
-Panama,2007,78.4,2520
-Panama,2008,78.4,2520
-Panama,2009,78.5,2580
-Panama,2010,78.7,2650
-Paraguay,2000,76,2640
-Paraguay,2001,76.1,2680
-Paraguay,2002,75.8,2730
-Paraguay,2003,75.2,2660
-Paraguay,2004,75.6,2600
-Paraguay,2005,75.6,2620
-Paraguay,2006,76,2570
-Paraguay,2007,76,2540
-Paraguay,2008,75.8,2530
-Paraguay,2009,75.7,2580
-Paraguay,2010,76,2610
-Peru,2000,75.5,2320
-Peru,2001,75.9,2340
-Peru,2002,76,2280
-Peru,2003,76.7,2300
-Peru,2004,77.2,2410
-Peru,2005,77.7,2430
-Peru,2006,78.3,2460
-Peru,2007,78.5,2530
-Peru,2008,77.4,2560
-Peru,2009,77.3,2620
-Peru,2010,77.7,2630
-Philippines,2000,70.2,2370
-Philippines,2001,70.2,2390
-Philippines,2002,70.3,2390
-Philippines,2003,70.4,2460
-Philippines,2004,70.3,2470
-Philippines,2005,70.2,2510
-Philippines,2006,70.5,2570
-Philippines,2007,70.4,2580
-Philippines,2008,70.4,2600
-Philippines,2009,70.6,2580
-Philippines,2010,70.7,2570
-Poland,2000,74.3,3420
-Poland,2001,74.7,3430
-Poland,2002,74.9,3420
-Poland,2003,75,3380
-Poland,2004,75.2,3370
-Poland,2005,75.3,3350
-Poland,2006,75.4,3360
-Poland,2007,75.6,3350
-Poland,2008,75.9,3420
-Poland,2009,76.5,3410
-Poland,2010,76.8,3440
-Portugal,2000,77.2,3540
-Portugal,2001,77.5,3530
-Portugal,2002,77.8,3520
-Portugal,2003,78.4,3540
-Portugal,2004,78.8,3530
-Portugal,2005,79.2,3520
-Portugal,2006,79.4,3530
-Portugal,2007,79.7,3540
-Portugal,2008,79.9,3510
-Portugal,2009,80.2,3500
-Portugal,2010,80.5,3480
-Romania,2000,71.2,3240
-Romania,2001,71.2,3320
-Romania,2002,71.5,3370
-Romania,2003,72,3350
-Romania,2004,72.4,3400
-Romania,2005,72.8,3430
-Romania,2006,73.4,3380
-Romania,2007,73.4,3400
-Romania,2008,73.5,3380
-Romania,2009,73.8,3330
-Romania,2010,74.6,3340
-Russia,2000,65.5,2950
-Russia,2001,65.4,3030
-Russia,2002,65.2,3060
-Russia,2003,65.5,3110
-Russia,2004,65,3200
-Russia,2005,66.5,3250
-Russia,2006,67.5,3310
-Russia,2007,67.7,3310
-Russia,2008,68.7,3270
-Russia,2009,68.8,3300
-Russia,2010,70,3330
-Rwanda,2000,51.5,1910
-Rwanda,2001,53.2,2090
-Rwanda,2002,54.5,2000
-Rwanda,2003,56.3,1970
-Rwanda,2004,58.2,2040
-Rwanda,2005,60.2,2040
-Rwanda,2006,61.6,2050
-Rwanda,2007,62.6,2100
-Rwanda,2008,63.4,2200
-Rwanda,2009,64.5,2200
-Rwanda,2010,65.3,2210
-Samoa,2000,68.6,2820
-Samoa,2001,68.8,2820
-Samoa,2002,68.9,2830
-Samoa,2003,69,2880
-Samoa,2004,69,2890
-Samoa,2005,69.2,2860
-Samoa,2006,69.3,2850
-Samoa,2007,69.5,2910
-Samoa,2008,67.5,2880
-Samoa,2009,69.6,2910
-Samoa,2010,69.7,2880
-Saudi Arabia,2000,70.6,3080
-Saudi Arabia,2001,70.7,3020
-Saudi Arabia,2002,70.9,3000
-Saudi Arabia,2003,71.1,2960
-Saudi Arabia,2004,71.2,2990
-Saudi Arabia,2005,71.2,3050
-Saudi Arabia,2006,71.3,3050
-Saudi Arabia,2007,71.4,3010
-Saudi Arabia,2008,71.6,3010
-Saudi Arabia,2009,71.8,3120
-Saudi Arabia,2010,72.2,3100
-Senegal,2000,61.1,2170
-Senegal,2001,61.4,2140
-Senegal,2002,62.2,2220
-Senegal,2003,62.7,2250
-Senegal,2004,63.2,2240
-Senegal,2005,63.7,2310
-Senegal,2006,64.4,2340
-Senegal,2007,65,2440
-Senegal,2008,65.4,2450
-Senegal,2009,65.7,2440
-Senegal,2010,66,2430
-Sierra Leone,2000,52.2,2000
-Sierra Leone,2001,52.4,2050
-Sierra Leone,2002,52.6,2030
-Sierra Leone,2003,52.9,2020
-Sierra Leone,2004,53.3,2080
-Sierra Leone,2005,53.7,2160
-Sierra Leone,2006,54.1,2190
-Sierra Leone,2007,54.7,2200
-Sierra Leone,2008,55.3,2250
-Sierra Leone,2009,56,2280
-Sierra Leone,2010,56.6,2340
-Slovak Republic,2000,73.9,2790
-Slovak Republic,2001,74.1,2800
-Slovak Republic,2002,74.2,2790
-Slovak Republic,2003,74.6,2820
-Slovak Republic,2004,74.5,2840
-Slovak Republic,2005,74.7,2830
-Slovak Republic,2006,74.7,2790
-Slovak Republic,2007,75,2860
-Slovak Republic,2008,75.3,2900
-Slovak Republic,2009,75.8,2950
-Slovak Republic,2010,76,2940
-Slovenia,2000,76.3,3060
-Slovenia,2001,76.8,3080
-Slovenia,2002,77,3110
-Slovenia,2003,77.4,3160
-Slovenia,2004,78.1,3070
-Slovenia,2005,78.3,3120
-Slovenia,2006,78.6,3140
-Slovenia,2007,79.1,3160
-Slovenia,2008,79.4,3180
-Slovenia,2009,79.7,3180
-Slovenia,2010,80,3170
-Solomon Islands,2000,56.9,2320
-Solomon Islands,2001,56.9,2390
-Solomon Islands,2002,56.9,2410
-Solomon Islands,2003,56.8,2400
-Solomon Islands,2004,56.8,2430
-Solomon Islands,2005,56.9,2460
-Solomon Islands,2006,56.8,2420
-Solomon Islands,2007,57.1,2480
-Solomon Islands,2008,57.1,2450
-Solomon Islands,2009,57.4,2480
-Solomon Islands,2010,57.6,2490
-South Africa,2000,54.8,2910
-South Africa,2001,53.7,2910
-South Africa,2002,52.7,2930
-South Africa,2003,52.2,2940
-South Africa,2004,52.1,2950
-South Africa,2005,52.3,2930
-South Africa,2006,53.2,2920
-South Africa,2007,54.3,2920
-South Africa,2008,55.7,2940
-South Africa,2009,57.1,2990
-South Africa,2010,58.7,3000
-South Korea,2000,76.9,3080
-South Korea,2001,77.3,3080
-South Korea,2002,77.7,3060
-South Korea,2003,78.3,3100
-South Korea,2004,78.8,3100
-South Korea,2005,79.3,3110
-South Korea,2006,79.8,3140
-South Korea,2007,80.2,3190
-South Korea,2008,80.5,3200
-South Korea,2009,80.8,3280
-South Korea,2010,81.2,3350
-Spain,2000,79.8,3330
-Spain,2001,79.9,3360
-Spain,2002,80,3300
-Spain,2003,80.3,3250
-Spain,2004,80.6,3220
-Spain,2005,81,3230
-Spain,2006,81.2,3220
-Spain,2007,81.4,3210
-Spain,2008,81.8,3210
-Spain,2009,82.1,3180
-Spain,2010,82.3,3190
-Sri Lanka,2000,72.6,2360
-Sri Lanka,2001,73.4,2330
-Sri Lanka,2002,73.4,2330
-Sri Lanka,2003,69,2350
-Sri Lanka,2004,73.3,2350
-Sri Lanka,2005,73.6,2380
-Sri Lanka,2006,74,2380
-Sri Lanka,2007,73.3,2440
-Sri Lanka,2008,73.4,2450
-Sri Lanka,2009,74,2470
-Sri Lanka,2010,75.3,2490
-St. Kitts and Nevis,2000,70.3,2540
-St. Kitts and Nevis,2001,70.7,2510
-St. Kitts and Nevis,2002,71.1,2460
-St. Kitts and Nevis,2003,71.2,2470
-St. Kitts and Nevis,2004,71.4,2410
-St. Kitts and Nevis,2005,71.5,2430
-St. Kitts and Nevis,2006,71.7,2450
-St. Kitts and Nevis,2007,72,2510
-St. Kitts and Nevis,2008,72.1,2490
-St. Kitts and Nevis,2009,72.2,2490
-St. Kitts and Nevis,2010,72.3,2470
-St. Lucia,2000,73.5,2610
-St. Lucia,2001,73.6,2680
-St. Lucia,2002,73.8,2640
-St. Lucia,2003,74,2650
-St. Lucia,2004,74.3,2650
-St. Lucia,2005,74.6,2630
-St. Lucia,2006,75,2590
-St. Lucia,2007,75.3,2560
-St. Lucia,2008,75.5,2580
-St. Lucia,2009,75.6,2600
-St. Lucia,2010,76,2580
-St. Vincent and the Grenadines,2000,71.7,2470
-St. Vincent and the Grenadines,2001,71.7,2660
-St. Vincent and the Grenadines,2002,72.2,2690
-St. Vincent and the Grenadines,2003,72.3,2710
-St. Vincent and the Grenadines,2004,72.6,2780
-St. Vincent and the Grenadines,2005,72.9,2800
-St. Vincent and the Grenadines,2006,73.1,2830
-St. Vincent and the Grenadines,2007,73.1,2870
-St. Vincent and the Grenadines,2008,73,2870
-St. Vincent and the Grenadines,2009,73.1,2910
-St. Vincent and the Grenadines,2010,73.2,2940
-Sudan,2000,63.7,2250
-Sudan,2001,63.9,2280
-Sudan,2002,64.1,2280
-Sudan,2003,64.2,2270
-Sudan,2004,65.5,2300
-Sudan,2005,65.8,2330
-Sudan,2006,66.3,2340
-Sudan,2007,66.8,2340
-Sudan,2008,67,2350
-Sudan,2009,67.4,2320
-Sudan,2010,67.6,2350
-Suriname,2000,69.6,2510
-Suriname,2001,69.5,2560
-Suriname,2002,69.8,2560
-Suriname,2003,70.1,2560
-Suriname,2004,70.6,2610
-Suriname,2005,71.2,2630
-Suriname,2006,71.6,2670
-Suriname,2007,71.7,2650
-Suriname,2008,72.1,2740
-Suriname,2009,72.3,2800
-Suriname,2010,72.8,2710
-Sweden,2000,80.2,3120
-Sweden,2001,80.3,3130
-Sweden,2002,80.5,3120
-Sweden,2003,80.7,3150
-Sweden,2004,81,3120
-Sweden,2005,81.1,3090
-Sweden,2006,81.3,3090
-Sweden,2007,81.5,3130
-Sweden,2008,81.7,3130
-Sweden,2009,81.9,3150
-Sweden,2010,82,3160
-Switzerland,2000,80.6,3380
-Switzerland,2001,80.9,3440
-Switzerland,2002,81.1,3430
-Switzerland,2003,81.4,3410
-Switzerland,2004,81.7,3390
-Switzerland,2005,81.9,3430
-Switzerland,2006,82.2,3430
-Switzerland,2007,82.4,3450
-Switzerland,2008,82.5,3470
-Switzerland,2009,82.8,3450
-Switzerland,2010,83,3490
-Taiwan,2000,77.2,3010
-Taiwan,2001,77.7,3000
-Taiwan,2002,77.9,2990
-Taiwan,2003,77.9,2990
-Taiwan,2004,77.9,2990
-Taiwan,2005,78.5,2950
-Taiwan,2006,78.8,2960
-Taiwan,2007,79,2930
-Taiwan,2008,79.4,2940
-Taiwan,2009,79.7,2960
-Taiwan,2010,79.5,2960
-Tajikistan,2000,66.8,1960
-Tajikistan,2001,67,1940
-Tajikistan,2002,67.3,1960
-Tajikistan,2003,67.5,1980
-Tajikistan,2004,67.5,2060
-Tajikistan,2005,67.6,2060
-Tajikistan,2006,67.7,2060
-Tajikistan,2007,67.9,2080
-Tajikistan,2008,68,2100
-Tajikistan,2009,68,2110
-Tajikistan,2010,68.1,2050
-Tanzania,2000,54,2030
-Tanzania,2001,54.6,2110
-Tanzania,2002,55.3,1980
-Tanzania,2003,55.9,2100
-Tanzania,2004,56.5,2130
-Tanzania,2005,57.3,2140
-Tanzania,2006,58.5,2220
-Tanzania,2007,59.6,2130
-Tanzania,2008,60.3,2130
-Tanzania,2009,61.1,2100
-Tanzania,2010,61.7,2200
-Thailand,2000,72.8,2580
-Thailand,2001,73.1,2630
-Thailand,2002,73.6,2640
-Thailand,2003,73.7,2650
-Thailand,2004,74.8,2720
-Thailand,2005,75.4,2800
-Thailand,2006,76,2770
-Thailand,2007,76.5,2760
-Thailand,2008,76.9,2730
-Thailand,2009,77,2760
-Thailand,2010,77.4,2760
-Timor-Leste,2000,65.8,1940
-Timor-Leste,2001,66.1,2060
-Timor-Leste,2002,66.5,2060
-Timor-Leste,2003,67.1,2040
-Timor-Leste,2004,67.7,2030
-Timor-Leste,2005,68.4,2040
-Timor-Leste,2006,69,2050
-Timor-Leste,2007,69.5,2060
-Timor-Leste,2008,69.8,2040
-Timor-Leste,2009,70,2080
-Timor-Leste,2010,70.2,2110
-Togo,2000,56.3,2160
-Togo,2001,56.3,2160
-Togo,2002,56.4,2200
-Togo,2003,56.7,2250
-Togo,2004,56.9,2240
-Togo,2005,57.5,2280
-Togo,2006,57.8,2300
-Togo,2007,58.1,2320
-Togo,2008,58.7,2340
-Togo,2009,59.5,2370
-Togo,2010,60.2,2380
-Trinidad and Tobago,2000,70.6,2830
-Trinidad and Tobago,2001,71.2,2790
-Trinidad and Tobago,2002,71.1,2750
-Trinidad and Tobago,2003,71.6,2780
-Trinidad and Tobago,2004,71.9,2760
-Trinidad and Tobago,2005,72.5,2800
-Trinidad and Tobago,2006,72.8,2850
-Trinidad and Tobago,2007,72.4,2830
-Trinidad and Tobago,2008,73.2,2840
-Trinidad and Tobago,2009,73.7,2840
-Trinidad and Tobago,2010,74.5,2910
-Tunisia,2000,74.5,3260
-Tunisia,2001,74.7,3190
-Tunisia,2002,74.9,3240
-Tunisia,2003,75.1,3250
-Tunisia,2004,75.4,3220
-Tunisia,2005,75.5,3270
-Tunisia,2006,75.7,3250
-Tunisia,2007,75.9,3300
-Tunisia,2008,76,3340
-Tunisia,2009,76.2,3330
-Tunisia,2010,76.2,3360
-Turkey,2000,75,3620
-Turkey,2001,75.2,3610
-Turkey,2002,75.7,3590
-Turkey,2003,76.3,3610
-Turkey,2004,76.8,3610
-Turkey,2005,77,3650
-Turkey,2006,77.1,3630
-Turkey,2007,77,3600
-Turkey,2008,76.8,3620
-Turkey,2009,76.7,3650
-Turkey,2010,76.8,3670
-Turkmenistan,2000,66.7,2620
-Turkmenistan,2001,66.6,2680
-Turkmenistan,2002,66.5,2740
-Turkmenistan,2003,66.2,2810
-Turkmenistan,2004,65.8,2830
-Turkmenistan,2005,66.2,2840
-Turkmenistan,2006,66.6,2900
-Turkmenistan,2007,67.3,2870
-Turkmenistan,2008,68.8,2870
-Turkmenistan,2009,69.5,2870
-Turkmenistan,2010,69.6,2850
-Uganda,2000,50.3,2280
-Uganda,2001,51,2330
-Uganda,2002,51.8,2380
-Uganda,2003,52.6,2350
-Uganda,2004,53.9,2330
-Uganda,2005,55.5,2280
-Uganda,2006,56.5,2210
-Uganda,2007,57.6,2180
-Uganda,2008,58.5,2190
-Uganda,2009,59.3,2200
-Uganda,2010,60.4,2180
-Ukraine,2000,68.2,2990
-Ukraine,2001,68.1,3050
-Ukraine,2002,68.3,3050
-Ukraine,2003,68,3190
-Ukraine,2004,67.8,3210
-Ukraine,2005,68.4,3240
-Ukraine,2006,68.1,3250
-Ukraine,2007,68.3,3300
-Ukraine,2008,70,3170
-Ukraine,2009,70.8,3140
-Ukraine,2010,71.5,3180
-United Arab Emirates,2000,69.2,3320
-United Arab Emirates,2001,69.4,3360
-United Arab Emirates,2002,69.3,3340
-United Arab Emirates,2003,69.1,3290
-United Arab Emirates,2004,69.2,3210
-United Arab Emirates,2005,69.5,3200
-United Arab Emirates,2006,70,3190
-United Arab Emirates,2007,70.4,3150
-United Arab Emirates,2008,70.6,3170
-United Arab Emirates,2009,70.8,3160
-United Arab Emirates,2010,71,3210
-United Kingdom,2000,78.3,3400
-United Kingdom,2001,78.5,3420
-United Kingdom,2002,78.6,3400
-United Kingdom,2003,79,3450
-United Kingdom,2004,79.3,3440
-United Kingdom,2005,79.5,3440
-United Kingdom,2006,79.8,3420
-United Kingdom,2007,80,3420
-United Kingdom,2008,80.3,3410
-United Kingdom,2009,80.6,3400
-United Kingdom,2010,80.8,3420
-United States,2000,77.1,3710
-United States,2001,77.2,3780
-United States,2002,77.3,3780
-United States,2003,77.7,3810
-United States,2004,77.7,3830
-United States,2005,78,3780
-United States,2006,78.2,3760
-United States,2007,78.4,3700
-United States,2008,78.6,3650
-United States,2009,78.9,3650
-United States,2010,78.9,3650
-Uruguay,2000,75,2870
-Uruguay,2001,75,2840
-Uruguay,2002,75,2840
-Uruguay,2003,75.2,2830
-Uruguay,2004,75.5,2810
-Uruguay,2005,75.9,2820
-Uruguay,2006,75.7,2890
-Uruguay,2007,76.2,2960
-Uruguay,2008,76.5,2980
-Uruguay,2009,76.5,2980
-Uruguay,2010,76.4,3010
-Uzbekistan,2000,65.1,2290
-Uzbekistan,2001,65,2290
-Uzbekistan,2002,64.9,2350
-Uzbekistan,2003,64.8,2390
-Uzbekistan,2004,64.5,2470
-Uzbekistan,2005,65,2560
-Uzbekistan,2006,65.3,2580
-Uzbekistan,2007,65.7,2600
-Uzbekistan,2008,66.2,2610
-Uzbekistan,2009,66.5,2650
-Uzbekistan,2010,66.6,2690
-Vanuatu,2000,63.6,2670
-Vanuatu,2001,63.6,2700
-Vanuatu,2002,63.7,2750
-Vanuatu,2003,63.7,2750
-Vanuatu,2004,63.8,2780
-Vanuatu,2005,63.9,2800
-Vanuatu,2006,64,2860
-Vanuatu,2007,64.1,2860
-Vanuatu,2008,64.2,2860
-Vanuatu,2009,64.4,2860
-Vanuatu,2010,64.5,2840
-Venezuela,2000,74.1,2510
-Venezuela,2001,74,2220
-Venezuela,2002,73.5,2420
-Venezuela,2003,74.6,2490
-Venezuela,2004,75,2490
-Venezuela,2005,74.8,2510
-Venezuela,2006,74.6,2610
-Venezuela,2007,74.4,2810
-Venezuela,2008,74.6,2860
-Venezuela,2009,75.3,2810
-Venezuela,2010,75.4,2800
-Vietnam,2000,72.4,2300
-Vietnam,2001,72.5,2360
-Vietnam,2002,72.6,2420
-Vietnam,2003,72.7,2480
-Vietnam,2004,72.8,2470
-Vietnam,2005,72.9,2480
-Vietnam,2006,72.9,2550
-Vietnam,2007,73,2620
-Vietnam,2008,73.1,2640
-Vietnam,2009,73.2,2680
-Vietnam,2010,73.3,2720
-Yemen,2000,64,2070
-Yemen,2001,64.5,2080
-Yemen,2002,64.9,2070
-Yemen,2003,65.3,2070
-Yemen,2004,65.8,2090
-Yemen,2005,66.2,2120
-Yemen,2006,66.5,2160
-Yemen,2007,66.9,2130
-Yemen,2008,67.2,2160
-Yemen,2009,67.6,2200
-Yemen,2010,67.8,2210
-Zambia,2000,45.2,1850
-Zambia,2001,45.9,1850
-Zambia,2002,46.6,1900
-Zambia,2003,47.7,1870
-Zambia,2004,48.7,1870
-Zambia,2005,50,1840
-Zambia,2006,51.9,1780
-Zambia,2007,54.1,1800
-Zambia,2008,55.7,1880
-Zambia,2009,56.5,1900
-Zambia,2010,57.5,1910
-Zimbabwe,2000,47,2030
-Zimbabwe,2001,46.6,2020
-Zimbabwe,2002,46.4,2010
-Zimbabwe,2003,46.4,2040
-Zimbabwe,2004,46.8,2030
-Zimbabwe,2005,47.4,2120
-Zimbabwe,2006,48.2,2110
-Zimbabwe,2007,48.9,2090
-Zimbabwe,2008,50.2,2150
-Zimbabwe,2009,52.3,2170
-Zimbabwe,2010,54.4,2200
+Denmark,2000,77.3,3340
+Denmark,2001,77.4,3370
+Denmark,2002,77.7,3340
+Denmark,2003,78,3380
+Denmark,2004,78.3,3410
+Denmark,2005,78.5,3410
+Denmark,2006,78.7,3450
+Denmark,2007,79,3330
+Denmark,2008,79.2,3340
+Denmark,2009,79.5,3400
+Denmark,2010,79.9,3350
+Djibouti,2000,60.5,1980
+Djibouti,2001,60.6,2050
+Djibouti,2002,60.9,2090
+Djibouti,2003,61,2140
+Djibouti,2004,61.4,2270
+Djibouti,2005,61.4,2310
+Djibouti,2006,62.1,2410
+Djibouti,2007,62.5,2450
+Djibouti,2008,62.9,2470
+Djibouti,2009,63.2,2470
+Djibouti,2010,63.6,2500
+Dominica,2000,72.2,3040
+Dominica,2001,72.3,2980
+Dominica,2002,72.2,3010
+Dominica,2003,72.3,2960
+Dominica,2004,72.6,2920
+Dominica,2005,72.6,2920
+Dominica,2006,72.5,3040
+Dominica,2007,72.7,3020
+Dominica,2008,72.7,3040
+Dominica,2009,72.4,2990
+Dominica,2010,72.4,2960
+Dominican Republic,2000,73.8,2260
+Dominican Republic,2001,73.9,2290
+Dominican Republic,2002,73.5,2140
+Dominican Republic,2003,72.6,2220
+Dominican Republic,2004,72.6,2330
+Dominican Republic,2005,72.7,2370
+Dominican Republic,2006,72.9,2400
+Dominican Republic,2007,73.3,2350
+Dominican Republic,2008,73.4,2390
+Dominican Republic,2009,73.5,2530
+Dominican Republic,2010,73.4,2560
+Ecuador,2000,75,2220
+Ecuador,2001,74.1,2240
+Ecuador,2002,73.9,2200
+Ecuador,2003,73.9,2230
+Ecuador,2004,73.6,2250
+Ecuador,2005,73.6,2230
+Ecuador,2006,73.7,2210
+Ecuador,2007,73.8,2300
+Ecuador,2008,74.1,2290
+Ecuador,2009,74.3,2350
+Ecuador,2010,74.9,2380
+Egypt,2000,68.3,3410
+Egypt,2001,68.3,3430
+Egypt,2002,68.2,3380
+Egypt,2003,68.5,3310
+Egypt,2004,68.8,3370
+Egypt,2005,68.9,3390
+Egypt,2006,69.2,3450
+Egypt,2007,69.3,3490
+Egypt,2008,69.3,3440
+Egypt,2009,69.4,3510
+Egypt,2010,69.6,3550
+El Salvador,2000,73,2630
+El Salvador,2001,74.3,2640
+El Salvador,2002,73.9,2600
+El Salvador,2003,73.6,2570
+El Salvador,2004,73.6,2570
+El Salvador,2005,73.7,2580
+El Salvador,2006,74.1,2570
+El Salvador,2007,74.7,2570
+El Salvador,2008,74.1,2570
+El Salvador,2009,75.2,2520
+El Salvador,2010,75.1,2540
+Estonia,2000,70.8,3050
+Estonia,2001,71.4,3040
+Estonia,2002,72.1,3070
+Estonia,2003,72.5,3080
+Estonia,2004,73,3170
+Estonia,2005,73.3,3200
+Estonia,2006,73.3,3220
+Estonia,2007,74.4,3310
+Estonia,2008,75.2,3350
+Estonia,2009,76.3,3310
+Estonia,2010,76.3,3290
+Eswatini,2000,46.3,2310
+Eswatini,2001,45,2390
+Eswatini,2002,43.9,2440
+Eswatini,2003,43.1,2470
+Eswatini,2004,43.3,2370
+Eswatini,2005,44.1,2330
+Eswatini,2006,44.9,2310
+Eswatini,2007,45.5,2260
+Eswatini,2008,46.4,2250
+Eswatini,2009,48,2280
+Eswatini,2010,49.8,2280
+Ethiopia,2000,53.3,1830
+Ethiopia,2001,54.2,1840
+Ethiopia,2002,55,1880
+Ethiopia,2003,55.9,1880
+Ethiopia,2004,57,1980
+Ethiopia,2005,58.2,1970
+Ethiopia,2006,59.5,1960
+Ethiopia,2007,60.8,2020
+Ethiopia,2008,61.9,2050
+Ethiopia,2009,63,2080
+Ethiopia,2010,64,2100
+Fiji,2000,66.2,2880
+Fiji,2001,66.6,2900
+Fiji,2002,66.5,2890
+Fiji,2003,67.1,2900
+Fiji,2004,67.1,2940
+Fiji,2005,67.1,2950
+Fiji,2006,67.1,2920
+Fiji,2007,67.1,2950
+Fiji,2008,67.5,2920
+Fiji,2009,67.6,2910
+Fiji,2010,67.7,2920
+Finland,2000,78.4,3170
+Finland,2001,78.6,3150
+Finland,2002,78.8,3150
+Finland,2003,79,3190
+Finland,2004,79.3,3200
+Finland,2005,79.6,3240
+Finland,2006,79.7,3280
+Finland,2007,80,3240
+Finland,2008,80.2,3230
+Finland,2009,80.4,3280
+Finland,2010,80.7,3310
+France,2000,79.3,3640
+France,2001,79.5,3660
+France,2002,79.7,3590
+France,2003,80.3,3560
+France,2004,80.6,3540
+France,2005,80.8,3510
+France,2006,81.1,3470
+France,2007,81.2,3550
+France,2008,81.4,3530
+France,2009,81.6,3540
+France,2010,81.8,3510
+Gabon,2000,59.5,2700
+Gabon,2001,59.8,2640
+Gabon,2002,59.8,2660
+Gabon,2003,60.2,2680
+Gabon,2004,61.1,2720
+Gabon,2005,61.7,2720
+Gabon,2006,62,2710
+Gabon,2007,62.2,2650
+Gabon,2008,62.7,2700
+Gabon,2009,63.3,2730
+Gabon,2010,63.7,2770
+Gambia,2000,61.7,2520
+Gambia,2001,61.7,2460
+Gambia,2002,61.8,2460
+Gambia,2003,62,2470
+Gambia,2004,62.2,2440
+Gambia,2005,62.4,2400
+Gambia,2006,62.6,2540
+Gambia,2007,62.9,2590
+Gambia,2008,63.3,2620
+Gambia,2009,63.7,2670
+Gambia,2010,64.2,2690
+Georgia,2000,70.8,2640
+Georgia,2001,70.4,2750
+Georgia,2002,70.6,2860
+Georgia,2003,70.7,2900
+Georgia,2004,71,2980
+Georgia,2005,71.5,2860
+Georgia,2006,72,2900
+Georgia,2007,71.5,2980
+Georgia,2008,71.7,2950
+Georgia,2009,71.9,2850
+Georgia,2010,72.2,2810
+Germany,2000,78.7,3360
+Germany,2001,78.8,3430
+Germany,2002,78.9,3390
+Germany,2003,79.3,3410
+Germany,2004,79.6,3450
+Germany,2005,79.9,3470
+Germany,2006,80,3530
+Germany,2007,80.2,3520
+Germany,2008,80.3,3520
+Germany,2009,80.5,3500
+Germany,2010,80.7,3540
+Ghana,2000,59.5,2560
+Ghana,2001,59.5,2660
+Ghana,2002,59.6,2670
+Ghana,2003,59.8,2680
+Ghana,2004,60,2750
+Ghana,2005,60.3,2820
+Ghana,2006,60.5,2800
+Ghana,2007,61,2950
+Ghana,2008,61.3,3030
+Ghana,2009,61.8,3080
+Ghana,2010,62.4,3000
+Greece,2000,78.7,3610
+Greece,2001,78.9,3640
+Greece,2002,79.1,3650
+Greece,2003,79.2,3720
+Greece,2004,79.4,3590
+Greece,2005,79.7,3490
+Greece,2006,79.6,3510
+Greece,2007,80,3520
+Greece,2008,80.2,3510
+Greece,2009,80.4,3440
+Greece,2010,80.5,3430
+Grenada,2000,72.1,2290
+Grenada,2001,72.1,2310
+Grenada,2002,72.2,2310
+Grenada,2003,71.8,2380
+Grenada,2004,72.4,2370
+Grenada,2005,72.5,2400
+Grenada,2006,72.6,2400
+Grenada,2007,72.5,2430
+Grenada,2008,72.5,2430
+Grenada,2009,72.5,2430
+Grenada,2010,72.6,2420
+Guatemala,2000,67.2,2220
+Guatemala,2001,67.8,2360
+Guatemala,2002,68.1,2350
+Guatemala,2003,68.4,2320
+Guatemala,2004,68.4,2380
+Guatemala,2005,68.9,2420
+Guatemala,2006,69.5,2450
+Guatemala,2007,69.9,2380
+Guatemala,2008,69.9,2460
+Guatemala,2009,70.3,2430
+Guatemala,2010,70.7,2490
+Guinea,2000,54.7,2330
+Guinea,2001,55.1,2360
+Guinea,2002,55.4,2400
+Guinea,2003,55.7,2430
+Guinea,2004,56,2440
+Guinea,2005,56.3,2500
+Guinea,2006,56.5,2510
+Guinea,2007,56.9,2530
+Guinea,2008,57.1,2550
+Guinea,2009,57.6,2550
+Guinea,2010,57.9,2550
+Guinea-Bissau,2000,51.8,2280
+Guinea-Bissau,2001,52.1,2270
+Guinea-Bissau,2002,52.4,2230
+Guinea-Bissau,2003,52.7,2260
+Guinea-Bissau,2004,52.8,2270
+Guinea-Bissau,2005,53.6,2250
+Guinea-Bissau,2006,54.3,2290
+Guinea-Bissau,2007,54.8,2300
+Guinea-Bissau,2008,55.5,2280
+Guinea-Bissau,2009,56.2,2350
+Guinea-Bissau,2010,56.9,2340
+Guyana,2000,63.9,2760
+Guyana,2001,63.9,2730
+Guyana,2002,64.1,2710
+Guyana,2003,64.3,2690
+Guyana,2004,64.4,2690
+Guyana,2005,65,2660
+Guyana,2006,65.2,2660
+Guyana,2007,65.3,2600
+Guyana,2008,65.9,2620
+Guyana,2009,65.8,2640
+Guyana,2010,65.7,2640
+Haiti,2000,57.8,1900
+Haiti,2001,58.2,1900
+Haiti,2002,58.5,1870
+Haiti,2003,57.5,1890
+Haiti,2004,59,1880
+Haiti,2005,59.5,1940
+Haiti,2006,60,1970
+Haiti,2007,60.2,2010
+Haiti,2008,60.7,2060
+Haiti,2009,32.5,2170
+Haiti,2010,60,2100
+Honduras,2000,70.2,2450
+Honduras,2001,70.4,2470
+Honduras,2002,70.5,2480
+Honduras,2003,70.7,2480
+Honduras,2004,70.9,2490
+Honduras,2005,71.1,2530
+Honduras,2006,71.2,2570
+Honduras,2007,71.3,2600
+Honduras,2008,71.3,2600
+Honduras,2009,71.1,2600
+Honduras,2010,71,2620
+"Hong Kong, China",2000,80.7,3080
+"Hong Kong, China",2001,81.1,3130
+"Hong Kong, China",2002,81.4,3180
+"Hong Kong, China",2003,81.7,3210
+"Hong Kong, China",2004,81.9,3220
+"Hong Kong, China",2005,82.1,3250
+"Hong Kong, China",2006,82.3,3250
+"Hong Kong, China",2007,82.5,3240
+"Hong Kong, China",2008,82.7,3260
+"Hong Kong, China",2009,82.8,3260
+"Hong Kong, China",2010,83,3260
+Hungary,2000,72.5,3090
+Hungary,2001,72.6,3080
+Hungary,2002,72.7,3060
+Hungary,2003,73.1,3190
+Hungary,2004,73.1,3270
+Hungary,2005,73.5,3280
+Hungary,2006,73.6,3160
+Hungary,2007,74.2,3150
+Hungary,2008,74.4,3140
+Hungary,2009,74.8,3060
+Hungary,2010,75.1,3060
+Iceland,2000,80.6,3150
+Iceland,2001,80.8,3210
+Iceland,2002,81.2,3240
+Iceland,2003,81.4,3290
+Iceland,2004,81.6,3320
+Iceland,2005,81.7,3400
+Iceland,2006,81.9,3460
+Iceland,2007,82.2,3430
+Iceland,2008,82.4,3390
+Iceland,2009,82.6,3340
+Iceland,2010,82.8,3350
+India,2000,63.3,2330
+India,2001,63.8,2290
+India,2002,64.5,2280
+India,2003,65.2,2260
+India,2004,65.4,2270
+India,2005,65.6,2330
+India,2006,65.8,2400
+India,2007,66.1,2430
+India,2008,66.8,2420
+India,2009,67.3,2440
+India,2010,67.6,2460
+Indonesia,2000,67.5,2420
+Indonesia,2001,67.7,2450
+Indonesia,2002,67.8,2470
+Indonesia,2003,66.3,2470
+Indonesia,2004,68.3,2470
+Indonesia,2005,68.4,2480
+Indonesia,2006,68.7,2520
+Indonesia,2007,68.9,2540
+Indonesia,2008,69.1,2600
+Indonesia,2009,69.3,2650
+Indonesia,2010,69.6,2710
+Iran,2000,72.2,3040
+Iran,2001,72.5,3030
+Iran,2002,71.8,3040
+Iran,2003,73.2,3090
+Iran,2004,73.5,3070
+Iran,2005,74,3000
+Iran,2006,74.4,3030
+Iran,2007,74.8,3010
+Iran,2008,75.1,3060
+Iran,2009,75.5,3090
+Iran,2010,75.8,3050
+Iraq,2000,69,2250
+Iraq,2001,69.3,2270
+Iraq,2002,68.1,2250
+Iraq,2003,68.3,2370
+Iraq,2004,67.7,2350
+Iraq,2005,66.6,2370
+Iraq,2006,67.2,2380
+Iraq,2007,69.3,2360
+Iraq,2008,70.1,2440
+Iraq,2009,70.6,2510
+Iraq,2010,71,2490
+Ireland,2000,77.3,3720
+Ireland,2001,77.8,3580
+Ireland,2002,78.3,3590
+Ireland,2003,78.7,3570
+Ireland,2004,79.1,3490
+Ireland,2005,79.4,3500
+Ireland,2006,79.7,3530
+Ireland,2007,80,3580
+Ireland,2008,80.2,3570
+Ireland,2009,80.8,3590
+Ireland,2010,80.8,3600
+Israel,2000,79,3600
+Israel,2001,78.9,3700
+Israel,2002,79.5,3580
+Israel,2003,79.9,3620
+Israel,2004,80.3,3630
+Israel,2005,80.4,3620
+Israel,2006,80.8,3530
+Israel,2007,81,3520
+Israel,2008,81.4,3510
+Israel,2009,81.9,3540
+Israel,2010,82,3550
+Italy,2000,79.9,3670
+Italy,2001,80.2,3660
+Italy,2002,80.3,3620
+Italy,2003,80.8,3630
+Italy,2004,81,3570
+Italy,2005,81.3,3630
+Italy,2006,81.5,3620
+Italy,2007,81.6,3600
+Italy,2008,81.8,3600
+Italy,2009,82.1,3580
+Italy,2010,82.2,3580
+Jamaica,2000,74.7,2800
+Jamaica,2001,75.5,2800
+Jamaica,2002,76.3,2810
+Jamaica,2003,76.8,2790
+Jamaica,2004,77.4,2800
+Jamaica,2005,77.5,2790
+Jamaica,2006,76.3,2790
+Jamaica,2007,75.2,2750
+Jamaica,2008,74.6,2750
+Jamaica,2009,76.3,2760
+Jamaica,2010,75.8,2770
+Japan,2000,81.9,2890
+Japan,2001,82.2,2850
+Japan,2002,82.3,2840
+Japan,2003,82.5,2840
+Japan,2004,82.5,2830
+Japan,2005,82.8,2780
+Japan,2006,82.9,2820
+Japan,2007,83.1,2730
+Japan,2008,83.3,2680
+Japan,2009,83.3,2690
+Japan,2010,83.2,2710
+Jordan,2000,73,2840
+Jordan,2001,73.3,2940
+Jordan,2002,73.8,3080
+Jordan,2003,74,3120
+Jordan,2004,74.1,3120
+Jordan,2005,74.5,3150
+Jordan,2006,75.5,3120
+Jordan,2007,76.2,3070
+Jordan,2008,76.7,3100
+Jordan,2009,76.9,3100
+Jordan,2010,77.2,3140
+Kazakhstan,2000,64.7,2890
+Kazakhstan,2001,64.7,2940
+Kazakhstan,2002,64.6,2970
+Kazakhstan,2003,64.6,2980
+Kazakhstan,2004,64.6,3030
+Kazakhstan,2005,64.8,3070
+Kazakhstan,2006,65.3,3160
+Kazakhstan,2007,66.3,3190
+Kazakhstan,2008,67.3,3150
+Kazakhstan,2009,67.6,3140
+Kazakhstan,2010,68.1,3210
+Kenya,2000,54.9,2070
+Kenya,2001,55,2020
+Kenya,2002,55.2,2000
+Kenya,2003,55.7,2020
+Kenya,2004,56.5,2160
+Kenya,2005,57.5,2160
+Kenya,2006,58.5,2110
+Kenya,2007,59.4,2110
+Kenya,2008,60.3,2170
+Kenya,2009,61.2,2160
+Kenya,2010,62,2170
+Kiribati,2000,56.7,2880
+Kiribati,2001,57,2860
+Kiribati,2002,57.2,2870
+Kiribati,2003,57.5,2840
+Kiribati,2004,57.7,2940
+Kiribati,2005,58,2900
+Kiribati,2006,58.2,2890
+Kiribati,2007,58.4,2880
+Kiribati,2008,58.6,2940
+Kiribati,2009,58.8,2960
+Kiribati,2010,59,3030
+Kuwait,2000,79.2,3480
+Kuwait,2001,78.6,3450
+Kuwait,2002,78.9,3500
+Kuwait,2003,78.8,3510
+Kuwait,2004,78.7,3580
+Kuwait,2005,78.8,3590
+Kuwait,2006,79,3570
+Kuwait,2007,78.1,3510
+Kuwait,2008,78.7,3470
+Kuwait,2009,80.1,3460
+Kuwait,2010,80.9,3470
+Kyrgyz Republic,2000,67.3,2460
+Kyrgyz Republic,2001,67.2,2490
+Kyrgyz Republic,2002,67.1,2620
+Kyrgyz Republic,2003,67.4,2740
+Kyrgyz Republic,2004,67.4,2750
+Kyrgyz Republic,2005,67.2,2660
+Kyrgyz Republic,2006,67.6,2680
+Kyrgyz Republic,2007,68.3,2680
+Kyrgyz Republic,2008,69.3,2740
+Kyrgyz Republic,2009,69.6,2790
+Kyrgyz Republic,2010,70.3,2770
