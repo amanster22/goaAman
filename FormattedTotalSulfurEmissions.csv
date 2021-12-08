@@ -1,0 +1,5431 @@
+country,Year,totalSulfurEmissions
+Aruba,1970,61.6
+Aruba,1971,56.8
+Aruba,1972,64.5
+Aruba,1973,65.1
+Aruba,1974,39
+Aruba,1975,48.6
+Aruba,1976,42.3
+Aruba,1977,40.7
+Aruba,1978,36.7
+Aruba,1979,50.2
+Aruba,1980,40.6
+Aruba,1981,33.3
+Aruba,1982,26
+Aruba,1983,23
+Aruba,1984,10
+Aruba,1985,9.38
+Aruba,1986,11.4
+Aruba,1987,12.1
+Aruba,1988,12.3
+Aruba,1989,13.2
+Aruba,1990,13.4
+Aruba,1991,13.6
+Aruba,1992,13.8
+Aruba,1993,13.9
+Aruba,1994,14.1
+Aruba,1995,14.2
+Aruba,1996,14.4
+Aruba,1997,14.6
+Aruba,1998,14.8
+Aruba,1999,15.0
+Afghanistan,1970,10.5
+Afghanistan,1971,5.73
+Afghanistan,1972,9.11
+Afghanistan,1973,8.96
+Afghanistan,1974,11.7
+Afghanistan,1975,12.5
+Afghanistan,1976,13.3
+Afghanistan,1977,16.9
+Afghanistan,1978,10.3
+Afghanistan,1979,9.29
+Afghanistan,1980,9.76
+Afghanistan,1981,11.3
+Afghanistan,1982,11.3
+Afghanistan,1983,11.6
+Afghanistan,1984,11.8
+Afghanistan,1985,60.8
+Afghanistan,1986,60.9
+Afghanistan,1987,58.3
+Afghanistan,1988,58.4
+Afghanistan,1989,57.9
+Afghanistan,1990,59.4
+Afghanistan,1991,61
+Afghanistan,1992,62.6
+Afghanistan,1993,64.2
+Afghanistan,1994,65.9
+Afghanistan,1995,67.7
+Afghanistan,1996,69.4
+Afghanistan,1997,71.3
+Afghanistan,1998,73.2
+Afghanistan,1999,75.1
+Angola,1970,134
+Angola,1971,128
+Angola,1972,141
+Angola,1973,135
+Angola,1974,77.4
+Angola,1975,64.2
+Angola,1976,68.9
+Angola,1977,68.5
+Angola,1978,70.8
+Angola,1979,77.2
+Angola,1980,67.8
+Angola,1981,62.5
+Angola,1982,62.6
+Angola,1983,66.1
+Angola,1984,69.8
+Angola,1985,67.5
+Angola,1986,66.2
+Angola,1987,63.6
+Angola,1988,62.5
+Angola,1989,64
+Angola,1990,64.6
+Angola,1991,66.6
+Angola,1992,62.6
+Angola,1993,69.5
+Angola,1994,64.9
+Angola,1995,62.3
+Angola,1996,61.4
+Angola,1997,60.6
+Angola,1998,59.0
+Angola,1999,49.6
+Albania,1970,24.4
+Albania,1971,26.6
+Albania,1972,25.4
+Albania,1973,27.2
+Albania,1974,30.5
+Albania,1975,27.4
+Albania,1976,30.2
+Albania,1977,31
+Albania,1978,40.4
+Albania,1979,46.5
+Albania,1980,48.8
+Albania,1981,50
+Albania,1982,49.8
+Albania,1983,44.6
+Albania,1984,47.1
+Albania,1985,46.6
+Albania,1986,49.1
+Albania,1987,50.3
+Albania,1988,49.9
+Albania,1989,48.8
+Albania,1990,34.2
+Albania,1991,12.5
+Albania,1992,9.91
+Albania,1993,8.32
+Albania,1994,7.49
+Albania,1995,7.47
+Albania,1996,5.36
+Albania,1997,5.45
+Albania,1998,4.12
+Albania,1999,4.01
+Netherlands Antilles,1970,168
+Netherlands Antilles,1971,157
+Netherlands Antilles,1972,179
+Netherlands Antilles,1973,183
+Netherlands Antilles,1974,111
+Netherlands Antilles,1975,139
+Netherlands Antilles,1976,121
+Netherlands Antilles,1977,117
+Netherlands Antilles,1978,105
+Netherlands Antilles,1979,144
+Netherlands Antilles,1980,117
+Netherlands Antilles,1981,95.5
+Netherlands Antilles,1982,74.5
+Netherlands Antilles,1983,65.7
+Netherlands Antilles,1984,28.6
+Netherlands Antilles,1985,26.7
+Netherlands Antilles,1986,32.3
+Netherlands Antilles,1987,34.3
+Netherlands Antilles,1988,34.8
+Netherlands Antilles,1989,37.5
+Netherlands Antilles,1990,38.2
+Netherlands Antilles,1991,38.9
+Netherlands Antilles,1992,39.7
+Netherlands Antilles,1993,40.5
+Netherlands Antilles,1994,41.2
+Netherlands Antilles,1995,42.0
+Netherlands Antilles,1996,42.9
+Netherlands Antilles,1997,43.7
+Netherlands Antilles,1998,44.5
+Netherlands Antilles,1999,45.3
+United Arab Emirates,1970,3.38
+United Arab Emirates,1971,0.533
+United Arab Emirates,1972,2.06
+United Arab Emirates,1973,8.89
+United Arab Emirates,1974,3.24
+United Arab Emirates,1975,3.6
+United Arab Emirates,1976,8.38
+United Arab Emirates,1977,4.18
+United Arab Emirates,1978,31.5
+United Arab Emirates,1979,8.85
+United Arab Emirates,1980,36.8
+United Arab Emirates,1981,42
+United Arab Emirates,1982,33.6
+United Arab Emirates,1983,65.8
+United Arab Emirates,1984,67
+United Arab Emirates,1985,68.2
+United Arab Emirates,1986,76.3
+United Arab Emirates,1987,76.2
+United Arab Emirates,1988,74.1
+United Arab Emirates,1989,77.2
+United Arab Emirates,1990,76.7
+United Arab Emirates,1991,73
+United Arab Emirates,1992,69.0
+United Arab Emirates,1993,70.3
+United Arab Emirates,1994,68.1
+United Arab Emirates,1995,67.5
+United Arab Emirates,1996,64.3
+United Arab Emirates,1997,63.3
+United Arab Emirates,1998,53.1
+United Arab Emirates,1999,53.5
+Argentina,1970,251
+Argentina,1971,200
+Argentina,1972,242
+Argentina,1973,290
+Argentina,1974,261
+Argentina,1975,272
+Argentina,1976,299
+Argentina,1977,240
+Argentina,1978,257
+Argentina,1979,271
+Argentina,1980,229
+Argentina,1981,200
+Argentina,1982,149
+Argentina,1983,153
+Argentina,1984,158
+Argentina,1985,178
+Argentina,1986,182
+Argentina,1987,199
+Argentina,1988,192
+Argentina,1989,173
+Argentina,1990,169
+Argentina,1991,175
+Argentina,1992,169.0
+Argentina,1993,174.0
+Argentina,1994,165.0
+Argentina,1995,174.0
+Argentina,1996,192
+Argentina,1997,197
+Argentina,1998,206.0
+Argentina,1999,200.0
+Armenia,1970,60.3
+Armenia,1971,61.8
+Armenia,1972,63.5
+Armenia,1973,65.8
+Armenia,1974,67.8
+Armenia,1975,68.1
+Armenia,1976,69.7
+Armenia,1977,70.4
+Armenia,1978,70
+Armenia,1979,70.5
+Armenia,1980,55.4
+Armenia,1981,50.6
+Armenia,1982,55.1
+Armenia,1983,48.5
+Armenia,1984,50.1
+Armenia,1985,55.6
+Armenia,1986,55.3
+Armenia,1987,52
+Armenia,1988,31.4
+Armenia,1989,36
+Armenia,1990,29.8
+Armenia,1991,22.1
+Armenia,1992,2.75
+Armenia,1993,2.1
+Armenia,1994,1.25
+Armenia,1995,0.75
+Armenia,1996,0.2
+Armenia,1997,1.66
+Armenia,1998,0.42
+Armenia,1999,4.2
+Antigua and Barbuda,1970,3.79
+Antigua and Barbuda,1971,3.99
+Antigua and Barbuda,1972,3.33
+Antigua and Barbuda,1973,2.12
+Antigua and Barbuda,1974,0.927
+Antigua and Barbuda,1975,0.463
+Antigua and Barbuda,1976,0.937
+Antigua and Barbuda,1977,0.917
+Antigua and Barbuda,1978,1.02
+Antigua and Barbuda,1979,1.13
+Antigua and Barbuda,1980,1.15
+Antigua and Barbuda,1981,1.09
+Antigua and Barbuda,1982,1.03
+Antigua and Barbuda,1983,1.11
+Antigua and Barbuda,1984,1.16
+Antigua and Barbuda,1985,1.41
+Antigua and Barbuda,1986,1.46
+Antigua and Barbuda,1987,1.44
+Antigua and Barbuda,1988,1.52
+Antigua and Barbuda,1989,1.51
+Antigua and Barbuda,1990,1.47
+Antigua and Barbuda,1991,1.45
+Antigua and Barbuda,1992,1.47
+Antigua and Barbuda,1993,1.52
+Antigua and Barbuda,1994,1.46
+Antigua and Barbuda,1995,1.54
+Antigua and Barbuda,1996,1.58
+Antigua and Barbuda,1997,1.57
+Antigua and Barbuda,1998,1.62
+Antigua and Barbuda,1999,1.61
+Australia,1970,458
+Australia,1971,486
+Australia,1972,490
+Australia,1973,526
+Australia,1974,537
+Australia,1975,578
+Australia,1976,610
+Australia,1977,592
+Australia,1978,609
+Australia,1979,575
+Australia,1980,622
+Australia,1981,691
+Australia,1982,670
+Australia,1983,627
+Australia,1984,619
+Australia,1985,646
+Australia,1986,713
+Australia,1987,631
+Australia,1988,766
+Australia,1989,818
+Australia,1990,839
+Australia,1991,889
+Australia,1992,915.0
+Australia,1993,950.0
+Australia,1994,898.0
+Australia,1995,927.0
+Australia,1996,921
+Australia,1997,914
+Australia,1998,963.0
+Australia,1999,1210.0
+Austria,1970,196
+Austria,1971,200
+Austria,1972,197
+Austria,1973,196
+Austria,1974,174
+Austria,1975,173
+Austria,1976,167
+Austria,1977,170
+Austria,1978,185
+Austria,1979,172
+Austria,1980,152
+Austria,1981,144
+Austria,1982,109
+Austria,1983,100
+Austria,1984,91.4
+Austria,1985,81.5
+Austria,1986,70.6
+Austria,1987,52.7
+Austria,1988,47.1
+Austria,1989,40
+Austria,1990,38.5
+Austria,1991,30.5
+Austria,1992,29.5
+Austria,1993,26.5
+Austria,1994,26.0
+Austria,1995,24.5
+Austria,1996,22.5
+Austria,1997,20.5
+Austria,1998,19.0
+Austria,1999,17.5
+Azerbaijan,1970,62.7
+Azerbaijan,1971,64.4
+Azerbaijan,1972,66.1
+Azerbaijan,1973,68.5
+Azerbaijan,1974,70.6
+Azerbaijan,1975,70.9
+Azerbaijan,1976,72.6
+Azerbaijan,1977,73.3
+Azerbaijan,1978,72.9
+Azerbaijan,1979,73.4
+Azerbaijan,1980,68.4
+Azerbaijan,1981,70.2
+Azerbaijan,1982,67.9
+Azerbaijan,1983,69.7
+Azerbaijan,1984,85.8
+Azerbaijan,1985,92.7
+Azerbaijan,1986,95.5
+Azerbaijan,1987,99.6
+Azerbaijan,1988,97.5
+Azerbaijan,1989,87
+Azerbaijan,1990,95.8
+Azerbaijan,1991,105
+Azerbaijan,1992,101.0
+Azerbaijan,1993,107.0
+Azerbaijan,1994,131.0
+Azerbaijan,1995,145.0
+Azerbaijan,1996,149
+Azerbaijan,1997,164
+Azerbaijan,1998,181.0
+Azerbaijan,1999,185.0
+Burundi,1970,2.93
+Burundi,1971,2.82
+Burundi,1972,2.91
+Burundi,1973,3
+Burundi,1974,2.78
+Burundi,1975,2.66
+Burundi,1976,2.86
+Burundi,1977,2.75
+Burundi,1978,2.88
+Burundi,1979,3.06
+Burundi,1980,3.05
+Burundi,1981,2.96
+Burundi,1982,2.78
+Burundi,1983,2.84
+Burundi,1984,2.82
+Burundi,1985,2.84
+Burundi,1986,2.86
+Burundi,1987,2.92
+Burundi,1988,2.93
+Burundi,1989,2.95
+Burundi,1990,2.98
+Burundi,1991,3.01
+Burundi,1992,3.04
+Burundi,1993,3.07
+Burundi,1994,3.08
+Burundi,1995,3.1
+Burundi,1996,3.12
+Burundi,1997,3.13
+Burundi,1998,3.15
+Burundi,1999,3.15
+Belgium,1970,500
+Belgium,1971,529
+Belgium,1972,522
+Belgium,1973,508
+Belgium,1974,430
+Belgium,1975,403
+Belgium,1976,439
+Belgium,1977,382
+Belgium,1978,406
+Belgium,1979,414
+Belgium,1980,356
+Belgium,1981,347
+Belgium,1982,280
+Belgium,1983,250
+Belgium,1984,200
+Belgium,1985,189
+Belgium,1986,184
+Belgium,1987,177
+Belgium,1988,163
+Belgium,1989,178
+Belgium,1990,177
+Belgium,1991,174
+Belgium,1992,161.0
+Belgium,1993,141.0
+Belgium,1994,128.0
+Belgium,1995,127.0
+Belgium,1996,113
+Belgium,1997,107
+Belgium,1998,88.0
+Belgium,1999,84.5
+Benin,1970,7.08
+Benin,1971,6.95
+Benin,1972,7.08
+Benin,1973,7.85
+Benin,1974,7.54
+Benin,1975,6.64
+Benin,1976,7.14
+Benin,1977,7.42
+Benin,1978,7.33
+Benin,1979,7.55
+Benin,1980,7.46
+Benin,1981,7.65
+Benin,1982,7.18
+Benin,1983,7.18
+Benin,1984,7.07
+Benin,1985,6.77
+Benin,1986,6.78
+Benin,1987,7.02
+Benin,1988,6.98
+Benin,1989,7
+Benin,1990,6.95
+Benin,1991,7.12
+Benin,1992,7.09
+Benin,1993,7.28
+Benin,1994,7.28
+Benin,1995,5.98
+Benin,1996,5.66
+Benin,1997,5.68
+Benin,1998,6.6
+Benin,1999,6.61
+Burkina Faso,1970,11.4
+Burkina Faso,1971,11.6
+Burkina Faso,1972,12.5
+Burkina Faso,1973,13.3
+Burkina Faso,1974,12.1
+Burkina Faso,1975,11.8
+Burkina Faso,1976,12.7
+Burkina Faso,1977,12.7
+Burkina Faso,1978,13.2
+Burkina Faso,1979,13.8
+Burkina Faso,1980,14.1
+Burkina Faso,1981,13.7
+Burkina Faso,1982,13.5
+Burkina Faso,1983,13.6
+Burkina Faso,1984,13.7
+Burkina Faso,1985,13.7
+Burkina Faso,1986,14
+Burkina Faso,1987,13.9
+Burkina Faso,1988,14
+Burkina Faso,1989,13.6
+Burkina Faso,1990,13.7
+Burkina Faso,1991,13.8
+Burkina Faso,1992,13.9
+Burkina Faso,1993,14.1
+Burkina Faso,1994,14.2
+Burkina Faso,1995,14.3
+Burkina Faso,1996,14.4
+Burkina Faso,1997,14.5
+Burkina Faso,1998,14.7
+Burkina Faso,1999,14.8
+Bangladesh,1970,77.2
+Bangladesh,1971,81.2
+Bangladesh,1972,80.3
+Bangladesh,1973,55
+Bangladesh,1974,93.2
+Bangladesh,1975,98.2
+Bangladesh,1976,109
+Bangladesh,1977,111
+Bangladesh,1978,95.1
+Bangladesh,1979,130
+Bangladesh,1980,132
+Bangladesh,1981,119
+Bangladesh,1982,78.7
+Bangladesh,1983,64.4
+Bangladesh,1984,65.3
+Bangladesh,1985,59
+Bangladesh,1986,54.4
+Bangladesh,1987,51.4
+Bangladesh,1988,50.8
+Bangladesh,1989,49.9
+Bangladesh,1990,51.5
+Bangladesh,1991,54.6
+Bangladesh,1992,62.3
+Bangladesh,1993,65.8
+Bangladesh,1994,69.7
+Bangladesh,1995,74.1
+Bangladesh,1996,72.3
+Bangladesh,1997,63.5
+Bangladesh,1998,57.7
+Bangladesh,1999,65.6
+Bulgaria,1970,885
+Bulgaria,1971,888
+Bulgaria,1972,896
+Bulgaria,1973,891
+Bulgaria,1974,955
+Bulgaria,1975,897
+Bulgaria,1976,906
+Bulgaria,1977,900
+Bulgaria,1978,959
+Bulgaria,1979,1030
+Bulgaria,1980,1040
+Bulgaria,1981,1100
+Bulgaria,1982,1100
+Bulgaria,1983,1120
+Bulgaria,1984,1160
+Bulgaria,1985,1140
+Bulgaria,1986,1210
+Bulgaria,1987,1110
+Bulgaria,1988,1090
+Bulgaria,1989,1000
+Bulgaria,1990,833
+Bulgaria,1991,558
+Bulgaria,1992,713.0
+Bulgaria,1993,740.0
+Bulgaria,1994,738.0
+Bulgaria,1995,710.0
+Bulgaria,1996,683
+Bulgaria,1997,626
+Bulgaria,1998,472.0
+Bulgaria,1999,491.0
+Bahrain,1970,78.2
+Bahrain,1971,69.4
+Bahrain,1972,72.3
+Bahrain,1973,78.3
+Bahrain,1974,67.6
+Bahrain,1975,63.7
+Bahrain,1976,81.8
+Bahrain,1977,74.3
+Bahrain,1978,76
+Bahrain,1979,80.2
+Bahrain,1980,83.8
+Bahrain,1981,55.7
+Bahrain,1982,44.2
+Bahrain,1983,51.4
+Bahrain,1984,45.1
+Bahrain,1985,57.9
+Bahrain,1986,61
+Bahrain,1987,60.1
+Bahrain,1988,58.7
+Bahrain,1989,58.1
+Bahrain,1990,50.2
+Bahrain,1991,48.5
+Bahrain,1992,47.0
+Bahrain,1993,46.4
+Bahrain,1994,49.0
+Bahrain,1995,49.5
+Bahrain,1996,50.6
+Bahrain,1997,51.1
+Bahrain,1998,51.6
+Bahrain,1999,51.5
+Bahamas,1970,65
+Bahamas,1971,59.2
+Bahamas,1972,79.8
+Bahamas,1973,68.7
+Bahamas,1974,48.7
+Bahamas,1975,50.3
+Bahamas,1976,86.1
+Bahamas,1977,53.1
+Bahamas,1978,50.7
+Bahamas,1979,68.5
+Bahamas,1980,50.8
+Bahamas,1981,48.6
+Bahamas,1982,34
+Bahamas,1983,26.1
+Bahamas,1984,4.47
+Bahamas,1985,3.53
+Bahamas,1986,2.79
+Bahamas,1987,2.25
+Bahamas,1988,1.78
+Bahamas,1989,1.4
+Bahamas,1990,1.37
+Bahamas,1991,1.31
+Bahamas,1992,1.3
+Bahamas,1993,1.26
+Bahamas,1994,1.24
+Bahamas,1995,1.25
+Bahamas,1996,1.25
+Bahamas,1997,1.25
+Bahamas,1998,1.25
+Bahamas,1999,1.26
+Bosnia and Herzegovina,1970,161
+Bosnia and Herzegovina,1971,174
+Bosnia and Herzegovina,1972,171
+Bosnia and Herzegovina,1973,185
+Bosnia and Herzegovina,1974,189
+Bosnia and Herzegovina,1975,200
+Bosnia and Herzegovina,1976,202
+Bosnia and Herzegovina,1977,200
+Bosnia and Herzegovina,1978,205
+Bosnia and Herzegovina,1979,215
+Bosnia and Herzegovina,1980,221
+Bosnia and Herzegovina,1981,222
+Bosnia and Herzegovina,1982,238
+Bosnia and Herzegovina,1983,237
+Bosnia and Herzegovina,1984,243
+Bosnia and Herzegovina,1985,242
+Bosnia and Herzegovina,1986,240
+Bosnia and Herzegovina,1987,244
+Bosnia and Herzegovina,1988,245
+Bosnia and Herzegovina,1989,240
+Bosnia and Herzegovina,1990,156
+Bosnia and Herzegovina,1991,108
+Bosnia and Herzegovina,1992,90.7
+Bosnia and Herzegovina,1993,71.5
+Bosnia and Herzegovina,1994,55.0
+Bosnia and Herzegovina,1995,71.9
+Bosnia and Herzegovina,1996,93.9
+Bosnia and Herzegovina,1997,123
+Bosnia and Herzegovina,1998,160.0
+Bosnia and Herzegovina,1999,210.0
+Belarus,1970,316
+Belarus,1971,325
+Belarus,1972,333
+Belarus,1973,345
+Belarus,1974,356
+Belarus,1975,357
+Belarus,1976,366
+Belarus,1977,370
+Belarus,1978,367
+Belarus,1979,370
+Belarus,1980,365
+Belarus,1981,355
+Belarus,1982,355
+Belarus,1983,345
+Belarus,1984,345
+Belarus,1985,345
+Belarus,1986,381
+Belarus,1987,360
+Belarus,1988,334
+Belarus,1989,319
+Belarus,1990,326
+Belarus,1991,229
+Belarus,1992,191.0
+Belarus,1993,162.0
+Belarus,1994,138.0
+Belarus,1995,123.0
+Belarus,1996,104
+Belarus,1997,95
+Belarus,1998,81.8
+Belarus,1999,71.4
+Bermuda,1970,0.0221
+Bermuda,1971,0.0227
+Bermuda,1972,0.0233
+Bermuda,1973,0.0239
+Bermuda,1974,0.0245
+Bermuda,1975,0.0606
+Bermuda,1976,0.0966
+Bermuda,1977,0.133
+Bermuda,1978,0.169
+Bermuda,1979,0.205
+Bermuda,1980,0.241
+Bermuda,1981,0.277
+Bermuda,1982,0.313
+Bermuda,1983,0.349
+Bermuda,1984,0.385
+Bermuda,1985,0.421
+Bermuda,1986,0.457
+Bermuda,1987,0.493
+Bermuda,1988,0.529
+Bermuda,1989,0.565
+Bermuda,1990,0.5
+Bermuda,1991,0.442
+Bermuda,1992,0.39
+Bermuda,1993,0.345
+Bermuda,1994,0.305
+Bermuda,1995,0.26899999999999996
+Bermuda,1996,0.238
+Bermuda,1997,0.21
+Bermuda,1998,0.18600000000000003
+Bermuda,1999,0.16399999999999998
+Bolivia,1970,28.4
+Bolivia,1971,30
+Bolivia,1972,30.6
+Bolivia,1973,29.4
+Bolivia,1974,30.1
+Bolivia,1975,29.6
+Bolivia,1976,34
+Bolivia,1977,33.1
+Bolivia,1978,29.4
+Bolivia,1979,30.5
+Bolivia,1980,29.6
+Bolivia,1981,27.1
+Bolivia,1982,23.9
+Bolivia,1983,21.6
+Bolivia,1984,21
+Bolivia,1985,15.8
+Bolivia,1986,18.6
+Bolivia,1987,23.4
+Bolivia,1988,28.3
+Bolivia,1989,35.5
+Bolivia,1990,35.4
+Bolivia,1991,34.4
+Bolivia,1992,33.4
+Bolivia,1993,36.5
+Bolivia,1994,40.9
+Bolivia,1995,43.3
+Bolivia,1996,43.1
+Bolivia,1997,42.6
+Bolivia,1998,38.6
+Bolivia,1999,41.4
+Brazil,1970,423
+Brazil,1971,466
+Brazil,1972,560
+Brazil,1973,634
+Brazil,1974,635
+Brazil,1975,674
+Brazil,1976,761
+Brazil,1977,807
+Brazil,1978,915
+Brazil,1979,931
+Brazil,1980,938
+Brazil,1981,903
+Brazil,1982,906
+Brazil,1983,1030
+Brazil,1984,1030
+Brazil,1985,1020
+Brazil,1986,1050
+Brazil,1987,1070
+Brazil,1988,1030
+Brazil,1989,947
+Brazil,1990,942
+Brazil,1991,972
+Brazil,1992,1020.0
+Brazil,1993,1030.0
+Brazil,1994,1030.0
+Brazil,1995,1050.0
+Brazil,1996,1090
+Brazil,1997,1110
+Brazil,1998,1130.0
+Brazil,1999,1180.0
+Barbados,1970,0.725
+Barbados,1971,0.729
+Barbados,1972,0.817
+Barbados,1973,0.806
+Barbados,1974,0.831
+Barbados,1975,0.749
+Barbados,1976,0.797
+Barbados,1977,0.905
+Barbados,1978,0.966
+Barbados,1979,1
+Barbados,1980,1.16
+Barbados,1981,0.915
+Barbados,1982,0.759
+Barbados,1983,0.893
+Barbados,1984,0.88
+Barbados,1985,1
+Barbados,1986,1.08
+Barbados,1987,1.1
+Barbados,1988,1.12
+Barbados,1989,1.17
+Barbados,1990,1.02
+Barbados,1991,0.858
+Barbados,1992,0.759
+Barbados,1993,0.6759999999999999
+Barbados,1994,0.596
+Barbados,1995,0.526
+Barbados,1996,0.475
+Barbados,1997,0.425
+Barbados,1998,0.37799999999999995
+Barbados,1999,0.335
+Brunei,1970,14.4
+Brunei,1971,13.6
+Brunei,1972,12.8
+Brunei,1973,11.9
+Brunei,1974,11.1
+Brunei,1975,10.3
+Brunei,1976,9.47
+Brunei,1977,8.65
+Brunei,1978,7.83
+Brunei,1979,7.01
+Brunei,1980,6.19
+Brunei,1981,5.37
+Brunei,1982,4.54
+Brunei,1983,3.72
+Brunei,1984,2.9
+Brunei,1985,3.55
+Brunei,1986,2.7
+Brunei,1987,2.7
+Brunei,1988,2.8
+Brunei,1989,3.05
+Brunei,1990,3.05
+Brunei,1991,3.6
+Brunei,1992,4.2
+Brunei,1993,4.3
+Brunei,1994,4.55
+Brunei,1995,4.05
+Brunei,1996,4.4
+Brunei,1997,4.01
+Brunei,1998,3.62
+Brunei,1999,3.23
+Bhutan,1970,0.033
+Bhutan,1971,0.0331
+Bhutan,1972,0.0334
+Bhutan,1973,0.0332
+Bhutan,1974,0.0355
+Bhutan,1975,0.0341
+Bhutan,1976,0.0379
+Bhutan,1977,0.0403
+Bhutan,1978,0.0416
+Bhutan,1979,0.0444
+Bhutan,1980,0.0466
+Bhutan,1981,0.0454
+Bhutan,1982,0.0415
+Bhutan,1983,0.346
+Bhutan,1984,0.65
+Bhutan,1985,0.65
+Bhutan,1986,0.65
+Bhutan,1987,0.65
+Bhutan,1988,0.65
+Bhutan,1989,0.7
+Bhutan,1990,0.7
+Bhutan,1991,0.7
+Bhutan,1992,0.7
+Bhutan,1993,0.75
+Bhutan,1994,0.8
+Bhutan,1995,0.8
+Bhutan,1996,0.85
+Bhutan,1997,1.24
+Bhutan,1998,1.8
+Bhutan,1999,2.67
+Botswana,1970,2.02
+Botswana,1971,2.85
+Botswana,1972,3.71
+Botswana,1973,4.48
+Botswana,1974,4.67
+Botswana,1975,5.8
+Botswana,1976,6.5
+Botswana,1977,7.98
+Botswana,1978,8.85
+Botswana,1979,10.4
+Botswana,1980,10.4
+Botswana,1981,11.9
+Botswana,1982,14.7
+Botswana,1983,16.6
+Botswana,1984,18.6
+Botswana,1985,19.5
+Botswana,1986,22.4
+Botswana,1987,26.4
+Botswana,1988,28.2
+Botswana,1989,28.7
+Botswana,1990,28.3
+Botswana,1991,27.7
+Botswana,1992,26.2
+Botswana,1993,29.0
+Botswana,1994,27.9
+Botswana,1995,29.3
+Botswana,1996,29.2
+Botswana,1997,28.3
+Botswana,1998,30.4
+Botswana,1999,31.4
+Central African Republic,1970,16
+Central African Republic,1971,16.3
+Central African Republic,1972,17.7
+Central African Republic,1973,18.8
+Central African Republic,1974,17
+Central African Republic,1975,16.7
+Central African Republic,1976,17.9
+Central African Republic,1977,17.9
+Central African Republic,1978,18.6
+Central African Republic,1979,19.4
+Central African Republic,1980,19.8
+Central African Republic,1981,19.3
+Central African Republic,1982,19
+Central African Republic,1983,19.2
+Central African Republic,1984,19.3
+Central African Republic,1985,19.3
+Central African Republic,1986,19.7
+Central African Republic,1987,19.6
+Central African Republic,1988,19.7
+Central African Republic,1989,19.2
+Central African Republic,1990,19.2
+Central African Republic,1991,19.3
+Central African Republic,1992,19.3
+Central African Republic,1993,19.4
+Central African Republic,1994,19.4
+Central African Republic,1995,19.5
+Central African Republic,1996,19.5
+Central African Republic,1997,19.6
+Central African Republic,1998,19.6
+Central African Republic,1999,19.7
+Canada,1970,3130
+Canada,1971,2930
+Canada,1972,2910
+Canada,1973,2800
+Canada,1974,2730
+Canada,1975,2590
+Canada,1976,2450
+Canada,1977,2140
+Canada,1978,2240
+Canada,1979,2320
+Canada,1980,2150
+Canada,1981,1810
+Canada,1982,1810
+Canada,1983,1980
+Canada,1984,1890
+Canada,1985,1660
+Canada,1986,1840
+Canada,1987,1890
+Canada,1988,1660
+Canada,1989,1630
+Canada,1990,1810
+Canada,1991,1570
+Canada,1992,1300.0
+Canada,1993,1260.0
+Canada,1994,1310.0
+Canada,1995,1260.0
+Canada,1996,1260
+Canada,1997,1270
+Canada,1998,1250.0
+Canada,1999,1190.0
+Switzerland,1970,93.5
+Switzerland,1971,80
+Switzerland,1972,100
+Switzerland,1973,110
+Switzerland,1974,77.7
+Switzerland,1975,60.3
+Switzerland,1976,62.9
+Switzerland,1977,51.4
+Switzerland,1978,56.1
+Switzerland,1979,58
+Switzerland,1980,54
+Switzerland,1981,50
+Switzerland,1982,46
+Switzerland,1983,42
+Switzerland,1984,38
+Switzerland,1985,34
+Switzerland,1986,31
+Switzerland,1987,28
+Switzerland,1988,24.5
+Switzerland,1989,22.5
+Switzerland,1990,20.5
+Switzerland,1991,18
+Switzerland,1992,14.5
+Switzerland,1993,15.0
+Switzerland,1994,14.5
+Switzerland,1995,14.0
+Switzerland,1996,13
+Switzerland,1997,12
+Switzerland,1998,10.0
+Switzerland,1999,9.0
+Chile,1970,564
+Chile,1971,559
+Chile,1972,563
+Chile,1973,673
+Chile,1974,604
+Chile,1975,707
+Chile,1976,733
+Chile,1977,703
+Chile,1978,713
+Chile,1979,709
+Chile,1980,702
+Chile,1981,778
+Chile,1982,786
+Chile,1983,804
+Chile,1984,839
+Chile,1985,866
+Chile,1986,867
+Chile,1987,907
+Chile,1988,1000
+Chile,1989,998
+Chile,1990,984
+Chile,1991,1100
+Chile,1992,1020.0
+Chile,1993,1060.0
+Chile,1994,1310.0
+Chile,1995,1510.0
+Chile,1996,1790
+Chile,1997,1870
+Chile,1998,2140.0
+Chile,1999,1380.0
+China,1970,4030
+China,1971,4230
+China,1972,4330
+China,1973,4330
+China,1974,5030
+China,1975,5060
+China,1976,5770
+China,1977,6450
+China,1978,6610
+China,1979,6470
+China,1980,6460
+China,1981,6910
+China,1982,7370
+China,1983,8120
+China,1984,8950
+China,1985,9180
+China,1986,9490
+China,1987,9760
+China,1988,9790
+China,1989,9520
+China,1990,9200
+China,1991,8870
+China,1992,9300.0
+China,1993,9200.0
+China,1994,9460.0
+China,1995,9120.0
+China,1996,11.7k
+China,1997,10.4k
+China,1998,9290.0
+China,1999,9980.0
+Cote d'Ivoire,1970,12
+Cote d'Ivoire,1971,14.4
+Cote d'Ivoire,1972,14.7
+Cote d'Ivoire,1973,16.9
+Cote d'Ivoire,1974,17.3
+Cote d'Ivoire,1975,17.4
+Cote d'Ivoire,1976,17.7
+Cote d'Ivoire,1977,17.3
+Cote d'Ivoire,1978,19.6
+Cote d'Ivoire,1979,22.2
+Cote d'Ivoire,1980,22.2
+Cote d'Ivoire,1981,21.6
+Cote d'Ivoire,1982,17
+Cote d'Ivoire,1983,16.3
+Cote d'Ivoire,1984,18.8
+Cote d'Ivoire,1985,21.9
+Cote d'Ivoire,1986,19.4
+Cote d'Ivoire,1987,24.5
+Cote d'Ivoire,1988,24.2
+Cote d'Ivoire,1989,21.8
+Cote d'Ivoire,1990,22.4
+Cote d'Ivoire,1991,25.6
+Cote d'Ivoire,1992,23.1
+Cote d'Ivoire,1993,22.9
+Cote d'Ivoire,1994,22.9
+Cote d'Ivoire,1995,22.6
+Cote d'Ivoire,1996,23.4
+Cote d'Ivoire,1997,23.4
+Cote d'Ivoire,1998,22.8
+Cote d'Ivoire,1999,24.4
+Cameroon,1970,10.5
+Cameroon,1971,10.3
+Cameroon,1972,10.4
+Cameroon,1973,10.8
+Cameroon,1974,10.8
+Cameroon,1975,10.3
+Cameroon,1976,11.1
+Cameroon,1977,10.5
+Cameroon,1978,11.2
+Cameroon,1979,16
+Cameroon,1980,31.5
+Cameroon,1981,36.7
+Cameroon,1982,31.6
+Cameroon,1983,33.5
+Cameroon,1984,33.7
+Cameroon,1985,33.6
+Cameroon,1986,32.9
+Cameroon,1987,29.1
+Cameroon,1988,28.3
+Cameroon,1989,23.2
+Cameroon,1990,23.7
+Cameroon,1991,24.9
+Cameroon,1992,25.1
+Cameroon,1993,27.4
+Cameroon,1994,25.6
+Cameroon,1995,28.7
+Cameroon,1996,29.3
+Cameroon,1997,29
+Cameroon,1998,26.2
+Cameroon,1999,27.6
+"Congo, Dem. Rep.",1970,476
+"Congo, Dem. Rep.",1971,460
+"Congo, Dem. Rep.",1972,508
+"Congo, Dem. Rep.",1973,534
+"Congo, Dem. Rep.",1974,462
+"Congo, Dem. Rep.",1975,368
+"Congo, Dem. Rep.",1976,384
+"Congo, Dem. Rep.",1977,352
+"Congo, Dem. Rep.",1978,358
+"Congo, Dem. Rep.",1979,341
+"Congo, Dem. Rep.",1980,324
+"Congo, Dem. Rep.",1981,297
+"Congo, Dem. Rep.",1982,332
+"Congo, Dem. Rep.",1983,305
+"Congo, Dem. Rep.",1984,295
+"Congo, Dem. Rep.",1985,280
+"Congo, Dem. Rep.",1986,277
+"Congo, Dem. Rep.",1987,283
+"Congo, Dem. Rep.",1988,266
+"Congo, Dem. Rep.",1989,247
+"Congo, Dem. Rep.",1990,200
+"Congo, Dem. Rep.",1991,157
+"Congo, Dem. Rep.",1992,165.0
+"Congo, Dem. Rep.",1993,163.0
+"Congo, Dem. Rep.",1994,176.0
+"Congo, Dem. Rep.",1995,184.0
+"Congo, Dem. Rep.",1996,161
+"Congo, Dem. Rep.",1997,167
+"Congo, Dem. Rep.",1998,169.0
+"Congo, Dem. Rep.",1999,154.0
+"Congo, Rep.",1970,1.57
+"Congo, Rep.",1971,1.55
+"Congo, Rep.",1972,1.6
+"Congo, Rep.",1973,1.78
+"Congo, Rep.",1974,1.91
+"Congo, Rep.",1975,1.91
+"Congo, Rep.",1976,1.93
+"Congo, Rep.",1977,1.83
+"Congo, Rep.",1978,1.91
+"Congo, Rep.",1979,2.08
+"Congo, Rep.",1980,2.09
+"Congo, Rep.",1981,1.87
+"Congo, Rep.",1982,9
+"Congo, Rep.",1983,7.5
+"Congo, Rep.",1984,7.96
+"Congo, Rep.",1985,7.57
+"Congo, Rep.",1986,7.44
+"Congo, Rep.",1987,5.82
+"Congo, Rep.",1988,6.48
+"Congo, Rep.",1989,7.03
+"Congo, Rep.",1990,7.48
+"Congo, Rep.",1991,7.15
+"Congo, Rep.",1992,7.62
+"Congo, Rep.",1993,4.79
+"Congo, Rep.",1994,7.38
+"Congo, Rep.",1995,5.43
+"Congo, Rep.",1996,4.79
+"Congo, Rep.",1997,2.26
+"Congo, Rep.",1998,2.46
+"Congo, Rep.",1999,9.71
+Colombia,1970,48.2
+Colombia,1971,49.5
+Colombia,1972,53.3
+Colombia,1973,59.1
+Colombia,1974,58.8
+Colombia,1975,61.6
+Colombia,1976,66.3
+Colombia,1977,64.5
+Colombia,1978,69.3
+Colombia,1979,67.2
+Colombia,1980,68.8
+Colombia,1981,66.9
+Colombia,1982,84
+Colombia,1983,96.1
+Colombia,1984,88
+Colombia,1985,87.2
+Colombia,1986,90.6
+Colombia,1987,87.5
+Colombia,1988,95.8
+Colombia,1989,96.7
+Colombia,1990,103
+Colombia,1991,105
+Colombia,1992,112.0
+Colombia,1993,108.0
+Colombia,1994,115.0
+Colombia,1995,118.0
+Colombia,1996,121
+Colombia,1997,125
+Colombia,1998,117.0
+Colombia,1999,130.0
+Cape Verde,1970,0.296
+Cape Verde,1971,0.287
+Cape Verde,1972,0.296
+Cape Verde,1973,0.302
+Cape Verde,1974,0.278
+Cape Verde,1975,0.263
+Cape Verde,1976,0.28
+Cape Verde,1977,0.263
+Cape Verde,1978,0.271
+Cape Verde,1979,0.284
+Cape Verde,1980,0.278
+Cape Verde,1981,0.266
+Cape Verde,1982,0.246
+Cape Verde,1983,0.249
+Cape Verde,1984,0.244
+Cape Verde,1985,0.244
+Cape Verde,1986,0.243
+Cape Verde,1987,0.245
+Cape Verde,1988,0.245
+Cape Verde,1989,0.244
+Cape Verde,1990,0.259
+Cape Verde,1991,0.275
+Cape Verde,1992,0.292
+Cape Verde,1993,0.31
+Cape Verde,1994,0.33
+Cape Verde,1995,0.35200000000000004
+Cape Verde,1996,0.375
+Cape Verde,1997,0.399
+Cape Verde,1998,0.425
+Cape Verde,1999,0.45399999999999996
+Costa Rica,1970,13.4
+Costa Rica,1971,14
+Costa Rica,1972,12.9
+Costa Rica,1973,12.6
+Costa Rica,1974,8.82
+Costa Rica,1975,7.49
+Costa Rica,1976,11.4
+Costa Rica,1977,14.2
+Costa Rica,1978,12.1
+Costa Rica,1979,17.1
+Costa Rica,1980,15.1
+Costa Rica,1981,12.6
+Costa Rica,1982,8.26
+Costa Rica,1983,9.35
+Costa Rica,1984,9.47
+Costa Rica,1985,14.4
+Costa Rica,1986,15
+Costa Rica,1987,15
+Costa Rica,1988,15.4
+Costa Rica,1989,9.55
+Costa Rica,1990,8.39
+Costa Rica,1991,10.9
+Costa Rica,1992,9.33
+Costa Rica,1993,9.86
+Costa Rica,1994,12.8
+Costa Rica,1995,11.6
+Costa Rica,1996,11
+Costa Rica,1997,2
+Costa Rica,1998,1.42
+Costa Rica,1999,1.79
+Cuba,1970,196
+Cuba,1971,195
+Cuba,1972,199
+Cuba,1973,222
+Cuba,1974,226
+Cuba,1975,213
+Cuba,1976,232
+Cuba,1977,222
+Cuba,1978,214
+Cuba,1979,238
+Cuba,1980,244
+Cuba,1981,223
+Cuba,1982,202
+Cuba,1983,197
+Cuba,1984,192
+Cuba,1985,190
+Cuba,1986,207
+Cuba,1987,233
+Cuba,1988,239
+Cuba,1989,217
+Cuba,1990,216
+Cuba,1991,206
+Cuba,1992,192.0
+Cuba,1993,202.0
+Cuba,1994,173.0
+Cuba,1995,195.0
+Cuba,1996,182
+Cuba,1997,185
+Cuba,1998,200.0
+Cuba,1999,246.0
+Cyprus,1970,42.1
+Cyprus,1971,54.1
+Cyprus,1972,49.2
+Cyprus,1973,41.5
+Cyprus,1974,32.5
+Cyprus,1975,27.2
+Cyprus,1976,25.4
+Cyprus,1977,20.5
+Cyprus,1978,14.3
+Cyprus,1979,14
+Cyprus,1980,14
+Cyprus,1981,16.5
+Cyprus,1982,15
+Cyprus,1983,16.5
+Cyprus,1984,17.5
+Cyprus,1985,19
+Cyprus,1986,19.5
+Cyprus,1987,21
+Cyprus,1988,21
+Cyprus,1989,23
+Cyprus,1990,16.5
+Cyprus,1991,19.5
+Cyprus,1992,21.5
+Cyprus,1993,21.0
+Cyprus,1994,20.5
+Cyprus,1995,22.5
+Cyprus,1996,23.5
+Cyprus,1997,24.5
+Cyprus,1998,25.0
+Cyprus,1999,24.6
+Czech Republic,1970,993
+Czech Republic,1971,1010
+Czech Republic,1972,990
+Czech Republic,1973,1020
+Czech Republic,1974,1080
+Czech Republic,1975,1100
+Czech Republic,1976,1140
+Czech Republic,1977,1150
+Czech Republic,1978,1160
+Czech Republic,1979,1130
+Czech Republic,1980,1170
+Czech Republic,1981,1190
+Czech Republic,1982,1170
+Czech Republic,1983,1150
+Czech Republic,1984,1140
+Czech Republic,1985,1090
+Czech Republic,1986,1080
+Czech Republic,1987,1030
+Czech Republic,1988,999
+Czech Republic,1989,938
+Czech Republic,1990,888
+Czech Republic,1991,769
+Czech Republic,1992,710.0
+Czech Republic,1993,635.0
+Czech Republic,1994,546.0
+Czech Republic,1995,473.0
+Czech Republic,1996,351
+Czech Republic,1997,222
+Czech Republic,1998,134.0
+Czech Republic,1999,132.0
+Germany,1970,3920
+Germany,1971,3820
+Germany,1972,3860
+Germany,1973,3850
+Germany,1974,3740
+Germany,1975,3760
+Germany,1976,3680
+Germany,1977,3520
+Germany,1978,3730
+Germany,1979,3760
+Germany,1980,3720
+Germany,1981,3720
+Germany,1982,3670
+Germany,1983,3820
+Germany,1984,3870
+Germany,1985,3820
+Germany,1986,3700
+Germany,1987,3240
+Germany,1988,3080
+Germany,1989,2660
+Germany,1990,2000
+Germany,1991,1650
+Germany,1992,1470.0
+Germany,1993,1240.0
+Germany,1994,969.0
+Germany,1995,670.0
+Germany,1996,520
+Germany,1997,418
+Germany,1998,368.0
+Germany,1999,318.0
+Djibouti,1970,1.46
+Djibouti,1971,1.49
+Djibouti,1972,1.61
+Djibouti,1973,1.72
+Djibouti,1974,1.55
+Djibouti,1975,1.52
+Djibouti,1976,1.64
+Djibouti,1977,1.63
+Djibouti,1978,1.7
+Djibouti,1979,1.77
+Djibouti,1980,1.81
+Djibouti,1981,1.76
+Djibouti,1982,1.74
+Djibouti,1983,1.75
+Djibouti,1984,1.76
+Djibouti,1985,1.76
+Djibouti,1986,1.8
+Djibouti,1987,1.79
+Djibouti,1988,1.8
+Djibouti,1989,1.75
+Djibouti,1990,1.77
+Djibouti,1991,1.79
+Djibouti,1992,1.81
+Djibouti,1993,1.83
+Djibouti,1994,1.85
+Djibouti,1995,1.87
+Djibouti,1996,1.89
+Djibouti,1997,1.92
+Djibouti,1998,1.94
+Djibouti,1999,1.96
+Denmark,1970,228
+Denmark,1971,203
+Denmark,1972,212
+Denmark,1973,225
+Denmark,1974,209
+Denmark,1975,181
+Denmark,1976,198
+Denmark,1977,185
+Denmark,1978,207
+Denmark,1979,226
+Denmark,1980,185
+Denmark,1981,189
+Denmark,1982,161
+Denmark,1983,153
+Denmark,1984,170
+Denmark,1985,144
+Denmark,1986,128
+Denmark,1987,125
+Denmark,1988,98.4
+Denmark,1989,88
+Denmark,1990,118
+Denmark,1991,90
+Denmark,1992,72.5
+Denmark,1993,72.5
+Denmark,1994,68.0
+Denmark,1995,86.0
+Denmark,1996,49
+Denmark,1997,36
+Denmark,1998,26.5
+Denmark,1999,13.5
+Dominican Republic,1970,8.52
+Dominican Republic,1971,16.8
+Dominican Republic,1972,31.5
+Dominican Republic,1973,41.4
+Dominican Republic,1974,39.8
+Dominican Republic,1975,36.5
+Dominican Republic,1976,40.4
+Dominican Republic,1977,29.7
+Dominican Republic,1978,40.7
+Dominican Republic,1979,30.2
+Dominican Republic,1980,36.5
+Dominican Republic,1981,19.2
+Dominican Republic,1982,33
+Dominican Republic,1983,35.1
+Dominican Republic,1984,35.8
+Dominican Republic,1985,30.5
+Dominican Republic,1986,40.4
+Dominican Republic,1987,36.9
+Dominican Republic,1988,38.2
+Dominican Republic,1989,35.3
+Dominican Republic,1990,40.8
+Dominican Republic,1991,41.1
+Dominican Republic,1992,41.6
+Dominican Republic,1993,44.1
+Dominican Republic,1994,43.8
+Dominican Republic,1995,41.3
+Dominican Republic,1996,44
+Dominican Republic,1997,41.8
+Dominican Republic,1998,32.1
+Dominican Republic,1999,37.8
+Algeria,1970,25.9
+Algeria,1971,22.4
+Algeria,1972,22.9
+Algeria,1973,21.5
+Algeria,1974,18
+Algeria,1975,16.7
+Algeria,1976,19.6
+Algeria,1977,31.3
+Algeria,1978,29.8
+Algeria,1979,76.8
+Algeria,1980,87.8
+Algeria,1981,99.4
+Algeria,1982,120
+Algeria,1983,155
+Algeria,1984,132
+Algeria,1985,105
+Algeria,1986,110
+Algeria,1987,109
+Algeria,1988,108
+Algeria,1989,112
+Algeria,1990,122
+Algeria,1991,130
+Algeria,1992,135.0
+Algeria,1993,135.0
+Algeria,1994,145.0
+Algeria,1995,143.0
+Algeria,1996,160
+Algeria,1997,171
+Algeria,1998,193.0
+Algeria,1999,210.0
+Ecuador,1970,27.3
+Ecuador,1971,28.4
+Ecuador,1972,27.8
+Ecuador,1973,38.4
+Ecuador,1974,36.1
+Ecuador,1975,33.3
+Ecuador,1976,29.2
+Ecuador,1977,46.2
+Ecuador,1978,55.2
+Ecuador,1979,62.8
+Ecuador,1980,65.1
+Ecuador,1981,66.1
+Ecuador,1982,55.3
+Ecuador,1983,72.2
+Ecuador,1984,56.2
+Ecuador,1985,46.9
+Ecuador,1986,70.6
+Ecuador,1987,59.2
+Ecuador,1988,52.4
+Ecuador,1989,55.9
+Ecuador,1990,60.5
+Ecuador,1991,64.2
+Ecuador,1992,57.8
+Ecuador,1993,63.0
+Ecuador,1994,63.5
+Ecuador,1995,72.8
+Ecuador,1996,73.6
+Ecuador,1997,74.3
+Ecuador,1998,86.7
+Ecuador,1999,95.2
+Egypt,1970,70.7
+Egypt,1971,87.7
+Egypt,1972,86.9
+Egypt,1973,107
+Egypt,1974,146
+Egypt,1975,159
+Egypt,1976,203
+Egypt,1977,202
+Egypt,1978,209
+Egypt,1979,244
+Egypt,1980,268
+Egypt,1981,277
+Egypt,1982,248
+Egypt,1983,273
+Egypt,1984,280
+Egypt,1985,283
+Egypt,1986,313
+Egypt,1987,308
+Egypt,1988,299
+Egypt,1989,302
+Egypt,1990,298
+Egypt,1991,281
+Egypt,1992,295.0
+Egypt,1993,284.0
+Egypt,1994,272.0
+Egypt,1995,271.0
+Egypt,1996,260
+Egypt,1997,253
+Egypt,1998,242.0
+Egypt,1999,228.0
+Eritrea,1970,3.88
+Eritrea,1971,3.95
+Eritrea,1972,4.28
+Eritrea,1973,4.55
+Eritrea,1974,4.12
+Eritrea,1975,4.04
+Eritrea,1976,4.34
+Eritrea,1977,4.32
+Eritrea,1978,4.5
+Eritrea,1979,4.69
+Eritrea,1980,4.79
+Eritrea,1981,4.68
+Eritrea,1982,4.61
+Eritrea,1983,4.65
+Eritrea,1984,4.67
+Eritrea,1985,4.67
+Eritrea,1986,4.78
+Eritrea,1987,4.76
+Eritrea,1988,4.78
+Eritrea,1989,4.64
+Eritrea,1990,4.68
+Eritrea,1991,4.73
+Eritrea,1992,4.78
+Eritrea,1993,4.82
+Eritrea,1994,4.87
+Eritrea,1995,4.91
+Eritrea,1996,4.96
+Eritrea,1997,5.01
+Eritrea,1998,5.06
+Eritrea,1999,5.1
+Spain,1970,1030
+Spain,1971,1130
+Spain,1972,1230
+Spain,1973,1440
+Spain,1974,1500
+Spain,1975,1450
+Spain,1976,1420
+Spain,1977,1300
+Spain,1978,1260
+Spain,1979,1420
+Spain,1980,1390
+Spain,1981,1370
+Spain,1982,1380
+Spain,1983,1260
+Spain,1984,1200
+Spain,1985,1130
+Spain,1986,1070
+Spain,1987,894
+Spain,1988,1060
+Spain,1989,1090
+Spain,1990,1080
+Spain,1991,1070
+Spain,1992,1010.0
+Spain,1993,982.0
+Spain,1994,904.0
+Spain,1995,791.0
+Spain,1996,870
+Spain,1997,804
+Spain,1998,820.0
+Spain,1999,761.0
+Estonia,1970,123
+Estonia,1971,126
+Estonia,1972,129
+Estonia,1973,134
+Estonia,1974,138
+Estonia,1975,139
+Estonia,1976,142
+Estonia,1977,143
+Estonia,1978,143
+Estonia,1979,144
+Estonia,1980,131
+Estonia,1981,129
+Estonia,1982,123
+Estonia,1983,118
+Estonia,1984,127
+Estonia,1985,128
+Estonia,1986,128
+Estonia,1987,127
+Estonia,1988,127
+Estonia,1989,126
+Estonia,1990,123
+Estonia,1991,93.7
+Estonia,1992,76.9
+Estonia,1993,74.5
+Estonia,1994,59.3
+Estonia,1995,62.6
+Estonia,1996,59.5
+Estonia,1997,55
+Estonia,1998,51.3
+Estonia,1999,47.7
+Ethiopia,1970,63.8
+Ethiopia,1971,64.5
+Ethiopia,1972,70.1
+Ethiopia,1973,72.1
+Ethiopia,1974,64.9
+Ethiopia,1975,62.1
+Ethiopia,1976,66.3
+Ethiopia,1977,64.3
+Ethiopia,1978,69.1
+Ethiopia,1979,74.5
+Ethiopia,1980,72.8
+Ethiopia,1981,68.2
+Ethiopia,1982,64.3
+Ethiopia,1983,65.2
+Ethiopia,1984,62.7
+Ethiopia,1985,64.5
+Ethiopia,1986,67.9
+Ethiopia,1987,64.6
+Ethiopia,1988,64.7
+Ethiopia,1989,63.2
+Ethiopia,1990,51.4
+Ethiopia,1991,51.2
+Ethiopia,1992,62.2
+Ethiopia,1993,73.1
+Ethiopia,1994,72.7
+Ethiopia,1995,75.7
+Ethiopia,1996,73.2
+Ethiopia,1997,71.1
+Ethiopia,1998,74.1
+Ethiopia,1999,77.2
+Finland,1970,236
+Finland,1971,228
+Finland,1972,237
+Finland,1973,267
+Finland,1974,268
+Finland,1975,246
+Finland,1976,289
+Finland,1977,261
+Finland,1978,285
+Finland,1979,292
+Finland,1980,267
+Finland,1981,242
+Finland,1982,186
+Finland,1983,184
+Finland,1984,191
+Finland,1985,166
+Finland,1986,164
+Finland,1987,151
+Finland,1988,122
+Finland,1989,119
+Finland,1990,97
+Finland,1991,70.5
+Finland,1992,61.0
+Finland,1993,57.5
+Finland,1994,48.5
+Finland,1995,52.5
+Finland,1996,49.5
+Finland,1997,44.5
+Finland,1998,42.5
+Finland,1999,38.0
+Fiji,1970,0.252
+Fiji,1971,0.449
+Fiji,1972,0.646
+Fiji,1973,0.843
+Fiji,1974,2.09
+Fiji,1975,1.08
+Fiji,1976,2.22
+Fiji,1977,2.76
+Fiji,1978,2.74
+Fiji,1979,2.67
+Fiji,1980,2.41
+Fiji,1981,3
+Fiji,1982,2.14
+Fiji,1983,2.54
+Fiji,1984,1.84
+Fiji,1985,1.68
+Fiji,1986,1.75
+Fiji,1987,1.9
+Fiji,1988,1.47
+Fiji,1989,1.58
+Fiji,1990,1.47
+Fiji,1991,1.53
+Fiji,1992,1.53
+Fiji,1993,1.58
+Fiji,1994,1.54
+Fiji,1995,1.52
+Fiji,1996,1.47
+Fiji,1997,1.46
+Fiji,1998,1.54
+Fiji,1999,1.37
+France,1970,1610
+France,1971,1710
+France,1972,2000
+France,1973,2000
+France,1974,1740
+France,1975,1710
+France,1976,1550
+France,1977,1610
+France,1978,1710
+France,1979,1630
+France,1980,1280
+France,1981,1230
+France,1982,1010
+France,1983,903
+France,1984,754
+France,1985,689
+France,1986,681
+France,1987,628
+France,1988,710
+France,1989,663
+France,1990,722
+France,1991,631
+France,1992,547.0
+France,1993,521.0
+France,1994,489.0
+France,1995,477.0
+France,1996,403
+France,1997,412
+France,1998,353.0
+France,1999,314.0
+Faeroe Islands,1970,0.0126
+Faeroe Islands,1971,0.0155
+Faeroe Islands,1972,0.0185
+Faeroe Islands,1973,0.0214
+Faeroe Islands,1974,0.0244
+Faeroe Islands,1975,0.0273
+Faeroe Islands,1976,0.0303
+Faeroe Islands,1977,0.0332
+Faeroe Islands,1978,0.0362
+Faeroe Islands,1979,0.0391
+Faeroe Islands,1980,0.0421
+Faeroe Islands,1981,0.045
+Faeroe Islands,1982,0.048
+Faeroe Islands,1983,0.0509
+Faeroe Islands,1984,0.0539
+Faeroe Islands,1985,0.0568
+Faeroe Islands,1986,0.0598
+Faeroe Islands,1987,0.0628
+Faeroe Islands,1988,0.0657
+Faeroe Islands,1989,0.0687
+Faeroe Islands,1990,0.068
+Faeroe Islands,1991,0.0674
+Faeroe Islands,1992,0.0667
+Faeroe Islands,1993,0.0661
+Faeroe Islands,1994,0.0655
+Faeroe Islands,1995,0.0649
+Faeroe Islands,1996,0.0643
+Faeroe Islands,1997,0.0636
+Faeroe Islands,1998,0.063
+Faeroe Islands,1999,0.0625
+Gabon,1970,55.9
+Gabon,1971,59.5
+Gabon,1972,66.3
+Gabon,1973,70.2
+Gabon,1974,58.5
+Gabon,1975,62.1
+Gabon,1976,78.9
+Gabon,1977,95.4
+Gabon,1978,74.5
+Gabon,1979,76.3
+Gabon,1980,70.5
+Gabon,1981,64.2
+Gabon,1982,49.9
+Gabon,1983,48.5
+Gabon,1984,44.2
+Gabon,1985,40.6
+Gabon,1986,33
+Gabon,1987,31.8
+Gabon,1988,36.3
+Gabon,1989,22
+Gabon,1990,20.8
+Gabon,1991,29.4
+Gabon,1992,30.2
+Gabon,1993,28.9
+Gabon,1994,28.3
+Gabon,1995,28.0
+Gabon,1996,27.2
+Gabon,1997,27.4
+Gabon,1998,27.3
+Gabon,1999,26.7
+United Kingdom,1970,3020
+United Kingdom,1971,2950
+United Kingdom,1972,3000
+United Kingdom,1973,2780
+United Kingdom,1974,2680
+United Kingdom,1975,2560
+United Kingdom,1976,2540
+United Kingdom,1977,2610
+United Kingdom,1978,2760
+United Kingdom,1979,2430
+United Kingdom,1980,2200
+United Kingdom,1981,2090
+United Kingdom,1982,1920
+United Kingdom,1983,1850
+United Kingdom,1984,1860
+United Kingdom,1985,1940
+United Kingdom,1986,1940
+United Kingdom,1987,1910
+United Kingdom,1988,1850
+United Kingdom,1989,1860
+United Kingdom,1990,1770
+United Kingdom,1991,1730
+United Kingdom,1992,1560.0
+United Kingdom,1993,1340.0
+United Kingdom,1994,1180.0
+United Kingdom,1995,1010.0
+United Kingdom,1996,835
+United Kingdom,1997,804
+United Kingdom,1998,615.0
+United Kingdom,1999,595.0
+Georgia,1970,98.4
+Georgia,1971,101
+Georgia,1972,104
+Georgia,1973,107
+Georgia,1974,111
+Georgia,1975,111
+Georgia,1976,114
+Georgia,1977,115
+Georgia,1978,114
+Georgia,1979,115
+Georgia,1980,121
+Georgia,1981,125
+Georgia,1982,134
+Georgia,1983,133
+Georgia,1984,137
+Georgia,1985,128
+Georgia,1986,129
+Georgia,1987,128
+Georgia,1988,125
+Georgia,1989,124
+Georgia,1990,97
+Georgia,1991,67.6
+Georgia,1992,35.7
+Georgia,1993,23.4
+Georgia,1994,10.2
+Georgia,1995,15.1
+Georgia,1996,16.6
+Georgia,1997,10.1
+Georgia,1998,4.3
+Georgia,1999,4.5
+Ghana,1970,17.9
+Ghana,1971,19.2
+Ghana,1972,19.9
+Ghana,1973,22.3
+Ghana,1974,24.4
+Ghana,1975,20.9
+Ghana,1976,24.2
+Ghana,1977,20.4
+Ghana,1978,19.1
+Ghana,1979,19.9
+Ghana,1980,18.3
+Ghana,1981,14.8
+Ghana,1982,8.96
+Ghana,1983,12.9
+Ghana,1984,17.2
+Ghana,1985,16.7
+Ghana,1986,16.8
+Ghana,1987,15.2
+Ghana,1988,16.7
+Ghana,1989,14.9
+Ghana,1990,16.3
+Ghana,1991,15.9
+Ghana,1992,15.4
+Ghana,1993,17.4
+Ghana,1994,16.2
+Ghana,1995,16.3
+Ghana,1996,10.8
+Ghana,1997,14.9
+Ghana,1998,17.9
+Ghana,1999,16.7
+Gibraltar,1970,0.103
+Gibraltar,1971,0.133
+Gibraltar,1972,0.163
+Gibraltar,1973,0.193
+Gibraltar,1974,0.223
+Gibraltar,1975,0.253
+Gibraltar,1976,0.282
+Gibraltar,1977,0.312
+Gibraltar,1978,0.342
+Gibraltar,1979,0.372
+Gibraltar,1980,0.402
+Gibraltar,1981,0.432
+Gibraltar,1982,0.462
+Gibraltar,1983,0.492
+Gibraltar,1984,0.522
+Gibraltar,1985,0.552
+Gibraltar,1986,0.582
+Gibraltar,1987,0.612
+Gibraltar,1988,0.642
+Gibraltar,1989,0.672
+Gibraltar,1990,0.777
+Gibraltar,1991,0.899
+Gibraltar,1992,1.04
+Gibraltar,1993,1.2
+Gibraltar,1994,1.39
+Gibraltar,1995,1.61
+Gibraltar,1996,1.86
+Gibraltar,1997,2.16
+Gibraltar,1998,2.49
+Gibraltar,1999,2.88
+Guinea,1970,10.5
+Guinea,1971,10.7
+Guinea,1972,11.6
+Guinea,1973,12.3
+Guinea,1974,11.1
+Guinea,1975,10.9
+Guinea,1976,11.8
+Guinea,1977,11.7
+Guinea,1978,12.2
+Guinea,1979,12.7
+Guinea,1980,13
+Guinea,1981,12.7
+Guinea,1982,12.5
+Guinea,1983,12.6
+Guinea,1984,12.6
+Guinea,1985,12.6
+Guinea,1986,12.9
+Guinea,1987,12.9
+Guinea,1988,12.9
+Guinea,1989,12.6
+Guinea,1990,12.7
+Guinea,1991,12.9
+Guinea,1992,13.0
+Guinea,1993,13.2
+Guinea,1994,13.3
+Guinea,1995,13.5
+Guinea,1996,13.7
+Guinea,1997,13.8
+Guinea,1998,14.0
+Guinea,1999,14.2
+Guinea-Bissau,1970,1.68
+Guinea-Bissau,1971,1.71
+Guinea-Bissau,1972,1.85
+Guinea-Bissau,1973,1.97
+Guinea-Bissau,1974,1.78
+Guinea-Bissau,1975,1.75
+Guinea-Bissau,1976,1.88
+Guinea-Bissau,1977,1.87
+Guinea-Bissau,1978,1.95
+Guinea-Bissau,1979,2.03
+Guinea-Bissau,1980,2.07
+Guinea-Bissau,1981,2.02
+Guinea-Bissau,1982,2
+Guinea-Bissau,1983,2.01
+Guinea-Bissau,1984,2.02
+Guinea-Bissau,1985,2.02
+Guinea-Bissau,1986,2.07
+Guinea-Bissau,1987,2.06
+Guinea-Bissau,1988,2.07
+Guinea-Bissau,1989,2.01
+Guinea-Bissau,1990,2.02
+Guinea-Bissau,1991,2.04
+Guinea-Bissau,1992,2.05
+Guinea-Bissau,1993,2.07
+Guinea-Bissau,1994,2.08
+Guinea-Bissau,1995,2.1
+Guinea-Bissau,1996,2.11
+Guinea-Bissau,1997,2.13
+Guinea-Bissau,1998,2.14
+Guinea-Bissau,1999,2.16
+Greece,1970,121
+Greece,1971,129
+Greece,1972,173
+Greece,1973,158
+Greece,1974,180
+Greece,1975,204
+Greece,1976,198
+Greece,1977,192
+Greece,1978,216
+Greece,1979,200
+Greece,1980,231
+Greece,1981,218
+Greece,1982,235
+Greece,1983,241
+Greece,1984,250
+Greece,1985,251
+Greece,1986,269
+Greece,1987,268
+Greece,1988,266
+Greece,1989,246
+Greece,1990,267
+Greece,1991,272
+Greece,1992,272.0
+Greece,1993,256.0
+Greece,1994,268.0
+Greece,1995,261.0
+Greece,1996,258
+Greece,1997,262
+Greece,1998,269.0
+Greece,1999,245.0
+Greenland,1970,0.349
+Greenland,1971,0.0898
+Greenland,1972,0.179
+Greenland,1973,0.0961
+Greenland,1974,0.0721
+Greenland,1975,0.0481
+Greenland,1976,0.0405
+Greenland,1977,0.033
+Greenland,1978,0.0357
+Greenland,1979,0.0254
+Greenland,1980,0.0267
+Greenland,1981,0.013
+Greenland,1982,0.0119
+Greenland,1983,0.0115
+Greenland,1984,0.0235
+Greenland,1985,0.0354
+Greenland,1986,0.0473
+Greenland,1987,0.0593
+Greenland,1988,0.0712
+Greenland,1989,0.0831
+Greenland,1990,0.0827
+Greenland,1991,0.0822
+Greenland,1992,0.0818
+Greenland,1993,0.0813
+Greenland,1994,0.0808
+Greenland,1995,0.0804
+Greenland,1996,0.0799
+Greenland,1997,0.0795
+Greenland,1998,0.0791
+Greenland,1999,0.0786
+Guatemala,1970,21.1
+Guatemala,1971,22.7
+Guatemala,1972,24.2
+Guatemala,1973,26.7
+Guatemala,1974,26.7
+Guatemala,1975,29.7
+Guatemala,1976,29.6
+Guatemala,1977,33
+Guatemala,1978,54.2
+Guatemala,1979,45.7
+Guatemala,1980,26.1
+Guatemala,1981,17.5
+Guatemala,1982,12.6
+Guatemala,1983,15.9
+Guatemala,1984,13.4
+Guatemala,1985,11.8
+Guatemala,1986,12.5
+Guatemala,1987,13.8
+Guatemala,1988,13.3
+Guatemala,1989,13.3
+Guatemala,1990,15.5
+Guatemala,1991,17.8
+Guatemala,1992,17.6
+Guatemala,1993,21.0
+Guatemala,1994,20.8
+Guatemala,1995,22.7
+Guatemala,1996,25.2
+Guatemala,1997,25.4
+Guatemala,1998,33.1
+Guatemala,1999,37.3
+Guam,1970,7.47
+Guam,1971,8.89
+Guam,1972,8.79
+Guam,1973,7.66
+Guam,1974,6.89
+Guam,1975,8.28
+Guam,1976,8.93
+Guam,1977,8.56
+Guam,1978,9.01
+Guam,1979,9.93
+Guam,1980,9.33
+Guam,1981,8.56
+Guam,1982,6.61
+Guam,1983,5.69
+Guam,1984,4.77
+Guam,1985,3.86
+Guam,1986,2.94
+Guam,1987,2.02
+Guam,1988,1.1
+Guam,1989,0.184
+Guam,1990,0.188
+Guam,1991,0.192
+Guam,1992,0.195
+Guam,1993,0.19899999999999998
+Guam,1994,0.203
+Guam,1995,0.207
+Guam,1996,0.211
+Guam,1997,0.215
+Guam,1998,0.21899999999999997
+Guam,1999,0.22399999999999998
+Guyana,1970,3.24
+Guyana,1971,3.12
+Guyana,1972,3.21
+Guyana,1973,3.29
+Guyana,1974,3.02
+Guyana,1975,2.86
+Guyana,1976,3.04
+Guyana,1977,2.87
+Guyana,1978,2.96
+Guyana,1979,3.08
+Guyana,1980,2.99
+Guyana,1981,2.82
+Guyana,1982,2.58
+Guyana,1983,2.55
+Guyana,1984,2.45
+Guyana,1985,2.38
+Guyana,1986,2.32
+Guyana,1987,2.28
+Guyana,1988,2.22
+Guyana,1989,2.15
+Guyana,1990,2
+Guyana,1991,1.85
+Guyana,1992,1.72
+Guyana,1993,1.6
+Guyana,1994,1.48
+Guyana,1995,1.38
+Guyana,1996,1.29
+Guyana,1997,1.19
+Guyana,1998,1.11
+Guyana,1999,1.03
+"Hong Kong, China",1970,0.463
+"Hong Kong, China",1971,0.32
+"Hong Kong, China",1972,0.271
+"Hong Kong, China",1973,0.163
+"Hong Kong, China",1974,0.145
+"Hong Kong, China",1975,0.192
+"Hong Kong, China",1976,0.158
+"Hong Kong, China",1977,0.108
+"Hong Kong, China",1978,0.0878
+"Hong Kong, China",1979,0.0468
+"Hong Kong, China",1980,0.935
+"Hong Kong, China",1981,23.3
+"Hong Kong, China",1982,49.9
+"Hong Kong, China",1983,63.2
+"Hong Kong, China",1984,77.8
+"Hong Kong, China",1985,80.3
+"Hong Kong, China",1986,74.3
+"Hong Kong, China",1987,75.3
+"Hong Kong, China",1988,82.4
+"Hong Kong, China",1989,76.2
+"Hong Kong, China",1990,89.2
+"Hong Kong, China",1991,100
+"Hong Kong, China",1992,103.0
+"Hong Kong, China",1993,71.0
+"Hong Kong, China",1994,77.3
+"Hong Kong, China",1995,73.9
+"Hong Kong, China",1996,70
+"Hong Kong, China",1997,57.6
+"Hong Kong, China",1998,36.2
+"Hong Kong, China",1999,38.2
+Honduras,1970,11.8
+Honduras,1971,11.1
+Honduras,1972,12.1
+Honduras,1973,12.3
+Honduras,1974,13.5
+Honduras,1975,11.3
+Honduras,1976,12.4
+Honduras,1977,11.5
+Honduras,1978,11.5
+Honduras,1979,12.3
+Honduras,1980,11.3
+Honduras,1981,12
+Honduras,1982,18.3
+Honduras,1983,19.1
+Honduras,1984,20.2
+Honduras,1985,15.7
+Honduras,1986,7.18
+Honduras,1987,10.5
+Honduras,1988,14.5
+Honduras,1989,11.1
+Honduras,1990,12.9
+Honduras,1991,15.6
+Honduras,1992,9.26
+Honduras,1993,10.7
+Honduras,1994,12.6
+Honduras,1995,15.0
+Honduras,1996,19.6
+Honduras,1997,23
+Honduras,1998,24.7
+Honduras,1999,36.7
+Croatia,1970,56.4
+Croatia,1971,60.8
+Croatia,1972,59.8
+Croatia,1973,64.5
+Croatia,1974,66.2
+Croatia,1975,70
+Croatia,1976,70.7
+Croatia,1977,69.9
+Croatia,1978,71.8
+Croatia,1979,75
+Croatia,1980,75.4
+Croatia,1981,75.5
+Croatia,1982,81.3
+Croatia,1983,84.2
+Croatia,1984,88.3
+Croatia,1985,86.8
+Croatia,1986,89.4
+Croatia,1987,92.7
+Croatia,1988,93.5
+Croatia,1989,90
+Croatia,1990,54
+Croatia,1991,53.4
+Croatia,1992,56.9
+Croatia,1993,44.6
+Croatia,1994,35.2
+Croatia,1995,33.1
+Croatia,1996,40.2
+Croatia,1997,44.8
+Croatia,1998,45.4
+Croatia,1999,29.1
+Haiti,1970,5
+Haiti,1971,4.77
+Haiti,1972,4.87
+Haiti,1973,4.94
+Haiti,1974,4.5
+Haiti,1975,4.21
+Haiti,1976,4.42
+Haiti,1977,4.13
+Haiti,1978,4.2
+Haiti,1979,4.34
+Haiti,1980,4.2
+Haiti,1981,3.95
+Haiti,1982,3.6
+Haiti,1983,3.57
+Haiti,1984,3.45
+Haiti,1985,3.37
+Haiti,1986,3.29
+Haiti,1987,3.26
+Haiti,1988,3.19
+Haiti,1989,3.12
+Haiti,1990,2.83
+Haiti,1991,2.56
+Haiti,1992,2.33
+Haiti,1993,2.11
+Haiti,1994,1.92
+Haiti,1995,1.75
+Haiti,1996,1.59
+Haiti,1997,1.44
+Haiti,1998,1.31
+Haiti,1999,1.19
+Hungary,1970,845
+Hungary,1971,810
+Hungary,1972,847
+Hungary,1973,833
+Hungary,1974,822
+Hungary,1975,822
+Hungary,1976,834
+Hungary,1977,831
+Hungary,1978,831
+Hungary,1979,817
+Hungary,1980,790
+Hungary,1981,773
+Hungary,1982,740
+Hungary,1983,720
+Hungary,1984,702
+Hungary,1985,681
+Hungary,1986,643
+Hungary,1987,609
+Hungary,1988,551
+Hungary,1989,505
+Hungary,1990,457
+Hungary,1991,414
+Hungary,1992,379.0
+Hungary,1993,371.0
+Hungary,1994,353.0
+Hungary,1995,337.0
+Hungary,1996,330
+Hungary,1997,296
+Hungary,1998,295.0
+Hungary,1999,243.0
+Indonesia,1970,54.6
+Indonesia,1971,76.8
+Indonesia,1972,95.6
+Indonesia,1973,108
+Indonesia,1974,103
+Indonesia,1975,104
+Indonesia,1976,122
+Indonesia,1977,121
+Indonesia,1978,142
+Indonesia,1979,177
+Indonesia,1980,164
+Indonesia,1981,158
+Indonesia,1982,157
+Indonesia,1983,185
+Indonesia,1984,194
+Indonesia,1985,199
+Indonesia,1986,216
+Indonesia,1987,224
+Indonesia,1988,236
+Indonesia,1989,281
+Indonesia,1990,311
+Indonesia,1991,316
+Indonesia,1992,344.0
+Indonesia,1993,324.0
+Indonesia,1994,342.0
+Indonesia,1995,367.0
+Indonesia,1996,495
+Indonesia,1997,457
+Indonesia,1998,427.0
+Indonesia,1999,418.0
+India,1970,834
+India,1971,865
+India,1972,896
+India,1973,971
+India,1974,1080
+India,1975,1140
+India,1976,1150
+India,1977,1160
+India,1978,1190
+India,1979,1270
+India,1980,1410
+India,1981,1480
+India,1982,1530
+India,1983,1630
+India,1984,1700
+India,1985,1810
+India,1986,1920
+India,1987,2040
+India,1988,2130
+India,1989,2220
+India,1990,2340
+India,1991,2430
+India,1992,2520.0
+India,1993,2650.0
+India,1994,2810.0
+India,1995,3050.0
+India,1996,3140
+India,1997,2930
+India,1998,2780.0
+India,1999,2730.0
+Ireland,1970,94.5
+Ireland,1971,90.6
+Ireland,1972,92.5
+Ireland,1973,104
+Ireland,1974,95
+Ireland,1975,68.3
+Ireland,1976,92.8
+Ireland,1977,91.8
+Ireland,1978,117
+Ireland,1979,111
+Ireland,1980,96
+Ireland,1981,79
+Ireland,1982,71
+Ireland,1983,71
+Ireland,1984,70
+Ireland,1985,81
+Ireland,1986,87
+Ireland,1987,76
+Ireland,1988,81
+Ireland,1989,91.5
+Ireland,1990,90
+Ireland,1991,85
+Ireland,1992,80.5
+Ireland,1993,87.5
+Ireland,1994,80.5
+Ireland,1995,73.5
+Ireland,1996,83
+Ireland,1997,88
+Ireland,1998,78.5
+Ireland,1999,65.5
+Iran,1970,411
+Iran,1971,388
+Iran,1972,427
+Iran,1973,513
+Iran,1974,528
+Iran,1975,493
+Iran,1976,597
+Iran,1977,589
+Iran,1978,580
+Iran,1979,542
+Iran,1980,494
+Iran,1981,554
+Iran,1982,480
+Iran,1983,454
+Iran,1984,606
+Iran,1985,453
+Iran,1986,435
+Iran,1987,462
+Iran,1988,523
+Iran,1989,578
+Iran,1990,586
+Iran,1991,549
+Iran,1992,596.0
+Iran,1993,630.0
+Iran,1994,617.0
+Iran,1995,598.0
+Iran,1996,542
+Iran,1997,541
+Iran,1998,502.0
+Iran,1999,499.0
+Iraq,1970,35.2
+Iraq,1971,34.4
+Iraq,1972,41.7
+Iraq,1973,59.2
+Iraq,1974,91.9
+Iraq,1975,78.8
+Iraq,1976,90.3
+Iraq,1977,84.9
+Iraq,1978,96.3
+Iraq,1979,98
+Iraq,1980,99.5
+Iraq,1981,91.1
+Iraq,1982,154
+Iraq,1983,144
+Iraq,1984,128
+Iraq,1985,129
+Iraq,1986,160
+Iraq,1987,231
+Iraq,1988,214
+Iraq,1989,182
+Iraq,1990,185
+Iraq,1991,188
+Iraq,1992,191.0
+Iraq,1993,194.0
+Iraq,1994,198.0
+Iraq,1995,201.0
+Iraq,1996,204
+Iraq,1997,208
+Iraq,1998,211.0
+Iraq,1999,215.0
+Iceland,1970,4.99
+Iceland,1971,2.9
+Iceland,1972,1.65
+Iceland,1973,9.66
+Iceland,1974,7.28
+Iceland,1975,9.55
+Iceland,1976,8.37
+Iceland,1977,8.83
+Iceland,1978,9.54
+Iceland,1979,8.9
+Iceland,1980,8.9
+Iceland,1981,8.9
+Iceland,1982,9.1
+Iceland,1983,9.4
+Iceland,1984,9.05
+Iceland,1985,9.2
+Iceland,1986,8.1
+Iceland,1987,8.75
+Iceland,1988,8.65
+Iceland,1989,4.1
+Iceland,1990,3.65
+Iceland,1991,4.1
+Iceland,1992,4.35
+Iceland,1993,4.0
+Iceland,1994,4.05
+Iceland,1995,4.15
+Iceland,1996,4.4
+Iceland,1997,4.2
+Iceland,1998,4.4
+Iceland,1999,4.45
+Israel,1970,135
+Israel,1971,130
+Israel,1972,142
+Israel,1973,135
+Israel,1974,120
+Israel,1975,77.2
+Israel,1976,83.1
+Israel,1977,84
+Israel,1978,85
+Israel,1979,87.7
+Israel,1980,79.3
+Israel,1981,106
+Israel,1982,110
+Israel,1983,117
+Israel,1984,116
+Israel,1985,124
+Israel,1986,128
+Israel,1987,135
+Israel,1988,136
+Israel,1989,140
+Israel,1990,152
+Israel,1991,160
+Israel,1992,167.0
+Israel,1993,176.0
+Israel,1994,185.0
+Israel,1995,193.0
+Israel,1996,199
+Israel,1997,204
+Israel,1998,210.0
+Israel,1999,218.0
+Italy,1970,1440
+Italy,1971,1480
+Italy,1972,1540
+Italy,1973,1600
+Italy,1974,1640
+Italy,1975,1660
+Italy,1976,1650
+Italy,1977,1640
+Italy,1978,1620
+Italy,1979,1880
+Italy,1980,1670
+Italy,1981,1430
+Italy,1982,1230
+Italy,1983,1060
+Italy,1984,951
+Italy,1985,965
+Italy,1986,1010
+Italy,1987,982
+Italy,1988,927
+Italy,1989,887
+Italy,1990,828
+Italy,1991,779
+Italy,1992,727.0
+Italy,1993,680.0
+Italy,1994,644.0
+Italy,1995,614.0
+Italy,1996,576
+Italy,1997,508
+Italy,1998,461.0
+Italy,1999,386.0
+Jamaica,1970,95.7
+Jamaica,1971,115
+Jamaica,1972,111
+Jamaica,1973,106
+Jamaica,1974,96.6
+Jamaica,1975,76.4
+Jamaica,1976,66.2
+Jamaica,1977,62.6
+Jamaica,1978,73.8
+Jamaica,1979,65.6
+Jamaica,1980,67.8
+Jamaica,1981,54
+Jamaica,1982,56.9
+Jamaica,1983,31.9
+Jamaica,1984,44.3
+Jamaica,1985,50.1
+Jamaica,1986,31.4
+Jamaica,1987,35.2
+Jamaica,1988,49.8
+Jamaica,1989,44.4
+Jamaica,1990,35.5
+Jamaica,1991,54.5
+Jamaica,1992,40.1
+Jamaica,1993,49.5
+Jamaica,1994,50.5
+Jamaica,1995,48.1
+Jamaica,1996,47.3
+Jamaica,1997,45.4
+Jamaica,1998,31.9
+Jamaica,1999,60.5
+Jordan,1970,10.6
+Jordan,1971,11.1
+Jordan,1972,12.3
+Jordan,1973,14.7
+Jordan,1974,16.1
+Jordan,1975,20
+Jordan,1976,22.2
+Jordan,1977,23.8
+Jordan,1978,31.5
+Jordan,1979,35.1
+Jordan,1980,42
+Jordan,1981,42.5
+Jordan,1982,37.5
+Jordan,1983,38.9
+Jordan,1984,34.7
+Jordan,1985,32.1
+Jordan,1986,37.5
+Jordan,1987,35.6
+Jordan,1988,35.1
+Jordan,1989,37.8
+Jordan,1990,34
+Jordan,1991,43.4
+Jordan,1992,43.8
+Jordan,1993,49.1
+Jordan,1994,52.9
+Jordan,1995,54.3
+Jordan,1996,60.1
+Jordan,1997,63.4
+Jordan,1998,66.4
+Jordan,1999,74.9
+Japan,1970,2170
+Japan,1971,1920
+Japan,1972,1800
+Japan,1973,1610
+Japan,1974,1290
+Japan,1975,841
+Japan,1976,843
+Japan,1977,708
+Japan,1978,682
+Japan,1979,639
+Japan,1980,625
+Japan,1981,567
+Japan,1982,525
+Japan,1983,522
+Japan,1984,457
+Japan,1985,418
+Japan,1986,403
+Japan,1987,426
+Japan,1988,438
+Japan,1989,488
+Japan,1990,485
+Japan,1991,465
+Japan,1992,444.0
+Japan,1993,472.0
+Japan,1994,458.0
+Japan,1995,439.0
+Japan,1996,438
+Japan,1997,427
+Japan,1998,405.0
+Japan,1999,410.0
+Kazakhstan,1970,939
+Kazakhstan,1971,964
+Kazakhstan,1972,990
+Kazakhstan,1973,1030
+Kazakhstan,1974,1060
+Kazakhstan,1975,1060
+Kazakhstan,1976,1090
+Kazakhstan,1977,1100
+Kazakhstan,1978,1090
+Kazakhstan,1979,1100
+Kazakhstan,1980,1020
+Kazakhstan,1981,1050
+Kazakhstan,1982,1020
+Kazakhstan,1983,1040
+Kazakhstan,1984,1290
+Kazakhstan,1985,1390
+Kazakhstan,1986,1430
+Kazakhstan,1987,1490
+Kazakhstan,1988,1460
+Kazakhstan,1989,1300
+Kazakhstan,1990,1230
+Kazakhstan,1991,1260
+Kazakhstan,1992,1180.0
+Kazakhstan,1993,1090.0
+Kazakhstan,1994,1060.0
+Kazakhstan,1995,1110.0
+Kazakhstan,1996,1200
+Kazakhstan,1997,1230
+Kazakhstan,1998,1350.0
+Kazakhstan,1999,1600.0
+Kenya,1970,41.4
+Kenya,1971,38.8
+Kenya,1972,41
+Kenya,1973,44.9
+Kenya,1974,42.5
+Kenya,1975,37.2
+Kenya,1976,40.2
+Kenya,1977,40
+Kenya,1978,41.1
+Kenya,1979,46
+Kenya,1980,43.9
+Kenya,1981,37.1
+Kenya,1982,32
+Kenya,1983,32.4
+Kenya,1984,31.4
+Kenya,1985,31.4
+Kenya,1986,32.1
+Kenya,1987,31.2
+Kenya,1988,31.6
+Kenya,1989,31.7
+Kenya,1990,32.1
+Kenya,1991,33.5
+Kenya,1992,33.3
+Kenya,1993,34.2
+Kenya,1994,30.9
+Kenya,1995,30.5
+Kenya,1996,33.9
+Kenya,1997,38
+Kenya,1998,40.1
+Kenya,1999,44.3
+Kyrgyz Republic,1970,18
+Kyrgyz Republic,1971,18.5
+Kyrgyz Republic,1972,19
+Kyrgyz Republic,1973,19.7
+Kyrgyz Republic,1974,20.3
+Kyrgyz Republic,1975,20.4
+Kyrgyz Republic,1976,20.9
+Kyrgyz Republic,1977,21.1
+Kyrgyz Republic,1978,20.9
+Kyrgyz Republic,1979,21.1
+Kyrgyz Republic,1980,19.7
+Kyrgyz Republic,1981,20.2
+Kyrgyz Republic,1982,19.5
+Kyrgyz Republic,1983,20
+Kyrgyz Republic,1984,24.7
+Kyrgyz Republic,1985,26.6
+Kyrgyz Republic,1986,27.4
+Kyrgyz Republic,1987,28.6
+Kyrgyz Republic,1988,28
+Kyrgyz Republic,1989,25
+Kyrgyz Republic,1990,26.1
+Kyrgyz Republic,1991,20.4
+Kyrgyz Republic,1992,15.8
+Kyrgyz Republic,1993,10.5
+Kyrgyz Republic,1994,7.85
+Kyrgyz Republic,1995,7.0
+Kyrgyz Republic,1996,4.95
+Kyrgyz Republic,1997,5.4
+Kyrgyz Republic,1998,4.36
+Kyrgyz Republic,1999,4.86
+Cambodia,1970,0.355
+Cambodia,1971,0.0619
+Cambodia,1972,0.865
+Cambodia,1973,1.67
+Cambodia,1974,2.47
+Cambodia,1975,3.27
+Cambodia,1976,4.08
+Cambodia,1977,4.88
+Cambodia,1978,5.68
+Cambodia,1979,6.49
+Cambodia,1980,7.29
+Cambodia,1981,8.09
+Cambodia,1982,8.89
+Cambodia,1983,9.7
+Cambodia,1984,10.5
+Cambodia,1985,10.8
+Cambodia,1986,10.9
+Cambodia,1987,11.4
+Cambodia,1988,11.4
+Cambodia,1989,11.5
+Cambodia,1990,11.8
+Cambodia,1991,12.1
+Cambodia,1992,12.2
+Cambodia,1993,12.4
+Cambodia,1994,12.8
+Cambodia,1995,12.9
+Cambodia,1996,13
+Cambodia,1997,14.8
+Cambodia,1998,14.9
+Cambodia,1999,17.2
+South Korea,1970,197
+South Korea,1971,199
+South Korea,1972,227
+South Korea,1973,264
+South Korea,1974,283
+South Korea,1975,292
+South Korea,1976,338
+South Korea,1977,360
+South Korea,1978,433
+South Korea,1979,481
+South Korea,1980,556
+South Korea,1981,520
+South Korea,1982,485
+South Korea,1983,531
+South Korea,1984,640
+South Korea,1985,633
+South Korea,1986,602
+South Korea,1987,709
+South Korea,1988,756
+South Korea,1989,853
+South Korea,1990,738
+South Korea,1991,671
+South Korea,1992,661.0
+South Korea,1993,627.0
+South Korea,1994,610.0
+South Korea,1995,602.0
+South Korea,1996,640
+South Korea,1997,524
+South Korea,1998,458.0
+South Korea,1999,414.0
+Kuwait,1970,217
+Kuwait,1971,177
+Kuwait,1972,187
+Kuwait,1973,182
+Kuwait,1974,152
+Kuwait,1975,232
+Kuwait,1976,203
+Kuwait,1977,247
+Kuwait,1978,211
+Kuwait,1979,207
+Kuwait,1980,173
+Kuwait,1981,228
+Kuwait,1982,232
+Kuwait,1983,243
+Kuwait,1984,272
+Kuwait,1985,297
+Kuwait,1986,287
+Kuwait,1987,319
+Kuwait,1988,309
+Kuwait,1989,65.2
+Kuwait,1990,4660
+Kuwait,1991,61.5
+Kuwait,1992,80.8
+Kuwait,1993,121.0
+Kuwait,1994,119.0
+Kuwait,1995,104.0
+Kuwait,1996,103
+Kuwait,1997,92.5
+Kuwait,1998,88.8
+Kuwait,1999,69.3
+Lao,1970,4.29
+Lao,1971,4.09
+Lao,1972,3.89
+Lao,1973,3.68
+Lao,1974,3.48
+Lao,1975,3.28
+Lao,1976,3.07
+Lao,1977,2.87
+Lao,1978,2.67
+Lao,1979,2.46
+Lao,1980,2.26
+Lao,1981,2.06
+Lao,1982,1.86
+Lao,1983,1.65
+Lao,1984,1.45
+Lao,1985,1.5
+Lao,1986,1.55
+Lao,1987,1.55
+Lao,1988,1.65
+Lao,1989,1.7
+Lao,1990,1.75
+Lao,1991,1.85
+Lao,1992,1.85
+Lao,1993,2.0
+Lao,1994,2.3
+Lao,1995,2.55
+Lao,1996,2.8
+Lao,1997,3.1
+Lao,1998,3.5
+Lao,1999,3.92
+Lebanon,1970,59
+Lebanon,1971,59.2
+Lebanon,1972,67.1
+Lebanon,1973,73
+Lebanon,1974,61.1
+Lebanon,1975,62.1
+Lebanon,1976,52.2
+Lebanon,1977,52.2
+Lebanon,1978,53.9
+Lebanon,1979,65.4
+Lebanon,1980,47.2
+Lebanon,1981,13.1
+Lebanon,1982,11.8
+Lebanon,1983,18
+Lebanon,1984,13.9
+Lebanon,1985,25
+Lebanon,1986,29.3
+Lebanon,1987,28.8
+Lebanon,1988,28.2
+Lebanon,1989,28.1
+Lebanon,1990,37.2
+Lebanon,1991,37.4
+Lebanon,1992,39.4
+Lebanon,1993,41.5
+Lebanon,1994,43.8
+Lebanon,1995,46.0
+Lebanon,1996,48
+Lebanon,1997,49.2
+Lebanon,1998,52.3
+Lebanon,1999,55.2
+Liberia,1970,2.73
+Liberia,1971,3.2
+Liberia,1972,2.49
+Liberia,1973,3.63
+Liberia,1974,3.07
+Liberia,1975,2.88
+Liberia,1976,2.54
+Liberia,1977,2.2
+Liberia,1978,2.91
+Liberia,1979,4.18
+Liberia,1980,4.04
+Liberia,1981,3.94
+Liberia,1982,3.72
+Liberia,1983,3.81
+Liberia,1984,3.79
+Liberia,1985,3.8
+Liberia,1986,3.8
+Liberia,1987,3.84
+Liberia,1988,3.78
+Liberia,1989,3.72
+Liberia,1990,3.66
+Liberia,1991,3.6
+Liberia,1992,3.53
+Liberia,1993,3.47
+Liberia,1994,3.41
+Liberia,1995,3.35
+Liberia,1996,3.29
+Liberia,1997,3.23
+Liberia,1998,3.17
+Liberia,1999,3.11
+Libya,1970,4.6
+Libya,1971,8.29
+Libya,1972,0.142
+Libya,1973,11
+Libya,1974,17.2
+Libya,1975,28.3
+Libya,1976,44.6
+Libya,1977,44.4
+Libya,1978,43.7
+Libya,1979,51.4
+Libya,1980,56.3
+Libya,1981,49.4
+Libya,1982,50.2
+Libya,1983,17
+Libya,1984,39.4
+Libya,1985,10.7
+Libya,1986,50.6
+Libya,1987,50.6
+Libya,1988,76.1
+Libya,1989,109
+Libya,1990,111
+Libya,1991,113
+Libya,1992,116.0
+Libya,1993,118.0
+Libya,1994,121.0
+Libya,1995,124.0
+Libya,1996,127
+Libya,1997,129
+Libya,1998,132.0
+Libya,1999,135.0
+Liechtenstein,1970,0.197
+Liechtenstein,1971,0.196
+Liechtenstein,1972,0.205
+Liechtenstein,1973,0.206
+Liechtenstein,1974,0.198
+Liechtenstein,1975,0.194
+Liechtenstein,1976,0.191
+Liechtenstein,1977,0.186
+Liechtenstein,1978,0.194
+Liechtenstein,1979,0.195
+Liechtenstein,1980,0.182
+Liechtenstein,1981,0.171
+Liechtenstein,1982,0.159
+Liechtenstein,1983,0.146
+Liechtenstein,1984,0.135
+Liechtenstein,1985,0.122
+Liechtenstein,1986,0.111
+Liechtenstein,1987,0.0985
+Liechtenstein,1988,0.0865
+Liechtenstein,1989,0.0745
+Liechtenstein,1990,0.0725
+Liechtenstein,1991,0.071
+Liechtenstein,1992,0.069
+Liechtenstein,1993,0.067
+Liechtenstein,1994,0.0611
+Liechtenstein,1995,0.0551
+Liechtenstein,1996,0.0492
+Liechtenstein,1997,0.0432
+Liechtenstein,1998,0.0373
+Liechtenstein,1999,0.0313
+Sri Lanka,1970,14.3
+Sri Lanka,1971,15.9
+Sri Lanka,1972,15.5
+Sri Lanka,1973,14.8
+Sri Lanka,1974,13.9
+Sri Lanka,1975,12.6
+Sri Lanka,1976,14.5
+Sri Lanka,1977,13.7
+Sri Lanka,1978,13.3
+Sri Lanka,1979,18.9
+Sri Lanka,1980,15
+Sri Lanka,1981,17.2
+Sri Lanka,1982,11.7
+Sri Lanka,1983,13.1
+Sri Lanka,1984,11.8
+Sri Lanka,1985,10.9
+Sri Lanka,1986,15
+Sri Lanka,1987,13.7
+Sri Lanka,1988,13.3
+Sri Lanka,1989,13
+Sri Lanka,1990,14.8
+Sri Lanka,1991,22.3
+Sri Lanka,1992,20.9
+Sri Lanka,1993,20.4
+Sri Lanka,1994,19.0
+Sri Lanka,1995,32.3
+Sri Lanka,1996,30.7
+Sri Lanka,1997,31.3
+Sri Lanka,1998,26.5
+Sri Lanka,1999,27.8
+Lithuania,1970,133
+Lithuania,1971,136
+Lithuania,1972,140
+Lithuania,1973,145
+Lithuania,1974,150
+Lithuania,1975,150
+Lithuania,1976,154
+Lithuania,1977,155
+Lithuania,1978,154
+Lithuania,1979,156
+Lithuania,1980,156
+Lithuania,1981,152
+Lithuania,1982,155
+Lithuania,1983,152
+Lithuania,1984,152
+Lithuania,1985,158
+Lithuania,1986,158
+Lithuania,1987,150
+Lithuania,1988,149
+Lithuania,1989,111
+Lithuania,1990,117
+Lithuania,1991,69.5
+Lithuania,1992,62.5
+Lithuania,1993,58.5
+Lithuania,1994,47.0
+Lithuania,1995,46.5
+Lithuania,1996,38.5
+Lithuania,1997,47
+Lithuania,1998,35.0
+Lithuania,1999,21.6
+Luxembourg,1970,37.5
+Luxembourg,1971,35
+Luxembourg,1972,26.1
+Luxembourg,1973,39.1
+Luxembourg,1974,26
+Luxembourg,1975,27
+Luxembourg,1976,20.5
+Luxembourg,1977,16.7
+Luxembourg,1978,11.8
+Luxembourg,1979,12
+Luxembourg,1980,10.1
+Luxembourg,1981,9.5
+Luxembourg,1982,5.3
+Luxembourg,1983,6.02
+Luxembourg,1984,6.51
+Luxembourg,1985,6.05
+Luxembourg,1986,6.62
+Luxembourg,1987,5.68
+Luxembourg,1988,7.2
+Luxembourg,1989,7.35
+Luxembourg,1990,7.5
+Luxembourg,1991,7.1
+Luxembourg,1992,7.5
+Luxembourg,1993,6.4
+Luxembourg,1994,4.5
+Luxembourg,1995,4.0
+Luxembourg,1996,3
+Luxembourg,1997,2
+Luxembourg,1998,2.0
+Luxembourg,1999,1.5
+Latvia,1970,43.6
+Latvia,1971,44.7
+Latvia,1972,45.9
+Latvia,1973,47.6
+Latvia,1974,49
+Latvia,1975,49.2
+Latvia,1976,50.4
+Latvia,1977,50.9
+Latvia,1978,50.6
+Latvia,1979,51
+Latvia,1980,51.1
+Latvia,1981,49.1
+Latvia,1982,46.7
+Latvia,1983,48.3
+Latvia,1984,46.7
+Latvia,1985,47.4
+Latvia,1986,47.1
+Latvia,1987,48.4
+Latvia,1988,49.3
+Latvia,1989,47.7
+Latvia,1990,35.6
+Latvia,1991,29.6
+Latvia,1992,28.8
+Latvia,1993,35.3
+Latvia,1994,27.3
+Latvia,1995,25.4
+Latvia,1996,19.3
+Latvia,1997,17.8
+Latvia,1998,14.8
+Latvia,1999,8.33
+"Macao, China",1970,0.0377
+"Macao, China",1971,0.0247
+"Macao, China",1972,0.0239
+"Macao, China",1973,0.024
+"Macao, China",1974,0.0368
+"Macao, China",1975,0.012
+"Macao, China",1976,0.0116
+"Macao, China",1977,0.011
+"Macao, China",1978,0.0507
+"Macao, China",1979,0.0133
+"Macao, China",1980,0.013
+"Macao, China",1981,0.0119
+"Macao, China",1982,0.0115
+"Macao, China",1983,0.227
+"Macao, China",1984,0.441
+"Macao, China",1985,0.656
+"Macao, China",1986,0.871
+"Macao, China",1987,1.09
+"Macao, China",1988,1.3
+"Macao, China",1989,1.52
+"Macao, China",1990,1.62
+"Macao, China",1991,1.74
+"Macao, China",1992,1.86
+"Macao, China",1993,2.0
+"Macao, China",1994,2.14
+"Macao, China",1995,2.29
+"Macao, China",1996,2.45
+"Macao, China",1997,2.63
+"Macao, China",1998,2.81
+"Macao, China",1999,3.01
+Morocco,1970,50.4
+Morocco,1971,56.3
+Morocco,1972,60.2
+Morocco,1973,64.6
+Morocco,1974,63.4
+Morocco,1975,60.6
+Morocco,1976,67.9
+Morocco,1977,72.9
+Morocco,1978,87.1
+Morocco,1979,85.7
+Morocco,1980,97
+Morocco,1981,108
+Morocco,1982,105
+Morocco,1983,107
+Morocco,1984,110
+Morocco,1985,98.6
+Morocco,1986,102
+Morocco,1987,103
+Morocco,1988,107
+Morocco,1989,107
+Morocco,1990,106
+Morocco,1991,109
+Morocco,1992,109.0
+Morocco,1993,109.0
+Morocco,1994,119.0
+Morocco,1995,118.0
+Morocco,1996,122
+Morocco,1997,126
+Morocco,1998,136.0
+Morocco,1999,141.0
+Monaco,1970,0.0568
+Monaco,1971,0.0567
+Monaco,1972,0.0591
+Monaco,1973,0.0596
+Monaco,1974,0.0571
+Monaco,1975,0.0561
+Monaco,1976,0.0551
+Monaco,1977,0.0537
+Monaco,1978,0.0561
+Monaco,1979,0.0562
+Monaco,1980,0.0519
+Monaco,1981,0.0496
+Monaco,1982,0.0461
+Monaco,1983,0.0444
+Monaco,1984,0.0433
+Monaco,1985,0.0431
+Monaco,1986,0.0422
+Monaco,1987,0.0384
+Monaco,1988,0.0386
+Monaco,1989,0.0365
+Monaco,1990,0.0505
+Monaco,1991,0.052
+Monaco,1992,0.054000000000000006
+Monaco,1993,0.048
+Monaco,1994,0.0455
+Monaco,1995,0.040999999999999995
+Monaco,1996,0.0385
+Monaco,1997,0.037
+Monaco,1998,0.0355
+Monaco,1999,0.034
+Moldova,1970,132
+Moldova,1971,135
+Moldova,1972,139
+Moldova,1973,144
+Moldova,1974,148
+Moldova,1975,149
+Moldova,1976,152
+Moldova,1977,154
+Moldova,1978,153
+Moldova,1979,154
+Moldova,1980,153
+Moldova,1981,144
+Moldova,1982,142
+Moldova,1983,135
+Moldova,1984,141
+Moldova,1985,149
+Moldova,1986,159
+Moldova,1987,137
+Moldova,1988,119
+Moldova,1989,133
+Moldova,1990,130
+Moldova,1991,84.1
+Moldova,1992,78.2
+Moldova,1993,54.3
+Moldova,1994,32.0
+Moldova,1995,33.5
+Moldova,1996,18.1
+Moldova,1997,16
+Moldova,1998,6.03
+Moldova,1999,6.0
+Madagascar,1970,26.6
+Madagascar,1971,26
+Madagascar,1972,24.9
+Madagascar,1973,26.3
+Madagascar,1974,24.1
+Madagascar,1975,21.5
+Madagascar,1976,23.1
+Madagascar,1977,20.6
+Madagascar,1978,23.8
+Madagascar,1979,24.8
+Madagascar,1980,20.9
+Madagascar,1981,19.1
+Madagascar,1982,17.7
+Madagascar,1983,18.3
+Madagascar,1984,17.6
+Madagascar,1985,17.6
+Madagascar,1986,17.7
+Madagascar,1987,18.5
+Madagascar,1988,19.1
+Madagascar,1989,18.3
+Madagascar,1990,17.5
+Madagascar,1991,17.6
+Madagascar,1992,18.2
+Madagascar,1993,18.7
+Madagascar,1994,19.4
+Madagascar,1995,19.9
+Madagascar,1996,20.8
+Madagascar,1997,22.1
+Madagascar,1998,23.6
+Madagascar,1999,25.9
+Mexico,1970,379
+Mexico,1971,398
+Mexico,1972,426
+Mexico,1973,517
+Mexico,1974,545
+Mexico,1975,578
+Mexico,1976,665
+Mexico,1977,699
+Mexico,1978,775
+Mexico,1979,991
+Mexico,1980,1080
+Mexico,1981,1020
+Mexico,1982,880
+Mexico,1983,968
+Mexico,1984,976
+Mexico,1985,975
+Mexico,1986,1070
+Mexico,1987,1060
+Mexico,1988,1130
+Mexico,1989,1160
+Mexico,1990,1130
+Mexico,1991,1120
+Mexico,1992,1090.0
+Mexico,1993,1250.0
+Mexico,1994,1100.0
+Mexico,1995,1150.0
+Mexico,1996,1260
+Mexico,1997,1400
+Mexico,1998,1310.0
+Mexico,1999,1380.0
+North Macedonia,1970,36.7
+North Macedonia,1971,39.5
+North Macedonia,1972,38.9
+North Macedonia,1973,42
+North Macedonia,1974,43.1
+North Macedonia,1975,45.5
+North Macedonia,1976,46
+North Macedonia,1977,45.5
+North Macedonia,1978,46.7
+North Macedonia,1979,48.8
+North Macedonia,1980,50.2
+North Macedonia,1981,50.4
+North Macedonia,1982,54.1
+North Macedonia,1983,54
+North Macedonia,1984,55.3
+North Macedonia,1985,55
+North Macedonia,1986,54.6
+North Macedonia,1987,55.4
+North Macedonia,1988,55.8
+North Macedonia,1989,54.6
+North Macedonia,1990,54.6
+North Macedonia,1991,52.6
+North Macedonia,1992,48.8
+North Macedonia,1993,47.5
+North Macedonia,1994,47.0
+North Macedonia,1995,52.5
+North Macedonia,1996,8.5
+North Macedonia,1997,52.5
+North Macedonia,1998,52.5
+North Macedonia,1999,52.6
+Mali,1970,21.2
+Mali,1971,21.6
+Mali,1972,23.4
+Mali,1973,24.9
+Mali,1974,22.5
+Mali,1975,22.1
+Mali,1976,23.8
+Mali,1977,23.6
+Mali,1978,24.6
+Mali,1979,25.7
+Mali,1980,26.2
+Mali,1981,25.6
+Mali,1982,25.2
+Mali,1983,25.4
+Mali,1984,25.6
+Mali,1985,25.6
+Mali,1986,26.1
+Mali,1987,26
+Mali,1988,26.1
+Mali,1989,25.4
+Mali,1990,25.6
+Mali,1991,25.8
+Mali,1992,26.0
+Mali,1993,26.2
+Mali,1994,26.4
+Mali,1995,26.7
+Mali,1996,26.9
+Mali,1997,27.1
+Mali,1998,27.3
+Mali,1999,27.6
+Malta,1970,0.0212
+Malta,1971,0.0293
+Malta,1972,0.0373
+Malta,1973,0.0375
+Malta,1974,0.0241
+Malta,1975,0.0266
+Malta,1976,0.0314
+Malta,1977,0.0328
+Malta,1978,0.0371
+Malta,1979,0.0396
+Malta,1980,0.0416
+Malta,1981,0.972
+Malta,1982,1.93
+Malta,1983,3.38
+Malta,1984,7.57
+Malta,1985,5.09
+Malta,1986,6.21
+Malta,1987,8.7
+Malta,1988,10.7
+Malta,1989,10.5
+Malta,1990,11.8
+Malta,1991,11.9
+Malta,1992,12.0
+Malta,1993,12.2
+Malta,1994,12.4
+Malta,1995,12.4
+Malta,1996,12.4
+Malta,1997,12.5
+Malta,1998,12.2
+Malta,1999,12.5
+Myanmar,1970,15.7
+Myanmar,1971,16
+Myanmar,1972,16.2
+Myanmar,1973,19.3
+Myanmar,1974,7.95
+Myanmar,1975,2.53
+Myanmar,1976,2.3
+Myanmar,1977,2.66
+Myanmar,1978,2.07
+Myanmar,1979,2.22
+Myanmar,1980,2.37
+Myanmar,1981,2.51
+Myanmar,1982,4.54
+Myanmar,1983,8.03
+Myanmar,1984,10
+Myanmar,1985,10.2
+Myanmar,1986,9.6
+Myanmar,1987,9.3
+Myanmar,1988,9.55
+Myanmar,1989,9.6
+Myanmar,1990,9.75
+Myanmar,1991,9.9
+Myanmar,1992,10.2
+Myanmar,1993,10.3
+Myanmar,1994,10.4
+Myanmar,1995,10.4
+Myanmar,1996,10.7
+Myanmar,1997,11.1
+Myanmar,1998,14.9
+Myanmar,1999,15.5
+Mongolia,1970,4.13
+Mongolia,1971,4.45
+Mongolia,1972,4.6
+Mongolia,1973,4.9
+Mongolia,1974,5.41
+Mongolia,1975,5.79
+Mongolia,1976,6.61
+Mongolia,1977,7.56
+Mongolia,1978,8.26
+Mongolia,1979,9.59
+Mongolia,1980,22.6
+Mongolia,1981,26.7
+Mongolia,1982,29.5
+Mongolia,1983,32.8
+Mongolia,1984,36.8
+Mongolia,1985,39.1
+Mongolia,1986,42.5
+Mongolia,1987,47.4
+Mongolia,1988,43.1
+Mongolia,1989,40.5
+Mongolia,1990,54.2
+Mongolia,1991,48.8
+Mongolia,1992,42.8
+Mongolia,1993,38.2
+Mongolia,1994,37.3
+Mongolia,1995,39.2
+Mongolia,1996,41
+Mongolia,1997,40.6
+Mongolia,1998,42.9
+Mongolia,1999,41.7
+Mozambique,1970,125
+Mozambique,1971,113
+Mozambique,1972,115
+Mozambique,1973,114
+Mozambique,1974,102
+Mozambique,1975,87.3
+Mozambique,1976,88.6
+Mozambique,1977,86.4
+Mozambique,1978,87.2
+Mozambique,1979,109
+Mozambique,1980,99
+Mozambique,1981,96.5
+Mozambique,1982,78.3
+Mozambique,1983,61.6
+Mozambique,1984,53.9
+Mozambique,1985,51.5
+Mozambique,1986,49.8
+Mozambique,1987,48.9
+Mozambique,1988,48.4
+Mozambique,1989,41.9
+Mozambique,1990,43.3
+Mozambique,1991,41.3
+Mozambique,1992,42.5
+Mozambique,1993,40.9
+Mozambique,1994,43.2
+Mozambique,1995,39.4
+Mozambique,1996,40.9
+Mozambique,1997,43.9
+Mozambique,1998,44.8
+Mozambique,1999,46.6
+Mauritania,1970,8.11
+Mauritania,1971,8.22
+Mauritania,1972,8.02
+Mauritania,1973,8.99
+Mauritania,1974,8.4
+Mauritania,1975,9.4
+Mauritania,1976,9.21
+Mauritania,1977,9.09
+Mauritania,1978,9.57
+Mauritania,1979,9.68
+Mauritania,1980,9.79
+Mauritania,1981,9.83
+Mauritania,1982,10.1
+Mauritania,1983,9.68
+Mauritania,1984,10.2
+Mauritania,1985,9.35
+Mauritania,1986,9.62
+Mauritania,1987,9.65
+Mauritania,1988,10.2
+Mauritania,1989,10.2
+Mauritania,1990,11.4
+Mauritania,1991,11
+Mauritania,1992,11.9
+Mauritania,1993,11.5
+Mauritania,1994,11.5
+Mauritania,1995,11.3
+Mauritania,1996,11
+Mauritania,1997,10.8
+Mauritania,1998,10.8
+Mauritania,1999,11.4
+Martinique,1970,2.25
+Martinique,1971,1.88
+Martinique,1972,2.71
+Martinique,1973,3.15
+Martinique,1974,3.19
+Martinique,1975,2.52
+Martinique,1976,3.16
+Martinique,1977,2.48
+Martinique,1978,3.21
+Martinique,1979,2.25
+Martinique,1980,2.8
+Martinique,1981,2.46
+Martinique,1982,2.2
+Martinique,1983,2.78
+Martinique,1984,2.2
+Martinique,1985,2.08
+Martinique,1986,2.99
+Martinique,1987,2.72
+Martinique,1988,2.67
+Martinique,1989,2.62
+Martinique,1990,2.48
+Martinique,1991,2.35
+Martinique,1992,2.22
+Martinique,1993,2.1
+Martinique,1994,1.99
+Martinique,1995,1.89
+Martinique,1996,1.79
+Martinique,1997,1.69
+Martinique,1998,1.6
+Martinique,1999,1.52
+Mauritius,1970,1.03
+Mauritius,1971,1.1
+Mauritius,1972,1.14
+Mauritius,1973,1.27
+Mauritius,1974,1.31
+Mauritius,1975,1.62
+Mauritius,1976,1.72
+Mauritius,1977,1.78
+Mauritius,1978,1.83
+Mauritius,1979,1.75
+Mauritius,1980,1.84
+Mauritius,1981,1.97
+Mauritius,1982,2.02
+Mauritius,1983,2.06
+Mauritius,1984,2.19
+Mauritius,1985,2.35
+Mauritius,1986,2.51
+Mauritius,1987,2.67
+Mauritius,1988,2.79
+Mauritius,1989,2.91
+Mauritius,1990,3.08
+Mauritius,1991,3.29
+Mauritius,1992,3.51
+Mauritius,1993,3.74
+Mauritius,1994,3.93
+Mauritius,1995,4.19
+Mauritius,1996,4.46
+Mauritius,1997,4.75
+Mauritius,1998,5.04
+Mauritius,1999,5.31
+Malawi,1970,3.72
+Malawi,1971,3.79
+Malawi,1972,4.5
+Malawi,1973,4.69
+Malawi,1974,4.72
+Malawi,1975,5.38
+Malawi,1976,5.72
+Malawi,1977,6.59
+Malawi,1978,7.23
+Malawi,1979,7.33
+Malawi,1980,6.45
+Malawi,1981,6.5
+Malawi,1982,6.74
+Malawi,1983,7.04
+Malawi,1984,7.43
+Malawi,1985,7.31
+Malawi,1986,7.31
+Malawi,1987,7.42
+Malawi,1988,7.34
+Malawi,1989,7.77
+Malawi,1990,8.53
+Malawi,1991,7.24
+Malawi,1992,8.07
+Malawi,1993,6.68
+Malawi,1994,8.22
+Malawi,1995,8.55
+Malawi,1996,8.69
+Malawi,1997,8.88
+Malawi,1998,9.05
+Malawi,1999,8.82
+Malaysia,1970,50.5
+Malaysia,1971,41.7
+Malaysia,1972,41.4
+Malaysia,1973,43.9
+Malaysia,1974,49.5
+Malaysia,1975,68.3
+Malaysia,1976,86
+Malaysia,1977,87.1
+Malaysia,1978,85.5
+Malaysia,1979,93.8
+Malaysia,1980,94.5
+Malaysia,1981,77.4
+Malaysia,1982,93.1
+Malaysia,1983,92.4
+Malaysia,1984,88.3
+Malaysia,1985,86
+Malaysia,1986,83.5
+Malaysia,1987,87
+Malaysia,1988,101
+Malaysia,1989,128
+Malaysia,1990,116
+Malaysia,1991,110
+Malaysia,1992,123.0
+Malaysia,1993,126.0
+Malaysia,1994,133.0
+Malaysia,1995,147.0
+Malaysia,1996,156
+Malaysia,1997,129
+Malaysia,1998,113.0
+Malaysia,1999,130.0
+Namibia,1970,408
+Namibia,1971,417
+Namibia,1972,452
+Namibia,1973,506
+Namibia,1974,460
+Namibia,1975,452
+Namibia,1976,508
+Namibia,1977,499
+Namibia,1978,525
+Namibia,1979,404
+Namibia,1980,431
+Namibia,1981,420
+Namibia,1982,380
+Namibia,1983,386
+Namibia,1984,366
+Namibia,1985,384
+Namibia,1986,397
+Namibia,1987,394
+Namibia,1988,401
+Namibia,1989,370
+Namibia,1990,284
+Namibia,1991,183
+Namibia,1992,133.0
+Namibia,1993,73.0
+Namibia,1994,48.7
+Namibia,1995,11.8
+Namibia,1996,2.76
+Namibia,1997,1.49
+Namibia,1998,0.76
+Namibia,1999,0.532
+New Caledonia,1970,4.75
+New Caledonia,1971,1.14
+New Caledonia,1972,2.27
+New Caledonia,1973,2.43
+New Caledonia,1974,2.32
+New Caledonia,1975,1.54
+New Caledonia,1976,2.52
+New Caledonia,1977,0.837
+New Caledonia,1978,1.81
+New Caledonia,1979,2.63
+New Caledonia,1980,1.89
+New Caledonia,1981,1.46
+New Caledonia,1982,1.99
+New Caledonia,1983,2.05
+New Caledonia,1984,3.51
+New Caledonia,1985,3.39
+New Caledonia,1986,2.88
+New Caledonia,1987,3.28
+New Caledonia,1988,4.04
+New Caledonia,1989,3.19
+New Caledonia,1990,3.25
+New Caledonia,1991,3.31
+New Caledonia,1992,3.37
+New Caledonia,1993,3.43
+New Caledonia,1994,3.49
+New Caledonia,1995,3.56
+New Caledonia,1996,3.62
+New Caledonia,1997,3.69
+New Caledonia,1998,3.75
+New Caledonia,1999,3.82
+Niger,1970,16.2
+Niger,1971,14.7
+Niger,1972,10.7
+Niger,1973,12
+Niger,1974,12
+Niger,1975,11.9
+Niger,1976,13
+Niger,1977,15.7
+Niger,1978,17.2
+Niger,1979,16.2
+Niger,1980,16.6
+Niger,1981,16.9
+Niger,1982,15.3
+Niger,1983,11.8
+Niger,1984,12.8
+Niger,1985,13.4
+Niger,1986,13.6
+Niger,1987,14.7
+Niger,1988,14.1
+Niger,1989,14.2
+Niger,1990,14.6
+Niger,1991,13.1
+Niger,1992,13.4
+Niger,1993,14.3
+Niger,1994,15.0
+Niger,1995,15.4
+Niger,1996,16.1
+Niger,1997,18.5
+Niger,1998,18.2
+Niger,1999,17.8
+Nigeria,1970,153
+Nigeria,1971,161
+Nigeria,1972,177
+Nigeria,1973,187
+Nigeria,1974,187
+Nigeria,1975,187
+Nigeria,1976,194
+Nigeria,1977,211
+Nigeria,1978,275
+Nigeria,1979,331
+Nigeria,1980,345
+Nigeria,1981,335
+Nigeria,1982,307
+Nigeria,1983,299
+Nigeria,1984,302
+Nigeria,1985,281
+Nigeria,1986,309
+Nigeria,1987,334
+Nigeria,1988,336
+Nigeria,1989,341
+Nigeria,1990,375
+Nigeria,1991,386
+Nigeria,1992,294.0
+Nigeria,1993,333.0
+Nigeria,1994,382.0
+Nigeria,1995,407.0
+Nigeria,1996,414
+Nigeria,1997,333
+Nigeria,1998,349.0
+Nigeria,1999,293.0
+Nicaragua,1970,38.5
+Nicaragua,1971,29.6
+Nicaragua,1972,30.3
+Nicaragua,1973,34.8
+Nicaragua,1974,32.6
+Nicaragua,1975,40.5
+Nicaragua,1976,39.4
+Nicaragua,1977,28.1
+Nicaragua,1978,18.3
+Nicaragua,1979,24.8
+Nicaragua,1980,26.9
+Nicaragua,1981,21.3
+Nicaragua,1982,17.1
+Nicaragua,1983,14.3
+Nicaragua,1984,15
+Nicaragua,1985,15
+Nicaragua,1986,16
+Nicaragua,1987,17.6
+Nicaragua,1988,16.2
+Nicaragua,1989,15
+Nicaragua,1990,15.2
+Nicaragua,1991,15.3
+Nicaragua,1992,15.2
+Nicaragua,1993,15.6
+Nicaragua,1994,14.3
+Nicaragua,1995,14.9
+Nicaragua,1996,17.5
+Nicaragua,1997,18.6
+Nicaragua,1998,17.3
+Nicaragua,1999,18.1
+Netherlands,1970,335
+Netherlands,1971,315
+Netherlands,1972,304
+Netherlands,1973,272
+Netherlands,1974,214
+Netherlands,1975,231
+Netherlands,1976,239
+Netherlands,1977,218
+Netherlands,1978,247
+Netherlands,1979,245
+Netherlands,1980,232
+Netherlands,1981,202
+Netherlands,1982,162
+Netherlands,1983,150
+Netherlands,1984,129
+Netherlands,1985,132
+Netherlands,1986,132
+Netherlands,1987,125
+Netherlands,1988,102
+Netherlands,1989,102
+Netherlands,1990,86.5
+Netherlands,1991,83.5
+Netherlands,1992,80.0
+Netherlands,1993,73.0
+Netherlands,1994,71.0
+Netherlands,1995,68.0
+Netherlands,1996,59
+Netherlands,1997,55
+Netherlands,1998,52.5
+Netherlands,1999,45.5
+Norway,1970,75.3
+Norway,1971,76.4
+Norway,1972,77.2
+Norway,1973,78.9
+Norway,1974,72
+Norway,1975,81
+Norway,1976,81.3
+Norway,1977,74.7
+Norway,1978,73.4
+Norway,1979,68.7
+Norway,1980,64
+Norway,1981,55.4
+Norway,1982,51.9
+Norway,1983,47.9
+Norway,1984,49.1
+Norway,1985,45.7
+Norway,1986,36.5
+Norway,1987,33.8
+Norway,1988,28.8
+Norway,1989,26
+Norway,1990,22
+Norway,1991,18
+Norway,1992,17.5
+Norway,1993,17.5
+Norway,1994,16.5
+Norway,1995,16.5
+Norway,1996,15
+Norway,1997,15
+Norway,1998,14.0
+Norway,1999,13.5
+Nepal,1970,1.56
+Nepal,1971,3.08
+Nepal,1972,9.68
+Nepal,1973,9.97
+Nepal,1974,5.98
+Nepal,1975,0.998
+Nepal,1976,2.42
+Nepal,1977,1.82
+Nepal,1978,8.89
+Nepal,1979,10.3
+Nepal,1980,5.39
+Nepal,1981,5.53
+Nepal,1982,5.17
+Nepal,1983,12.1
+Nepal,1984,9.5
+Nepal,1985,9.65
+Nepal,1986,8.65
+Nepal,1987,9
+Nepal,1988,9.45
+Nepal,1989,8.4
+Nepal,1990,9.2
+Nepal,1991,10.7
+Nepal,1992,11.6
+Nepal,1993,14.9
+Nepal,1994,17.9
+Nepal,1995,16.6
+Nepal,1996,16.6
+Nepal,1997,15.3
+Nepal,1998,17.1
+Nepal,1999,15.9
+New Zealand,1970,37.7
+New Zealand,1971,38.9
+New Zealand,1972,41.6
+New Zealand,1973,45.4
+New Zealand,1974,42.2
+New Zealand,1975,39.7
+New Zealand,1976,38.9
+New Zealand,1977,34
+New Zealand,1978,33.3
+New Zealand,1979,36.7
+New Zealand,1980,32.8
+New Zealand,1981,30.1
+New Zealand,1982,29.2
+New Zealand,1983,28.5
+New Zealand,1984,23.5
+New Zealand,1985,25
+New Zealand,1986,30.5
+New Zealand,1987,30.3
+New Zealand,1988,32.3
+New Zealand,1989,30.5
+New Zealand,1990,30
+New Zealand,1991,32.5
+New Zealand,1992,33.5
+New Zealand,1993,34.0
+New Zealand,1994,35.0
+New Zealand,1995,36.0
+New Zealand,1996,29.5
+New Zealand,1997,29.5
+New Zealand,1998,30.0
+New Zealand,1999,31.0
+Oman,1970,6.46
+Oman,1971,7.25
+Oman,1972,8.04
+Oman,1973,8.82
+Oman,1974,9.61
+Oman,1975,10.4
+Oman,1976,11.2
+Oman,1977,12
+Oman,1978,12.8
+Oman,1979,13.5
+Oman,1980,14.3
+Oman,1981,15.1
+Oman,1982,15.9
+Oman,1983,22.6
+Oman,1984,24.9
+Oman,1985,25
+Oman,1986,24.6
+Oman,1987,25.1
+Oman,1988,25.3
+Oman,1989,25.5
+Oman,1990,29.7
+Oman,1991,34.3
+Oman,1992,39.4
+Oman,1993,43.5
+Oman,1994,48.1
+Oman,1995,52.7
+Oman,1996,58.8
+Oman,1997,64.5
+Oman,1998,70.7
+Oman,1999,78.0
+Pakistan,1970,143
+Pakistan,1971,141
+Pakistan,1972,129
+Pakistan,1973,141
+Pakistan,1974,141
+Pakistan,1975,119
+Pakistan,1976,135
+Pakistan,1977,143
+Pakistan,1978,156
+Pakistan,1979,183
+Pakistan,1980,188
+Pakistan,1981,207
+Pakistan,1982,186
+Pakistan,1983,206
+Pakistan,1984,237
+Pakistan,1985,250
+Pakistan,1986,261
+Pakistan,1987,291
+Pakistan,1988,297
+Pakistan,1989,342
+Pakistan,1990,343
+Pakistan,1991,378
+Pakistan,1992,401.0
+Pakistan,1993,447.0
+Pakistan,1994,454.0
+Pakistan,1995,514.0
+Pakistan,1996,506
+Pakistan,1997,557
+Pakistan,1998,605.0
+Pakistan,1999,705.0
+Panama,1970,37.9
+Panama,1971,37
+Panama,1972,35.5
+Panama,1973,37.1
+Panama,1974,42
+Panama,1975,26.6
+Panama,1976,28.9
+Panama,1977,22.5
+Panama,1978,21.3
+Panama,1979,20.9
+Panama,1980,15.7
+Panama,1981,15.4
+Panama,1982,13.7
+Panama,1983,12.2
+Panama,1984,10.6
+Panama,1985,10.3
+Panama,1986,11
+Panama,1987,10.8
+Panama,1988,9.95
+Panama,1989,9.65
+Panama,1990,9.99
+Panama,1991,15.1
+Panama,1992,16.1
+Panama,1993,12.1
+Panama,1994,13.9
+Panama,1995,22.5
+Panama,1996,23.6
+Panama,1997,27.9
+Panama,1998,30.4
+Panama,1999,28.6
+Peru,1970,228
+Peru,1971,242
+Peru,1972,236
+Peru,1973,237
+Peru,1974,204
+Peru,1975,230
+Peru,1976,313
+Peru,1977,318
+Peru,1978,339
+Peru,1979,320
+Peru,1980,306
+Peru,1981,310
+Peru,1982,294
+Peru,1983,325
+Peru,1984,339
+Peru,1985,321
+Peru,1986,337
+Peru,1987,274
+Peru,1988,313
+Peru,1989,280
+Peru,1990,316
+Peru,1991,333
+Peru,1992,359.0
+Peru,1993,368.0
+Peru,1994,362.0
+Peru,1995,361.0
+Peru,1996,415
+Peru,1997,456
+Peru,1998,446.0
+Peru,1999,473.0
+Philippines,1970,182
+Philippines,1971,190
+Philippines,1972,193
+Philippines,1973,194
+Philippines,1974,201
+Philippines,1975,208
+Philippines,1976,246
+Philippines,1977,232
+Philippines,1978,251
+Philippines,1979,267
+Philippines,1980,245
+Philippines,1981,225
+Philippines,1982,213
+Philippines,1983,188
+Philippines,1984,197
+Philippines,1985,198
+Philippines,1986,189
+Philippines,1987,205
+Philippines,1988,208
+Philippines,1989,206
+Philippines,1990,209
+Philippines,1991,215
+Philippines,1992,231.0
+Philippines,1993,232.0
+Philippines,1994,238.0
+Philippines,1995,303.0
+Philippines,1996,330
+Philippines,1997,290
+Philippines,1998,317.0
+Philippines,1999,350.0
+Papua New Guinea,1970,8
+Papua New Guinea,1971,8.43
+Papua New Guinea,1972,8.55
+Papua New Guinea,1973,9.16
+Papua New Guinea,1974,9.3
+Papua New Guinea,1975,9.89
+Papua New Guinea,1976,10.4
+Papua New Guinea,1977,10
+Papua New Guinea,1978,10.3
+Papua New Guinea,1979,9.86
+Papua New Guinea,1980,10.5
+Papua New Guinea,1981,11.6
+Papua New Guinea,1982,11.2
+Papua New Guinea,1983,10.5
+Papua New Guinea,1984,10.3
+Papua New Guinea,1985,10
+Papua New Guinea,1986,9.81
+Papua New Guinea,1987,10
+Papua New Guinea,1988,10.1
+Papua New Guinea,1989,10.1
+Papua New Guinea,1990,10.4
+Papua New Guinea,1991,11.7
+Papua New Guinea,1992,13.1
+Papua New Guinea,1993,12.6
+Papua New Guinea,1994,11.1
+Papua New Guinea,1995,11.3
+Papua New Guinea,1996,9.9
+Papua New Guinea,1997,8.88
+Papua New Guinea,1998,8.96
+Papua New Guinea,1999,8.12
+Poland,1970,1440
+Poland,1971,1510
+Poland,1972,1570
+Poland,1973,1610
+Poland,1974,1780
+Poland,1975,1850
+Poland,1976,1930
+Poland,1977,1980
+Poland,1978,2040
+Poland,1979,2050
+Poland,1980,1870
+Poland,1981,2050
+Poland,1982,2040
+Poland,1983,2040
+Poland,1984,2150
+Poland,1985,2100
+Poland,1986,2100
+Poland,1987,2090
+Poland,1988,1960
+Poland,1989,1610
+Poland,1990,1580
+Poland,1991,1410
+Poland,1992,1360.0
+Poland,1993,1300.0
+Poland,1994,1190.0
+Poland,1995,1180.0
+Poland,1996,1090
+Poland,1997,949
+Poland,1998,860.0
+Poland,1999,756.0
+Puerto Rico,1970,54.7
+Puerto Rico,1971,56
+Puerto Rico,1972,58.3
+Puerto Rico,1973,63.3
+Puerto Rico,1974,58.9
+Puerto Rico,1975,63.5
+Puerto Rico,1976,63.6
+Puerto Rico,1977,61.8
+Puerto Rico,1978,55.9
+Puerto Rico,1979,52
+Puerto Rico,1980,41.9
+Puerto Rico,1981,25.3
+Puerto Rico,1982,23
+Puerto Rico,1983,24.4
+Puerto Rico,1984,21.5
+Puerto Rico,1985,24.2
+Puerto Rico,1986,27.6
+Puerto Rico,1987,23.4
+Puerto Rico,1988,24.6
+Puerto Rico,1989,30.3
+Puerto Rico,1990,30.9
+Puerto Rico,1991,31.6
+Puerto Rico,1992,32.3
+Puerto Rico,1993,33.0
+Puerto Rico,1994,33.7
+Puerto Rico,1995,34.5
+Puerto Rico,1996,35.2
+Puerto Rico,1997,36
+Puerto Rico,1998,36.8
+Puerto Rico,1999,37.6
+North Korea,1970,119
+North Korea,1971,105
+North Korea,1972,112
+North Korea,1973,118
+North Korea,1974,123
+North Korea,1975,125
+North Korea,1976,129
+North Korea,1977,136
+North Korea,1978,139
+North Korea,1979,144
+North Korea,1980,145
+North Korea,1981,146
+North Korea,1982,161
+North Korea,1983,165
+North Korea,1984,174
+North Korea,1985,178
+North Korea,1986,178
+North Korea,1987,180
+North Korea,1988,186
+North Korea,1989,177
+North Korea,1990,165
+North Korea,1991,163
+North Korea,1992,143.0
+North Korea,1993,131.0
+North Korea,1994,128.0
+North Korea,1995,129.0
+North Korea,1996,126
+North Korea,1997,122
+North Korea,1998,117.0
+North Korea,1999,113.0
+Portugal,1970,53.5
+Portugal,1971,62.9
+Portugal,1972,66.3
+Portugal,1973,88.3
+Portugal,1974,89
+Portugal,1975,86.7
+Portugal,1976,96.3
+Portugal,1977,93.1
+Portugal,1978,123
+Portugal,1979,133
+Portugal,1980,136
+Portugal,1981,145
+Portugal,1982,153
+Portugal,1983,114
+Portugal,1984,99
+Portugal,1985,117
+Portugal,1986,109
+Portugal,1987,102
+Portugal,1988,146
+Portugal,1989,161
+Portugal,1990,154
+Portugal,1991,187
+Portugal,1992,160.0
+Portugal,1993,149.0
+Portugal,1994,167.0
+Portugal,1995,136.0
+Portugal,1996,147
+Portugal,1997,171
+Portugal,1998,172.0
+Portugal,1999,156.0
+Paraguay,1970,4.93
+Paraguay,1971,5.62
+Paraguay,1972,6.8
+Paraguay,1973,7.09
+Paraguay,1974,6.22
+Paraguay,1975,6.4
+Paraguay,1976,6.93
+Paraguay,1977,9.29
+Paraguay,1978,8.46
+Paraguay,1979,8.39
+Paraguay,1980,7.93
+Paraguay,1981,6.04
+Paraguay,1982,4.29
+Paraguay,1983,4.32
+Paraguay,1984,3.57
+Paraguay,1985,4.66
+Paraguay,1986,6.8
+Paraguay,1987,7.25
+Paraguay,1988,8.35
+Paraguay,1989,8.07
+Paraguay,1990,8.37
+Paraguay,1991,8.49
+Paraguay,1992,8.31
+Paraguay,1993,9.14
+Paraguay,1994,9.85
+Paraguay,1995,10.7
+Paraguay,1996,11.6
+Paraguay,1997,11.1
+Paraguay,1998,10.4
+Paraguay,1999,10.8
+Qatar,1970,0.653
+Qatar,1971,1.85
+Qatar,1972,0.107
+Qatar,1973,0.421
+Qatar,1974,2.76
+Qatar,1975,3.25
+Qatar,1976,5.11
+Qatar,1977,1.07
+Qatar,1978,4.11
+Qatar,1979,2.01
+Qatar,1980,8.17
+Qatar,1981,2.82
+Qatar,1982,0.196
+Qatar,1983,13
+Qatar,1984,7.42
+Qatar,1985,5.96
+Qatar,1986,11.1
+Qatar,1987,9.99
+Qatar,1988,20.8
+Qatar,1989,12.8
+Qatar,1990,12.8
+Qatar,1991,13.6
+Qatar,1992,13.4
+Qatar,1993,13.0
+Qatar,1994,13.2
+Qatar,1995,14.5
+Qatar,1996,15.1
+Qatar,1997,17
+Qatar,1998,17.5
+Qatar,1999,19.3
+Reunion,1970,2.7
+Reunion,1971,2.75
+Reunion,1972,2.98
+Reunion,1973,3.17
+Reunion,1974,2.87
+Reunion,1975,2.81
+Reunion,1976,3.03
+Reunion,1977,3.01
+Reunion,1978,3.14
+Reunion,1979,3.27
+Reunion,1980,3.34
+Reunion,1981,3.26
+Reunion,1982,3.21
+Reunion,1983,3.24
+Reunion,1984,3.25
+Reunion,1985,3.25
+Reunion,1986,3.33
+Reunion,1987,3.31
+Reunion,1988,3.33
+Reunion,1989,3.23
+Reunion,1990,3.4
+Reunion,1991,3.57
+Reunion,1992,3.75
+Reunion,1993,3.94
+Reunion,1994,4.14
+Reunion,1995,4.35
+Reunion,1996,4.57
+Reunion,1997,4.8
+Reunion,1998,5.04
+Reunion,1999,5.3
+Romania,1970,301
+Romania,1971,338
+Romania,1972,369
+Romania,1973,408
+Romania,1974,415
+Romania,1975,398
+Romania,1976,412
+Romania,1977,455
+Romania,1978,492
+Romania,1979,528
+Romania,1980,548
+Romania,1981,552
+Romania,1982,615
+Romania,1983,612
+Romania,1984,628
+Romania,1985,647
+Romania,1986,653
+Romania,1987,735
+Romania,1988,759
+Romania,1989,656
+Romania,1990,521
+Romania,1991,476
+Romania,1992,464.0
+Romania,1993,456.0
+Romania,1994,456.0
+Romania,1995,456.0
+Romania,1996,456
+Romania,1997,456
+Romania,1998,456.0
+Romania,1999,456.0
+Russia,1970,7780
+Russia,1971,7980
+Russia,1972,8200
+Russia,1973,8500
+Russia,1974,8750
+Russia,1975,8790
+Russia,1976,9010
+Russia,1977,9090
+Russia,1978,9040
+Russia,1979,9100
+Russia,1980,8620
+Russia,1981,8830
+Russia,1982,8570
+Russia,1983,8500
+Russia,1984,9550
+Russia,1985,9830
+Russia,1986,10000
+Russia,1987,10.1k
+Russia,1988,9680
+Russia,1989,8780
+Russia,1990,8080
+Russia,1991,7130
+Russia,1992,6260.0
+Russia,1993,5300.0
+Russia,1994,4890.0
+Russia,1995,4640.0
+Russia,1996,4190
+Russia,1997,4040
+Russia,1998,4090.0
+Russia,1999,3960.0
+Rwanda,1970,6.44
+Rwanda,1971,6.37
+Rwanda,1972,6.73
+Rwanda,1973,7.08
+Rwanda,1974,6.69
+Rwanda,1975,6.49
+Rwanda,1976,7.07
+Rwanda,1977,6.84
+Rwanda,1978,7.22
+Rwanda,1979,7.73
+Rwanda,1980,7.75
+Rwanda,1981,7.53
+Rwanda,1982,7.09
+Rwanda,1983,7.27
+Rwanda,1984,7.28
+Rwanda,1985,7.37
+Rwanda,1986,7.42
+Rwanda,1987,7.56
+Rwanda,1988,7.58
+Rwanda,1989,7.57
+Rwanda,1990,7.76
+Rwanda,1991,7.95
+Rwanda,1992,8.14
+Rwanda,1993,5.61
+Rwanda,1994,6.02
+Rwanda,1995,5.98
+Rwanda,1996,7.39
+Rwanda,1997,7.55
+Rwanda,1998,7.72
+Rwanda,1999,7.89
+Saudi Arabia,1970,249
+Saudi Arabia,1971,241
+Saudi Arabia,1972,242
+Saudi Arabia,1973,252
+Saudi Arabia,1974,216
+Saudi Arabia,1975,231
+Saudi Arabia,1976,281
+Saudi Arabia,1977,259
+Saudi Arabia,1978,312
+Saudi Arabia,1979,325
+Saudi Arabia,1980,359
+Saudi Arabia,1981,348
+Saudi Arabia,1982,402
+Saudi Arabia,1983,346
+Saudi Arabia,1984,391
+Saudi Arabia,1985,563
+Saudi Arabia,1986,582
+Saudi Arabia,1987,543
+Saudi Arabia,1988,545
+Saudi Arabia,1989,568
+Saudi Arabia,1990,500
+Saudi Arabia,1991,513
+Saudi Arabia,1992,450.0
+Saudi Arabia,1993,406.0
+Saudi Arabia,1994,359.0
+Saudi Arabia,1995,348.0
+Saudi Arabia,1996,285
+Saudi Arabia,1997,241
+Saudi Arabia,1998,221.0
+Saudi Arabia,1999,218.0
+Serbia and Montenegro,1970,153
+Serbia and Montenegro,1971,164
+Serbia and Montenegro,1972,162
+Serbia and Montenegro,1973,175
+Serbia and Montenegro,1974,179
+Serbia and Montenegro,1975,190
+Serbia and Montenegro,1976,191
+Serbia and Montenegro,1977,189
+Serbia and Montenegro,1978,194
+Serbia and Montenegro,1979,203
+Serbia and Montenegro,1980,204
+Serbia and Montenegro,1981,205
+Serbia and Montenegro,1982,220
+Serbia and Montenegro,1983,228
+Serbia and Montenegro,1984,239
+Serbia and Montenegro,1985,235
+Serbia and Montenegro,1986,242
+Serbia and Montenegro,1987,251
+Serbia and Montenegro,1988,253
+Serbia and Montenegro,1989,254
+Serbia and Montenegro,1990,223
+Serbia and Montenegro,1991,174
+Serbia and Montenegro,1992,201.0
+Serbia and Montenegro,1993,212.0
+Serbia and Montenegro,1994,231.0
+Serbia and Montenegro,1995,217.0
+Serbia and Montenegro,1996,261
+Serbia and Montenegro,1997,261
+Serbia and Montenegro,1998,68.3
+Serbia and Montenegro,1999,68.3
+Sudan,1970,35.8
+Sudan,1971,39
+Sudan,1972,42.1
+Sudan,1973,42
+Sudan,1974,44.4
+Sudan,1975,54
+Sudan,1976,57.8
+Sudan,1977,52.8
+Sudan,1978,48.7
+Sudan,1979,49.9
+Sudan,1980,55.1
+Sudan,1981,59.4
+Sudan,1982,61.6
+Sudan,1983,56.9
+Sudan,1984,51
+Sudan,1985,53.8
+Sudan,1986,63.6
+Sudan,1987,64.3
+Sudan,1988,71.9
+Sudan,1989,67.5
+Sudan,1990,69.3
+Sudan,1991,75.5
+Sudan,1992,70.8
+Sudan,1993,65.6
+Sudan,1994,66.2
+Sudan,1995,54.5
+Sudan,1996,54
+Sudan,1997,53.7
+Sudan,1998,54.0
+Sudan,1999,55.8
+Senegal,1970,18.3
+Senegal,1971,19.2
+Senegal,1972,19.8
+Senegal,1973,20.9
+Senegal,1974,21.1
+Senegal,1975,19.5
+Senegal,1976,23
+Senegal,1977,21.9
+Senegal,1978,23.4
+Senegal,1979,23.2
+Senegal,1980,21.6
+Senegal,1981,16.2
+Senegal,1982,11.4
+Senegal,1983,12.9
+Senegal,1984,10.4
+Senegal,1985,15.4
+Senegal,1986,17.1
+Senegal,1987,19.5
+Senegal,1988,16.9
+Senegal,1989,18.2
+Senegal,1990,15.6
+Senegal,1991,16.7
+Senegal,1992,15.9
+Senegal,1993,9.91
+Senegal,1994,19.0
+Senegal,1995,18.8
+Senegal,1996,21.5
+Senegal,1997,22
+Senegal,1998,22.5
+Senegal,1999,23.6
+Singapore,1970,31.9
+Singapore,1971,39.4
+Singapore,1972,45.2
+Singapore,1973,55.7
+Singapore,1974,45.4
+Singapore,1975,46.8
+Singapore,1976,61.5
+Singapore,1977,69
+Singapore,1978,72.9
+Singapore,1979,71.1
+Singapore,1980,81
+Singapore,1981,75
+Singapore,1982,66.7
+Singapore,1983,61.7
+Singapore,1984,52.4
+Singapore,1985,52.7
+Singapore,1986,53.8
+Singapore,1987,59.3
+Singapore,1988,61.9
+Singapore,1989,95.4
+Singapore,1990,99.7
+Singapore,1991,102
+Singapore,1992,114.0
+Singapore,1993,117.0
+Singapore,1994,115.0
+Singapore,1995,98.4
+Singapore,1996,104
+Singapore,1997,98.9
+Singapore,1998,83.8
+Singapore,1999,81.6
+Sierra Leone,1970,4.58
+Sierra Leone,1971,4.71
+Sierra Leone,1972,4.63
+Sierra Leone,1973,5.08
+Sierra Leone,1974,5
+Sierra Leone,1975,5.54
+Sierra Leone,1976,5.57
+Sierra Leone,1977,5.75
+Sierra Leone,1978,5.97
+Sierra Leone,1979,6.34
+Sierra Leone,1980,6.52
+Sierra Leone,1981,6.84
+Sierra Leone,1982,6.71
+Sierra Leone,1983,7
+Sierra Leone,1984,6.48
+Sierra Leone,1985,7.02
+Sierra Leone,1986,7.26
+Sierra Leone,1987,6.58
+Sierra Leone,1988,6.56
+Sierra Leone,1989,7.42
+Sierra Leone,1990,8.26
+Sierra Leone,1991,7.74
+Sierra Leone,1992,8.24
+Sierra Leone,1993,9.12
+Sierra Leone,1994,8.04
+Sierra Leone,1995,8.38
+Sierra Leone,1996,6.04
+Sierra Leone,1997,5.92
+Sierra Leone,1998,5.11
+Sierra Leone,1999,5.38
+El Salvador,1970,7.12
+El Salvador,1971,6.47
+El Salvador,1972,9.24
+El Salvador,1973,9.89
+El Salvador,1974,10.3
+El Salvador,1975,10.9
+El Salvador,1976,12.2
+El Salvador,1977,12.1
+El Salvador,1978,10.9
+El Salvador,1979,11.8
+El Salvador,1980,9.98
+El Salvador,1981,7.74
+El Salvador,1982,7.61
+El Salvador,1983,7.38
+El Salvador,1984,7.71
+El Salvador,1985,8.04
+El Salvador,1986,8.93
+El Salvador,1987,8.31
+El Salvador,1988,7.8
+El Salvador,1989,8
+El Salvador,1990,9.77
+El Salvador,1991,11.7
+El Salvador,1992,13.6
+El Salvador,1993,13.8
+El Salvador,1994,13.9
+El Salvador,1995,15.4
+El Salvador,1996,17.3
+El Salvador,1997,21.3
+El Salvador,1998,25.5
+El Salvador,1999,27.4
+Somalia,1970,5.89
+Somalia,1971,5.99
+Somalia,1972,6.49
+Somalia,1973,6.91
+Somalia,1974,6.25
+Somalia,1975,6.13
+Somalia,1976,6.59
+Somalia,1977,6.56
+Somalia,1978,23.4
+Somalia,1979,19.1
+Somalia,1980,15.5
+Somalia,1981,11.9
+Somalia,1982,13.8
+Somalia,1983,9.82
+Somalia,1984,11.6
+Somalia,1985,12.6
+Somalia,1986,13.4
+Somalia,1987,13.2
+Somalia,1988,12.1
+Somalia,1989,11.6
+Somalia,1990,11.6
+Somalia,1991,11.6
+Somalia,1992,11.6
+Somalia,1993,11.6
+Somalia,1994,11.6
+Somalia,1995,11.6
+Somalia,1996,11.6
+Somalia,1997,11.6
+Somalia,1998,11.6
+Somalia,1999,11.7
+St.-Pierre-et-Miquelon,1970,0.0502
+St.-Pierre-et-Miquelon,1971,0.0124
+St.-Pierre-et-Miquelon,1972,0.012
+St.-Pierre-et-Miquelon,1973,0.012
+St.-Pierre-et-Miquelon,1974,0.0123
+St.-Pierre-et-Miquelon,1975,0.012
+St.-Pierre-et-Miquelon,1976,0.0174
+St.-Pierre-et-Miquelon,1977,0.0228
+St.-Pierre-et-Miquelon,1978,0.0283
+St.-Pierre-et-Miquelon,1979,0.0337
+St.-Pierre-et-Miquelon,1980,0.0391
+St.-Pierre-et-Miquelon,1981,0.0445
+St.-Pierre-et-Miquelon,1982,0.0499
+St.-Pierre-et-Miquelon,1983,0.0553
+St.-Pierre-et-Miquelon,1984,0.0607
+St.-Pierre-et-Miquelon,1985,0.0661
+St.-Pierre-et-Miquelon,1986,0.0716
+St.-Pierre-et-Miquelon,1987,0.077
+St.-Pierre-et-Miquelon,1988,0.0824
+St.-Pierre-et-Miquelon,1989,0.0878
+St.-Pierre-et-Miquelon,1990,0.0774
+St.-Pierre-et-Miquelon,1991,0.0683
+St.-Pierre-et-Miquelon,1992,0.0602
+St.-Pierre-et-Miquelon,1993,0.0531
+St.-Pierre-et-Miquelon,1994,0.0469
+St.-Pierre-et-Miquelon,1995,0.0413
+St.-Pierre-et-Miquelon,1996,0.0365
+St.-Pierre-et-Miquelon,1997,0.0322
+St.-Pierre-et-Miquelon,1998,0.0284
+St.-Pierre-et-Miquelon,1999,0.025
+Suriname,1970,0.196
+Suriname,1971,0.202
+Suriname,1972,0.208
+Suriname,1973,0.214
+Suriname,1974,0.22
+Suriname,1975,0.0431
+Suriname,1976,0.0417
+Suriname,1977,0.0394
+Suriname,1978,0.0426
+Suriname,1979,0.0455
+Suriname,1980,0.0478
+Suriname,1981,0.317
+Suriname,1982,0.302
+Suriname,1983,0.605
+Suriname,1984,0.94
+Suriname,1985,1.53
+Suriname,1986,1.66
+Suriname,1987,2.1
+Suriname,1988,2.09
+Suriname,1989,2.67
+Suriname,1990,2.64
+Suriname,1991,2.69
+Suriname,1992,2.77
+Suriname,1993,2.67
+Suriname,1994,2.36
+Suriname,1995,2.3
+Suriname,1996,2.39
+Suriname,1997,2.43
+Suriname,1998,2.48
+Suriname,1999,2.24
+Slovak Republic,1970,331
+Slovak Republic,1971,338
+Slovak Republic,1972,330
+Slovak Republic,1973,340
+Slovak Republic,1974,359
+Slovak Republic,1975,367
+Slovak Republic,1976,380
+Slovak Republic,1977,384
+Slovak Republic,1978,387
+Slovak Republic,1979,390
+Slovak Republic,1980,321
+Slovak Republic,1981,287
+Slovak Republic,1982,322
+Slovak Republic,1983,348
+Slovak Republic,1984,307
+Slovak Republic,1985,302
+Slovak Republic,1986,307
+Slovak Republic,1987,295
+Slovak Republic,1988,287
+Slovak Republic,1989,271
+Slovak Republic,1990,223
+Slovak Republic,1991,190
+Slovak Republic,1992,163.0
+Slovak Republic,1993,120.0
+Slovak Republic,1994,120.0
+Slovak Republic,1995,114.0
+Slovak Republic,1996,101
+Slovak Republic,1997,89.5
+Slovak Republic,1998,85.5
+Slovak Republic,1999,62.0
+Slovenia,1970,87.9
+Slovenia,1971,94.8
+Slovenia,1972,93.3
+Slovenia,1973,101
+Slovenia,1974,103
+Slovenia,1975,109
+Slovenia,1976,110
+Slovenia,1977,109
+Slovenia,1978,112
+Slovenia,1979,117
+Slovenia,1980,127
+Slovenia,1981,128
+Slovenia,1982,137
+Slovenia,1983,125
+Slovenia,1984,121
+Slovenia,1985,124
+Slovenia,1986,111
+Slovenia,1987,105
+Slovenia,1988,106
+Slovenia,1989,98
+Slovenia,1990,90
+Slovenia,1991,93
+Slovenia,1992,91.5
+Slovenia,1993,88.5
+Slovenia,1994,62.5
+Slovenia,1995,56.0
+Slovenia,1996,59
+Slovenia,1997,61.5
+Slovenia,1998,52.0
+Slovenia,1999,48.0
+Sweden,1970,423
+Sweden,1971,364
+Sweden,1972,338
+Sweden,1973,357
+Sweden,1974,345
+Sweden,1975,338
+Sweden,1976,302
+Sweden,1977,269
+Sweden,1978,251
+Sweden,1979,246
+Sweden,1980,216
+Sweden,1981,186
+Sweden,1982,153
+Sweden,1983,148
+Sweden,1984,133
+Sweden,1985,136
+Sweden,1986,114
+Sweden,1987,112
+Sweden,1988,80
+Sweden,1989,53
+Sweden,1990,49.5
+Sweden,1991,46.5
+Sweden,1992,43.5
+Sweden,1993,43.5
+Sweden,1994,38.5
+Sweden,1995,40.5
+Sweden,1996,38
+Sweden,1997,36.5
+Sweden,1998,29.5
+Sweden,1999,27.5
+Eswatini,1970,1.34
+Eswatini,1971,1.28
+Eswatini,1972,1.25
+Eswatini,1973,1.05
+Eswatini,1974,1.14
+Eswatini,1975,1.07
+Eswatini,1976,1.07
+Eswatini,1977,1.11
+Eswatini,1978,1.1
+Eswatini,1979,1.26
+Eswatini,1980,1.23
+Eswatini,1981,1.25
+Eswatini,1982,1.21
+Eswatini,1983,1.28
+Eswatini,1984,1.29
+Eswatini,1985,1.51
+Eswatini,1986,1.54
+Eswatini,1987,2
+Eswatini,1988,2.16
+Eswatini,1989,2.21
+Eswatini,1990,2.31
+Eswatini,1991,2.21
+Eswatini,1992,2.33
+Eswatini,1993,2.47
+Eswatini,1994,2.35
+Eswatini,1995,2.36
+Eswatini,1996,2.38
+Eswatini,1997,2.65
+Eswatini,1998,2.61
+Eswatini,1999,2.62
+Syria,1970,32.8
+Syria,1971,25.4
+Syria,1972,26.6
+Syria,1973,23.2
+Syria,1974,23.8
+Syria,1975,32.6
+Syria,1976,56
+Syria,1977,50
+Syria,1978,81.5
+Syria,1979,107
+Syria,1980,152
+Syria,1981,135
+Syria,1982,129
+Syria,1983,146
+Syria,1984,131
+Syria,1985,149
+Syria,1986,143
+Syria,1987,155
+Syria,1988,147
+Syria,1989,130
+Syria,1990,140
+Syria,1991,138
+Syria,1992,147.0
+Syria,1993,160.0
+Syria,1994,176.0
+Syria,1995,221.0
+Syria,1996,260
+Syria,1997,283
+Syria,1998,321.0
+Syria,1999,340.0
+Chad,1970,17.4
+Chad,1971,17.7
+Chad,1972,19.2
+Chad,1973,20.4
+Chad,1974,18.5
+Chad,1975,18.1
+Chad,1976,19.5
+Chad,1977,19.4
+Chad,1978,20.2
+Chad,1979,21.1
+Chad,1980,21.5
+Chad,1981,21
+Chad,1982,20.7
+Chad,1983,20.9
+Chad,1984,21
+Chad,1985,21
+Chad,1986,21.5
+Chad,1987,21.4
+Chad,1988,21.5
+Chad,1989,20.8
+Chad,1990,20.9
+Chad,1991,21
+Chad,1992,21.1
+Chad,1993,21.1
+Chad,1994,21.2
+Chad,1995,21.3
+Chad,1996,21.4
+Chad,1997,21.5
+Chad,1998,21.5
+Chad,1999,21.6
+Togo,1970,1.05
+Togo,1971,0.988
+Togo,1972,1.03
+Togo,1973,1.06
+Togo,1974,1.04
+Togo,1975,0.963
+Togo,1976,1.03
+Togo,1977,1.61
+Togo,1978,2.69
+Togo,1979,2.24
+Togo,1980,1.12
+Togo,1981,1.3
+Togo,1982,1.45
+Togo,1983,1.71
+Togo,1984,2.09
+Togo,1985,2.54
+Togo,1986,3.2
+Togo,1987,3.81
+Togo,1988,4.79
+Togo,1989,5.9
+Togo,1990,6.18
+Togo,1991,6.26
+Togo,1992,6.16
+Togo,1993,6.06
+Togo,1994,6.29
+Togo,1995,6.31
+Togo,1996,6.27
+Togo,1997,6.51
+Togo,1998,6.43
+Togo,1999,6.59
+Thailand,1970,69.5
+Thailand,1971,76.6
+Thailand,1972,88
+Thailand,1973,87.1
+Thailand,1974,93.1
+Thailand,1975,92.1
+Thailand,1976,106
+Thailand,1977,106
+Thailand,1978,133
+Thailand,1979,144
+Thailand,1980,146
+Thailand,1981,140
+Thailand,1982,136
+Thailand,1983,142
+Thailand,1984,227
+Thailand,1985,235
+Thailand,1986,267
+Thailand,1987,295
+Thailand,1988,354
+Thailand,1989,482
+Thailand,1990,552
+Thailand,1991,600
+Thailand,1992,579.0
+Thailand,1993,558.0
+Thailand,1994,625.0
+Thailand,1995,669.0
+Thailand,1996,661
+Thailand,1997,528
+Thailand,1998,508.0
+Thailand,1999,467.0
+Tajikistan,1970,4.39
+Tajikistan,1971,4.51
+Tajikistan,1972,4.63
+Tajikistan,1973,4.8
+Tajikistan,1974,4.94
+Tajikistan,1975,4.96
+Tajikistan,1976,5.09
+Tajikistan,1977,5.13
+Tajikistan,1978,5.11
+Tajikistan,1979,5.14
+Tajikistan,1980,4.79
+Tajikistan,1981,4.92
+Tajikistan,1982,4.75
+Tajikistan,1983,4.88
+Tajikistan,1984,6.01
+Tajikistan,1985,6.1
+Tajikistan,1986,5.86
+Tajikistan,1987,6.71
+Tajikistan,1988,6.03
+Tajikistan,1989,5.69
+Tajikistan,1990,5.74
+Tajikistan,1991,4.08
+Tajikistan,1992,3.54
+Tajikistan,1993,2.81
+Tajikistan,1994,2.65
+Tajikistan,1995,3.16
+Tajikistan,1996,2.31
+Tajikistan,1997,2.21
+Tajikistan,1998,2.25
+Tajikistan,1999,2.16
+Turkmenistan,1970,55.3
+Turkmenistan,1971,56.7
+Turkmenistan,1972,58.3
+Turkmenistan,1973,60.4
+Turkmenistan,1974,62.2
+Turkmenistan,1975,62.5
+Turkmenistan,1976,64
+Turkmenistan,1977,64.6
+Turkmenistan,1978,64.2
+Turkmenistan,1979,64.7
+Turkmenistan,1980,60.3
+Turkmenistan,1981,61.9
+Turkmenistan,1982,59.8
+Turkmenistan,1983,61.5
+Turkmenistan,1984,75.7
+Turkmenistan,1985,81.7
+Turkmenistan,1986,84.2
+Turkmenistan,1987,91.3
+Turkmenistan,1988,86.2
+Turkmenistan,1989,83.1
+Turkmenistan,1990,72.6
+Turkmenistan,1991,84
+Turkmenistan,1992,51.7
+Turkmenistan,1993,38.2
+Turkmenistan,1994,32.6
+Turkmenistan,1995,27.2
+Turkmenistan,1996,20.9
+Turkmenistan,1997,20.9
+Turkmenistan,1998,22.9
+Turkmenistan,1999,25.1
+Trinidad and Tobago,1970,126
+Trinidad and Tobago,1971,120
+Trinidad and Tobago,1972,116
+Trinidad and Tobago,1973,116
+Trinidad and Tobago,1974,72.4
+Trinidad and Tobago,1975,93.9
+Trinidad and Tobago,1976,82.8
+Trinidad and Tobago,1977,71.5
+Trinidad and Tobago,1978,69
+Trinidad and Tobago,1979,76.2
+Trinidad and Tobago,1980,66.7
+Trinidad and Tobago,1981,43.6
+Trinidad and Tobago,1982,12.2
+Trinidad and Tobago,1983,17.5
+Trinidad and Tobago,1984,17.6
+Trinidad and Tobago,1985,17.2
+Trinidad and Tobago,1986,18.4
+Trinidad and Tobago,1987,20.4
+Trinidad and Tobago,1988,20.9
+Trinidad and Tobago,1989,19.2
+Trinidad and Tobago,1990,20.5
+Trinidad and Tobago,1991,20.4
+Trinidad and Tobago,1992,17.9
+Trinidad and Tobago,1993,16.0
+Trinidad and Tobago,1994,14.9
+Trinidad and Tobago,1995,14.1
+Trinidad and Tobago,1996,12.5
+Trinidad and Tobago,1997,16.2
+Trinidad and Tobago,1998,15.9
+Trinidad and Tobago,1999,16.4
+Tunisia,1970,188
+Tunisia,1971,133
+Tunisia,1972,156
+Tunisia,1973,153
+Tunisia,1974,92.4
+Tunisia,1975,131
+Tunisia,1976,128
+Tunisia,1977,136
+Tunisia,1978,184
+Tunisia,1979,246
+Tunisia,1980,215
+Tunisia,1981,150
+Tunisia,1982,165
+Tunisia,1983,130
+Tunisia,1984,126
+Tunisia,1985,118
+Tunisia,1986,140
+Tunisia,1987,156
+Tunisia,1988,87.6
+Tunisia,1989,103
+Tunisia,1990,92.6
+Tunisia,1991,94.4
+Tunisia,1992,96.3
+Tunisia,1993,99.3
+Tunisia,1994,108.0
+Tunisia,1995,110.0
+Tunisia,1996,111
+Tunisia,1997,116
+Tunisia,1998,110.0
+Tunisia,1999,115.0
+Turkey,1970,175
+Turkey,1971,196
+Turkey,1972,207
+Turkey,1973,231
+Turkey,1974,235
+Turkey,1975,249
+Turkey,1976,262
+Turkey,1977,258
+Turkey,1978,330
+Turkey,1979,324
+Turkey,1980,364
+Turkey,1981,405
+Turkey,1982,439
+Turkey,1983,515
+Turkey,1984,662
+Turkey,1985,761
+Turkey,1986,789
+Turkey,1987,686
+Turkey,1988,859
+Turkey,1989,797
+Turkey,1990,808
+Turkey,1991,807
+Turkey,1992,804.0
+Turkey,1993,827.0
+Turkey,1994,886.0
+Turkey,1995,921.0
+Turkey,1996,1010
+Turkey,1997,1000
+Turkey,1998,930.0
+Turkey,1999,1030.0
+Taiwan,1970,92
+Taiwan,1971,94.4
+Taiwan,1972,97.6
+Taiwan,1973,95.1
+Taiwan,1974,89.2
+Taiwan,1975,115
+Taiwan,1976,128
+Taiwan,1977,148
+Taiwan,1978,153
+Taiwan,1979,201
+Taiwan,1980,195
+Taiwan,1981,184
+Taiwan,1982,179
+Taiwan,1983,188
+Taiwan,1984,202
+Taiwan,1985,212
+Taiwan,1986,217
+Taiwan,1987,238
+Taiwan,1988,252
+Taiwan,1989,252
+Taiwan,1990,245
+Taiwan,1991,253
+Taiwan,1992,244.0
+Taiwan,1993,258.0
+Taiwan,1994,227.0
+Taiwan,1995,191.0
+Taiwan,1996,174
+Taiwan,1997,178
+Taiwan,1998,177.0
+Taiwan,1999,188.0
+Tanzania,1970,67.3
+Tanzania,1971,53.4
+Tanzania,1972,64.1
+Tanzania,1973,54.1
+Tanzania,1974,51.1
+Tanzania,1975,49
+Tanzania,1976,50.3
+Tanzania,1977,57.7
+Tanzania,1978,48.4
+Tanzania,1979,50
+Tanzania,1980,48.7
+Tanzania,1981,46.1
+Tanzania,1982,42.1
+Tanzania,1983,41.3
+Tanzania,1984,40.3
+Tanzania,1985,50.1
+Tanzania,1986,50.7
+Tanzania,1987,50.3
+Tanzania,1988,51.7
+Tanzania,1989,51.4
+Tanzania,1990,53
+Tanzania,1991,52.6
+Tanzania,1992,53.9
+Tanzania,1993,54.4
+Tanzania,1994,52.6
+Tanzania,1995,54.2
+Tanzania,1996,54.6
+Tanzania,1997,60.5
+Tanzania,1998,62.9
+Tanzania,1999,58.3
+Uganda,1970,15.3
+Uganda,1971,15.6
+Uganda,1972,16.9
+Uganda,1973,18
+Uganda,1974,16.3
+Uganda,1975,16
+Uganda,1976,17.2
+Uganda,1977,17.1
+Uganda,1978,17.9
+Uganda,1979,19.1
+Uganda,1980,18.9
+Uganda,1981,18.3
+Uganda,1982,17.2
+Uganda,1983,17.5
+Uganda,1984,17.4
+Uganda,1985,17.5
+Uganda,1986,17.7
+Uganda,1987,18.2
+Uganda,1988,18.5
+Uganda,1989,18.8
+Uganda,1990,19.3
+Uganda,1991,19.7
+Uganda,1992,20.0
+Uganda,1993,20.3
+Uganda,1994,20.6
+Uganda,1995,20.8
+Uganda,1996,21.1
+Uganda,1997,21.4
+Uganda,1998,21.7
+Uganda,1999,22.1
+Ukraine,1970,1650
+Ukraine,1971,1690
+Ukraine,1972,1730
+Ukraine,1973,1800
+Ukraine,1974,1850
+Ukraine,1975,1860
+Ukraine,1976,1900
+Ukraine,1977,1920
+Ukraine,1978,1910
+Ukraine,1979,1920
+Ukraine,1980,1750
+Ukraine,1981,1710
+Ukraine,1982,1750
+Ukraine,1983,1740
+Ukraine,1984,1730
+Ukraine,1985,1700
+Ukraine,1986,1630
+Ukraine,1987,1610
+Ukraine,1988,1540
+Ukraine,1989,1890
+Ukraine,1990,1270
+Ukraine,1991,1190
+Ukraine,1992,1100.0
+Ukraine,1993,858.0
+Ukraine,1994,820.0
+Ukraine,1995,647.0
+Ukraine,1996,566
+Ukraine,1997,512
+Ukraine,1998,515.0
+Ukraine,1999,515.0
+Uruguay,1970,43.9
+Uruguay,1971,37.9
+Uruguay,1972,42
+Uruguay,1973,46.8
+Uruguay,1974,48.3
+Uruguay,1975,42.1
+Uruguay,1976,46.9
+Uruguay,1977,49.8
+Uruguay,1978,39.6
+Uruguay,1979,49.7
+Uruguay,1980,43.8
+Uruguay,1981,38.7
+Uruguay,1982,24.3
+Uruguay,1983,24.9
+Uruguay,1984,20.4
+Uruguay,1985,25.6
+Uruguay,1986,22.6
+Uruguay,1987,22.4
+Uruguay,1988,21
+Uruguay,1989,21
+Uruguay,1990,35
+Uruguay,1991,53.6
+Uruguay,1992,34.0
+Uruguay,1993,16.5
+Uruguay,1994,79.6
+Uruguay,1995,61.0
+Uruguay,1996,33.7
+Uruguay,1997,27
+Uruguay,1998,14.7
+Uruguay,1999,12.0
+United States,1970,13.5k
+United States,1971,13.8k
+United States,1972,14.4k
+United States,1973,13.7k
+United States,1974,12.7k
+United States,1975,12.9k
+United States,1976,13k
+United States,1977,12.2k
+United States,1978,12.2k
+United States,1979,11.8k
+United States,1980,11.2k
+United States,1981,10.5k
+United States,1982,10.3k
+United States,1983,10.7k
+United States,1984,10.6k
+United States,1985,10.2k
+United States,1986,10.1k
+United States,1987,10.3k
+United States,1988,10.4k
+United States,1989,10.5k
+United States,1990,10.2k
+United States,1991,10k
+United States,1992,9880.0
+United States,1993,9690.0
+United States,1994,8450.0
+United States,1995,8350.0
+United States,1996,8550
+United States,1997,8600
+United States,1998,7970.0
+United States,1999,7420.0
+Uzbekistan,1970,205
+Uzbekistan,1971,211
+Uzbekistan,1972,216
+Uzbekistan,1973,224
+Uzbekistan,1974,231
+Uzbekistan,1975,232
+Uzbekistan,1976,237
+Uzbekistan,1977,240
+Uzbekistan,1978,238
+Uzbekistan,1979,240
+Uzbekistan,1980,224
+Uzbekistan,1981,230
+Uzbekistan,1982,222
+Uzbekistan,1983,228
+Uzbekistan,1984,281
+Uzbekistan,1985,303
+Uzbekistan,1986,312
+Uzbekistan,1987,326
+Uzbekistan,1988,319
+Uzbekistan,1989,285
+Uzbekistan,1990,196
+Uzbekistan,1991,164
+Uzbekistan,1992,156.0
+Uzbekistan,1993,138.0
+Uzbekistan,1994,120.0
+Uzbekistan,1995,125.0
+Uzbekistan,1996,118
+Uzbekistan,1997,125
+Uzbekistan,1998,122.0
+Uzbekistan,1999,116.0
+Venezuela,1970,409
+Venezuela,1971,346
+Venezuela,1972,396
+Venezuela,1973,421
+Venezuela,1974,302
+Venezuela,1975,297
+Venezuela,1976,327
+Venezuela,1977,314
+Venezuela,1978,325
+Venezuela,1979,330
+Venezuela,1980,304
+Venezuela,1981,274
+Venezuela,1982,243
+Venezuela,1983,244
+Venezuela,1984,256
+Venezuela,1985,246
+Venezuela,1986,243
+Venezuela,1987,276
+Venezuela,1988,270
+Venezuela,1989,264
+Venezuela,1990,283
+Venezuela,1991,278
+Venezuela,1992,267.0
+Venezuela,1993,304.0
+Venezuela,1994,295.0
+Venezuela,1995,332.0
+Venezuela,1996,320
+Venezuela,1997,321
+Venezuela,1998,314.0
+Venezuela,1999,371.0
+Virgin Islands (U.S.),1970,103
+Virgin Islands (U.S.),1971,104
+Virgin Islands (U.S.),1972,141
+Virgin Islands (U.S.),1973,149
+Virgin Islands (U.S.),1974,148
+Virgin Islands (U.S.),1975,150
+Virgin Islands (U.S.),1976,170
+Virgin Islands (U.S.),1977,169
+Virgin Islands (U.S.),1978,157
+Virgin Islands (U.S.),1979,175
+Virgin Islands (U.S.),1980,139
+Virgin Islands (U.S.),1981,111
+Virgin Islands (U.S.),1982,76.3
+Virgin Islands (U.S.),1983,76.5
+Virgin Islands (U.S.),1984,63.1
+Virgin Islands (U.S.),1985,61.4
+Virgin Islands (U.S.),1986,75.8
+Virgin Islands (U.S.),1987,65
+Virgin Islands (U.S.),1988,80.1
+Virgin Islands (U.S.),1989,74.7
+Virgin Islands (U.S.),1990,78.4
+Virgin Islands (U.S.),1991,82.3
+Virgin Islands (U.S.),1992,86.4
+Virgin Islands (U.S.),1993,90.7
+Virgin Islands (U.S.),1994,95.2
+Virgin Islands (U.S.),1995,99.9
+Virgin Islands (U.S.),1996,105
+Virgin Islands (U.S.),1997,110
+Virgin Islands (U.S.),1998,116.0
+Virgin Islands (U.S.),1999,121.0
+Vietnam,1970,23.7
+Vietnam,1971,18.1
+Vietnam,1972,25.2
+Vietnam,1973,30.1
+Vietnam,1974,41.7
+Vietnam,1975,43.9
+Vietnam,1976,47.9
+Vietnam,1977,46.4
+Vietnam,1978,48.1
+Vietnam,1979,48.5
+Vietnam,1980,48.4
+Vietnam,1981,49.4
+Vietnam,1982,51.1
+Vietnam,1983,43.5
+Vietnam,1984,46.2
+Vietnam,1985,52
+Vietnam,1986,56.6
+Vietnam,1987,58
+Vietnam,1988,54.1
+Vietnam,1989,56.5
+Vietnam,1990,57
+Vietnam,1991,67.5
+Vietnam,1992,67.1
+Vietnam,1993,68.2
+Vietnam,1994,66.5
+Vietnam,1995,111.0
+Vietnam,1996,137
+Vietnam,1997,111
+Vietnam,1998,96.0
+Vietnam,1999,88.8
+Yemen,1970,21.5
+Yemen,1971,18.7
+Yemen,1972,17.4
+Yemen,1973,16.5
+Yemen,1974,9.27
+Yemen,1975,8.78
+Yemen,1976,11.5
+Yemen,1977,11
+Yemen,1978,11.4
+Yemen,1979,17.6
+Yemen,1980,15.6
+Yemen,1981,18.3
+Yemen,1982,16.5
+Yemen,1983,16.2
+Yemen,1984,15.9
+Yemen,1985,16.2
+Yemen,1986,17.3
+Yemen,1987,17.2
+Yemen,1988,16
+Yemen,1989,17
+Yemen,1990,16.3
+Yemen,1991,21
+Yemen,1992,16.6
+Yemen,1993,15.8
+Yemen,1994,18.3
+Yemen,1995,23.3
+Yemen,1996,27
+Yemen,1997,27.7
+Yemen,1998,30.2
+Yemen,1999,33.5
+South Africa,1970,583
+South Africa,1971,590
+South Africa,1972,639
+South Africa,1973,671
+South Africa,1974,696
+South Africa,1975,759
+South Africa,1976,849
+South Africa,1977,875
+South Africa,1978,982
+South Africa,1979,1070
+South Africa,1980,1210
+South Africa,1981,1230
+South Africa,1982,1290
+South Africa,1983,1440
+South Africa,1984,1530
+South Africa,1985,1530
+South Africa,1986,1550
+South Africa,1987,1550
+South Africa,1988,1520
+South Africa,1989,1520
+South Africa,1990,1550
+South Africa,1991,1410
+South Africa,1992,1530.0
+South Africa,1993,1560.0
+South Africa,1994,1620.0
+South Africa,1995,1590.0
+South Africa,1996,1650
+South Africa,1997,1560
+South Africa,1998,1570.0
+South Africa,1999,1540.0
+Zambia,1970,670
+Zambia,1971,741
+Zambia,1972,802
+Zambia,1973,887
+Zambia,1974,742
+Zambia,1975,745
+Zambia,1976,769
+Zambia,1977,745
+Zambia,1978,676
+Zambia,1979,759
+Zambia,1980,708
+Zambia,1981,680
+Zambia,1982,661
+Zambia,1983,580
+Zambia,1984,544
+Zambia,1985,529
+Zambia,1986,536
+Zambia,1987,502
+Zambia,1988,542
+Zambia,1989,505
+Zambia,1990,497
+Zambia,1991,569
+Zambia,1992,559.0
+Zambia,1993,391.0
+Zambia,1994,383.0
+Zambia,1995,415.0
+Zambia,1996,450
+Zambia,1997,479
+Zambia,1998,459.0
+Zambia,1999,431.0
+Zimbabwe,1970,66
+Zimbabwe,1971,61.2
+Zimbabwe,1972,70.1
+Zimbabwe,1973,70.4
+Zimbabwe,1974,64.8
+Zimbabwe,1975,68.2
+Zimbabwe,1976,65.3
+Zimbabwe,1977,61.2
+Zimbabwe,1978,64
+Zimbabwe,1979,69.6
+Zimbabwe,1980,63.4
+Zimbabwe,1981,58.4
+Zimbabwe,1982,54.5
+Zimbabwe,1983,58.2
+Zimbabwe,1984,60.2
+Zimbabwe,1985,69.8
+Zimbabwe,1986,86.7
+Zimbabwe,1987,79.3
+Zimbabwe,1988,81.9
+Zimbabwe,1989,81.9
+Zimbabwe,1990,96.7
+Zimbabwe,1991,105
+Zimbabwe,1992,90.5
+Zimbabwe,1993,85.3
+Zimbabwe,1994,80.6
+Zimbabwe,1995,76.8
+Zimbabwe,1996,71.8
+Zimbabwe,1997,76.6
+Zimbabwe,1998,85.0
+Zimbabwe,1999,84.0
