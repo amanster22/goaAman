@@ -1,5 +1,4 @@
-country,Year,particulateMatter
-Africa Eastern and Southern,2017,35.51298818
+Country,Year,ParticulateMatter
 Afghanistan,2017,56.91080835
 Africa Western and Central,2017,58.06448224
 Angola,2017,32.38850491
@@ -21,7 +20,6 @@ Burkina Faso,2017,42.93559251
 Bangladesh,2017,60.84578458
 Bulgaria,2017,19.14913234
 Bahrain,2017,70.81620768
-"Bahamas, The",2017,17.36772049
 Bosnia and Herzegovina,2017,27.74766896
 Belarus,2017,18.76557991
 Belize,2017,23.01189211
@@ -40,8 +38,6 @@ Chile,2017,21.03629906
 China,2017,52.66459583
 Cote d'Ivoire,2017,25.88626634
 Cameroon,2017,72.79309622
-"Congo, Dem. Rep.",2017,44.9092636
-"Congo, Rep.",2017,46.63822028
 Colombia,2017,16.52721022
 Comoros,2017,20.5468246
 Cabo Verde,2017,34.7787001
@@ -62,7 +58,6 @@ East Asia & Pacific,2017,39.75027353
 Europe & Central Asia (excluding high income),2017,24.45033917
 Europe & Central Asia,2017,18.08359987
 Ecuador,2017,14.88610066
-"Egypt, Arab Rep.",2017,86.99945205
 Euro area,2017,12.52500117
 Eritrea,2017,48.03019868
 Spain,2017,9.697927863
@@ -73,7 +68,6 @@ Fragile and conflict affected situations,2017,50.05308053
 Finland,2017,5.861331001
 Fiji,2017,10.8401599
 France,2017,11.81496362
-"Micronesia, Fed. Sts.",2017,11.28339944
 Gabon,2017,44.38554846
 United Kingdom,2017,10.47269039
 Georgia,2017,22.19605462
@@ -102,7 +96,6 @@ Indonesia,2017,16.5026533
 IDA only,2017,44.34911151
 India,2017,90.87321047
 Ireland,2017,8.208576735
-"Iran, Islamic Rep.",2017,38.97876028
 Iraq,2017,61.63623571
 Iceland,2017,6.4811472629999995
 Israel,2017,21.38110224
@@ -115,7 +108,6 @@ Kenya,2017,28.57837427
 Kyrgyz Republic,2017,22.73776806
 Cambodia,2017,25.61429187
 Kiribati,2017,10.64085586
-"Korea, Rep.",2017,25.03942539
 Kuwait,2017,60.74515954
 Latin America & Caribbean (excluding high income),2017,16.62660802
 Lao PDR,2017,25.10953834
@@ -231,13 +223,11 @@ Uruguay,2017,9.27488332
 United States,2017,7.409441662000001
 Uzbekistan,2017,28.4559012
 St. Vincent and the Grenadines,2017,22.20051632
-"Venezuela, RB",2017,17.00855357
 Virgin Islands (U.S.),2017,10.26531228
 Vietnam,2017,29.62672834
 Vanuatu,2017,11.65277703
 World,2017,45.52855865
 Samoa,2017,11.54802701
-"Yemen, Rep.",2017,50.45600689
 South Africa,2017,25.10220499
 Zambia,2017,27.43803476
 Zimbabwe,2017,22.25167109
