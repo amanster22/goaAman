@@ -1,185 +1,183 @@
-country,Year,lifeExpectancy
+Country,Year,lifeExpectancy
 Afghanistan,2021,64.3
-Angola,2021,66.1
 Albania,2021,78.8
-United Arab Emirates,2021,74.3
+Algeria,2021,76.7
+Angola,2021,66.1
+Antigua and Barbuda,2021,76.7
 Argentina,2021,77
 Armenia,2021,76.1
-Antigua and Barbuda,2021,76.7
 Australia,2021,83.3
 Austria,2021,82.6
 Azerbaijan,2021,71.3
-Burundi,2021,64.9
-Belgium,2021,81.9
-Benin,2021,65.5
-Burkina Faso,2021,62.9
-Bangladesh,2021,75.4
-Bulgaria,2021,73.7
-Bahrain,2021,77.4
 Bahamas,2021,73.7
-Bosnia and Herzegovina,2021,77.4
-Belarus,2021,74.4
-Belize,2021,74.9
-Bolivia,2021,72.8
-Brazil,2021,76.4
+Bahrain,2021,77.4
+Bangladesh,2021,75.4
 Barbados,2021,76.6
-Brunei,2021,74.8
+Belarus,2021,74.4
+Belgium,2021,81.9
+Belize,2021,74.9
+Benin,2021,65.5
 Bhutan,2021,74.1
+Bolivia,2021,72.8
+Bosnia and Herzegovina,2021,77.4
 Botswana,2021,62.6
-Central African Republic,2021,53.4
+Brazil,2021,76.4
+Brunei,2021,74.8
+Bulgaria,2021,73.7
+Burkina Faso,2021,62.9
+Burundi,2021,64.9
+Cambodia,2021,70.5
+Cameroon,2021,64.3
 Canada,2021,82.6
-Switzerland,2021,84.4
+Cape Verde,2021,74.3
+Central African Republic,2021,53.4
+Chad,2021,61.3
 Chile,2021,80.6
 China,2021,78.1
-Cote d'Ivoire,2021,65.2
-Cameroon,2021,64.3
 Colombia,2021,80.7
 Comoros,2021,69.4
-Cape Verde,2021,74.3
 Costa Rica,2021,80.6
+Cote d'Ivoire,2021,65.2
+Croatia,2021,79.1
 Cuba,2021,79
 Cyprus,2021,81.3
 Czech Republic,2021,79.9
-Germany,2021,81.7
-Djibouti,2021,67.7
 Denmark,2021,81.5
+Djibouti,2021,67.7
 Dominican Republic,2021,73.7
-Algeria,2021,76.7
 Ecuador,2021,77
 Egypt,2021,71.4
-Eritrea,2021,64.8
-Spain,2021,83.5
-Estonia,2021,78.5
-Ethiopia,2021,69.9
-Finland,2021,82.4
-Fiji,2021,68.8
-France,2021,83.3
-"Micronesia, Fed. Sts.",2021,64.5
-Gabon,2021,68.4
-United Kingdom,2021,81.4
-Georgia,2021,73.8
-Ghana,2021,67.1
-Guinea,2021,62.2
-Gambia,2021,67.8
-Guinea-Bissau,2021,61.9
+El Salvador,2021,76.4
 Equatorial Guinea,2021,67
+Eritrea,2021,64.8
+Estonia,2021,78.5
+Eswatini,2021,59.3
+Ethiopia,2021,69.9
+Fiji,2021,68.8
+Finland,2021,82.4
+France,2021,83.3
+Gabon,2021,68.4
+Gambia,2021,67.8
+Georgia,2021,73.8
+Germany,2021,81.7
+Ghana,2021,67.1
 Greece,2021,81.4
 Grenada,2021,73.5
 Guatemala,2021,73.2
+Guinea,2021,62.2
+Guinea-Bissau,2021,61.9
 Guyana,2021,67.6
-"Hong Kong, China",2021,84.8
-Honduras,2021,72.6
-Croatia,2021,79.1
 Haiti,2021,64.7
+Honduras,2021,72.6
 Hungary,2021,77
-Indonesia,2021,71.9
+Iceland,2021,84.5
 India,2021,71.5
-Ireland,2021,82.5
+Indonesia,2021,71.9
 Iran,2021,78.3
 Iraq,2021,73.7
-Iceland,2021,84.5
+Ireland,2021,82.5
 Israel,2021,83.5
 Italy,2021,83.5
 Jamaica,2021,76.6
-Jordan,2021,78.7
 Japan,2021,85.2
+Jordan,2021,78.7
 Kazakhstan,2021,72.3
 Kenya,2021,67.3
-Kyrgyz Republic,2021,73.9
-Cambodia,2021,70.5
 Kiribati,2021,61.4
-South Korea,2021,83.3
 Kuwait,2021,81.8
+Kyrgyz Republic,2021,73.9
 Lao,2021,69.8
+Latvia,2021,76.3
 Lebanon,2021,76.9
+Lesotho,2021,53
 Liberia,2021,67
 Libya,2021,76.4
-St. Lucia,2021,75.5
-Sri Lanka,2021,77.8
-Lesotho,2021,53
 Lithuania,2021,76.7
 Luxembourg,2021,83.4
-Latvia,2021,76.3
-Morocco,2021,74
-Moldova,2021,74.7
 Madagascar,2021,66.5
-Maldives,2021,79.9
-Mexico,2021,75.9
-North Macedonia,2021,74.8
-Mali,2021,63
-Malta,2021,83
-Myanmar,2021,70.1
-Montenegro,2021,76.3
-Mongolia,2021,68.6
-Mozambique,2021,59.6
-Mauritania,2021,71.4
-Mauritius,2021,75.9
 Malawi,2021,66
 Malaysia,2021,75.5
+Maldives,2021,79.9
+Mali,2021,63
+Malta,2021,83
+Mauritania,2021,71.4
+Mauritius,2021,75.9
+Mexico,2021,75.9
+Moldova,2021,74.7
+Mongolia,2021,68.6
+Montenegro,2021,76.3
+Morocco,2021,74
+Mozambique,2021,59.6
+Myanmar,2021,70.1
 Namibia,2021,66.3
+Nepal,2021,71.9
+Netherlands,2021,82.2
+New Zealand,2021,82.2
+Nicaragua,2021,76
 Niger,2021,63.6
 Nigeria,2021,65.5
-Nicaragua,2021,76
-Netherlands,2021,82.2
+North Korea,2021,73.7
+North Macedonia,2021,74.8
 Norway,2021,83.4
-Nepal,2021,71.9
-New Zealand,2021,82.2
 Oman,2021,74.6
 Pakistan,2021,66.3
+Palestine,2021,75.3
 Panama,2021,80.6
+Papua New Guinea,2021,65.3
+Paraguay,2021,76.9
 Peru,2021,80.9
 Philippines,2021,72.2
-Papua New Guinea,2021,65.3
 Poland,2021,78.6
-North Korea,2021,73.7
 Portugal,2021,82.2
-Paraguay,2021,76.9
-Palestine,2021,75.3
 Qatar,2021,76.7
 Romania,2021,75.9
 Russia,2021,73.4
 Rwanda,2021,69.5
-Saudi Arabia,2021,75
-Sudan,2021,71.2
-Senegal,2021,69.3
-Singapore,2021,85.3
-Solomon Islands,2021,59.5
-Sierra Leone,2021,63
-El Salvador,2021,76.4
-Somalia,2021,59.4
-Serbia,2021,76.1
-South Sudan,2021,64.6
+Samoa,2021,70.8
 Sao Tome and Principe,2021,71.5
-Suriname,2021,73.1
+Saudi Arabia,2021,75
+Senegal,2021,69.3
+Serbia,2021,76.1
+Seychelles,2021,73.8
+Sierra Leone,2021,63
+Singapore,2021,85.3
 Slovak Republic,2021,78
 Slovenia,2021,81.9
+Solomon Islands,2021,59.5
+Somalia,2021,59.4
+South Africa,2021,65.9
+South Korea,2021,83.3
+South Sudan,2021,64.6
+Spain,2021,83.5
+Sri Lanka,2021,77.8
+St. Lucia,2021,75.5
+St. Vincent and the Grenadines,2021,73.3
+Sudan,2021,71.2
+Suriname,2021,73.1
 Sweden,2021,83.3
-Eswatini,2021,59.3
-Seychelles,2021,73.8
+Switzerland,2021,84.4
 Syria,2021,76.7
-Chad,2021,61.3
-Togo,2021,66
-Thailand,2021,79
+Taiwan,2021,80.8
 Tajikistan,2021,70.1
-Turkmenistan,2021,71.2
+Tanzania,2021,68.1
+Thailand,2021,79
 Timor-Leste,2021,71.2
+Togo,2021,66
 Tonga,2021,73.3
 Trinidad and Tobago,2021,75.2
 Tunisia,2021,78.3
 Turkey,2021,79.1
-Taiwan,2021,80.8
-Tanzania,2021,68.1
+Turkmenistan,2021,71.2
 Uganda,2021,67.2
 Ukraine,2021,74.2
-Uruguay,2021,78
+United Arab Emirates,2021,74.3
+United Kingdom,2021,81.4
 United States,2021,79.1
+Uruguay,2021,78
 Uzbekistan,2021,68.7
-St. Vincent and the Grenadines,2021,73.3
+Vanuatu,2021,65.9
 Venezuela,2021,75.3
 Vietnam,2021,74.8
-Vanuatu,2021,65.9
-Samoa,2021,70.8
 Yemen,2021,68
-South Africa,2021,65.9
 Zambia,2021,64
 Zimbabwe,2021,61.7
