@@ -1,10 +1,8 @@
 Country,Year,ParticulateMatter
 Afghanistan,2017,56.91080835
-Africa Western and Central,2017,58.06448224
 Angola,2017,32.38850491
 Albania,2017,18.20060252
 Andorra,2017,10.30762139
-Arab World,2017,58.68747494
 United Arab Emirates,2017,40.91750982
 Argentina,2017,13.31183395
 Armenia,2017,32.52811834
@@ -20,7 +18,6 @@ Burkina Faso,2017,42.93559251
 Bangladesh,2017,60.84578458
 Bulgaria,2017,19.14913234
 Bahrain,2017,70.81620768
-Bosnia and Herzegovina,2017,27.74766896
 Belarus,2017,18.76557991
 Belize,2017,23.01189211
 Bermuda,2017,11.64635919
@@ -32,17 +29,14 @@ Bhutan,2017,37.9265032
 Botswana,2017,23.09438618
 Central African Republic,2017,56.82849738
 Canada,2017,6.428383133
-Central Europe and the Baltics,2017,17.63329211
 Switzerland,2017,10.303100099999998
 Chile,2017,21.03629906
 China,2017,52.66459583
-Cote d'Ivoire,2017,25.88626634
 Cameroon,2017,72.79309622
 Colombia,2017,16.52721022
 Comoros,2017,20.5468246
 Cabo Verde,2017,34.7787001
 Costa Rica,2017,15.7259203
-Caribbean small states,2017,19.00983168
 Cuba,2017,19.7060474
 Cyprus,2017,17.2944062
 Czech Republic,2017,16.07124535
@@ -52,19 +46,11 @@ Dominica,2017,19.49315376
 Denmark,2017,10.02965344
 Dominican Republic,2017,13.72632115
 Algeria,2017,38.884010700000005
-East Asia & Pacific (excluding high income),2017,42.53938939
-Early-demographic dividend,2017,60.36830737
-East Asia & Pacific,2017,39.75027353
-Europe & Central Asia (excluding high income),2017,24.45033917
-Europe & Central Asia,2017,18.08359987
 Ecuador,2017,14.88610066
-Euro area,2017,12.52500117
 Eritrea,2017,48.03019868
 Spain,2017,9.697927863
 Estonia,2017,6.732124015
 Ethiopia,2017,38.97873776
-European Union,2017,13.46590686
-Fragile and conflict affected situations,2017,50.05308053
 Finland,2017,5.861331001
 Fiji,2017,10.8401599
 France,2017,11.81496362
@@ -73,7 +59,6 @@ United Kingdom,2017,10.47269039
 Georgia,2017,22.19605462
 Ghana,2017,34.7135141
 Guinea,2017,26.0624902
-"Gambia, The",2017,33.98263855
 Guinea-Bissau,2017,29.77470228
 Equatorial Guinea,2017,53.24062104
 Greece,2017,16.21826638
@@ -82,18 +67,11 @@ Greenland,2017,11.60217946
 Guatemala,2017,24.07064893
 Guam,2017,11.63440681
 Guyana,2017,22.37557463
-High income,2017,14.693316399999999
 Honduras,2017,20.62885065
-Heavily indebted poor countries (HIPC),2017,40.71816288
 Croatia,2017,17.90177229
 Haiti,2017,15.01982438
 Hungary,2017,15.92604819
-IBRD only,2017,52.02136738
-IDA & IBRD total,2017,51.17443449
-IDA total,2017,48.66030982
-IDA blend,2017,57.16109317
 Indonesia,2017,16.5026533
-IDA only,2017,44.34911151
 India,2017,90.87321047
 Ireland,2017,8.208576735
 Iraq,2017,61.63623571
@@ -109,20 +87,13 @@ Kyrgyz Republic,2017,22.73776806
 Cambodia,2017,25.61429187
 Kiribati,2017,10.64085586
 Kuwait,2017,60.74515954
-Latin America & Caribbean (excluding high income),2017,16.62660802
 Lao PDR,2017,25.10953834
 Lebanon,2017,30.62111051
 Liberia,2017,17.98411246
 Libya,2017,54.25468179
 St. Lucia,2017,22.40081712
-Latin America & Caribbean,2017,16.70843563
-Least developed countries: UN classification,2017,45.2788367
-Low income,2017,43.30572396
 Sri Lanka,2017,11.09961724
-Lower middle income,2017,62.62095255
-Low & middle income,2017,51.51055614
 Lesotho,2017,28.02865352
-Late-demographic dividend,2017,40.00834414
 Lithuania,2017,11.85328236
 Luxembourg,2017,10.364637400000001
 Latvia,2017,13.42645752
@@ -133,12 +104,10 @@ Maldives,2017,7.7958207989999995
 Middle East & North Africa,2017,55.66796618
 Mexico,2017,20.92111579
 Marshall Islands,2017,10.24133222
-Middle income,2017,52.40155303
 North Macedonia,2017,29.72694451
 Mali,2017,38.52660616
 Malta,2017,13.90954337
 Myanmar,2017,35.55745292
-Middle East & North Africa (excluding high income),2017,53.85619423
 Montenegro,2017,20.78181355
 Mongolia,2017,40.11284905
 Northern Mariana Islands,2017,9.892981128999999
@@ -147,7 +116,6 @@ Mauritania,2017,47.42299178
 Mauritius,2017,14.45782732
 Malawi,2017,23.56592147
 Malaysia,2017,16.03580871
-North America,2017,7.3110745889999995
 Namibia,2017,25.3587654
 Niger,2017,94.05381768
 Nigeria,2017,71.79817438
@@ -156,26 +124,19 @@ Netherlands,2017,12.03440807
 Norway,2017,6.956519803
 Nepal,2017,99.73437372
 New Zealand,2017,5.956001129
-OECD members,2017,14.534719899999999
 Oman,2017,41.11523827
-Other small states,2017,34.75438881
 Pakistan,2017,58.28241877
 Panama,2017,11.40005433
 Peru,2017,24.78672805
 Philippines,2017,18.06979891
 Papua New Guinea,2017,12.29441826
 Poland,2017,20.87782222
-Pre-demographic dividend,2017,48.63566273
 Puerto Rico,2017,8.349033339
-"Korea, Dem. People's Rep.",2017,32.00745162
 Portugal,2017,8.160752248
 Paraguay,2017,11.90908085
-West Bank and Gaza,2017,33.22563038
-Pacific island small states,2017,11.26764077
-Post-demographic dividend,2017,11.59246628
 Qatar,2017,91.18732793
 Romania,2017,14.61134019
-Russian Federation,2017,16.16022381
+Russia,2017,16.16022381
 Rwanda,2017,43.21021716
 South Asia,2017,82.86934534
 Saudi Arabia,2017,87.94544668
@@ -187,10 +148,7 @@ Sierra Leone,2017,21.62594668
 El Salvador,2017,24.47229229
 Somalia,2017,32.03458423
 Serbia,2017,24.72635819
-Sub-Saharan Africa (excluding high income),2017,44.61537407
 South Sudan,2017,45.57750557
-Sub-Saharan Africa,2017,44.61314386
-Small states,2017,30.47224793
 Sao Tome and Principe,2017,28.53958436
 Suriname,2017,24.78001054
 Slovak Republic,2017,17.56291134
@@ -200,33 +158,23 @@ Eswatini,2017,17.16878731
 Seychelles,2017,20.17864936
 Syrian Arab Republic,2017,43.75725947
 Chad,2017,66.0292055
-East Asia & Pacific (IDA & IBRD countries),2017,42.67132431
-Europe & Central Asia (IDA & IBRD countries),2017,24.09296877
 Togo,2017,35.73133561
 Thailand,2017,26.25672656
 Tajikistan,2017,46.15218537
 Turkmenistan,2017,21.76772098
-Latin America & the Caribbean (IDA & IBRD countries),2017,16.6961862
 Timor-Leste,2017,19.25720917
-Middle East & North Africa (IDA & IBRD countries),2017,54.10316232
 Tonga,2017,10.78547886
-South Asia (IDA & IBRD),2017,82.86934534
-Sub-Saharan Africa (IDA & IBRD countries),2017,44.61314386
 Trinidad and Tobago,2017,24.10856843
 Tunisia,2017,37.65599375
 Turkey,2017,44.31152568
 Tanzania,2017,29.07664051
 Uganda,2017,50.49432132
 Ukraine,2017,20.30977582
-Upper middle income,2017,39.17622406
 Uruguay,2017,9.27488332
 United States,2017,7.409441662000001
 Uzbekistan,2017,28.4559012
-St. Vincent and the Grenadines,2017,22.20051632
-Virgin Islands (U.S.),2017,10.26531228
 Vietnam,2017,29.62672834
 Vanuatu,2017,11.65277703
-World,2017,45.52855865
 Samoa,2017,11.54802701
 South Africa,2017,25.10220499
 Zambia,2017,27.43803476
